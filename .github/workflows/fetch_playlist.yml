@@ -35,6 +35,6 @@ jobs:
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-        git add playlist.json full_playlist.json
-        git commit -m 'Update playlist.json and full_playlist.json'
+        git add playlist.json full_playlist.json album/
+        git commit -m 'Update playlist.json, full_playlist.json and album covers'
         git push https://x-access-token:${{ secrets.PERSONAL_ACCESS_TOKEN }}@github.com/${{ github.repository }}.git

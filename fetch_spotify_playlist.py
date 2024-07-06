@@ -38,10 +38,21 @@ def convert_to_simplified_chinese(text):
     cc = OpenCC('t2s')
     return cc.convert(text)
 
+def download_image(url, path):
+    response = requests.get(url, stream=True)
+    if response.status_code == 200:
+        with open(path, 'wb') as file:
+            for chunk in response.iter_content(1024):
+                file.write(chunk)
+
 def main():
     client_id = os.getenv('SPOTIFY_CLIENT_ID')
     client_secret = os.getenv('SPOTIFY_CLIENT_SECRET')
     playlist_id = '44k9yc7Q1M2otYb6pdfxfg'
+    album_dir = 'album'
+
+    if not os.path.exists(album_dir):
+        os.makedirs(album_dir)
 
     access_token = get_access_token(client_id, client_secret)
     playlist_data = fetch_playlist(playlist_id, access_token)
@@ -54,6 +65,14 @@ def main():
         added_at = item['added_at']
         song_name = convert_to_simplified_chinese(track['name'])
         singer_name = convert_to_simplified_chinese(', '.join([artist['name'] for artist in track['artists']]))
+        album = track['album']
+        album_name = convert_to_simplified_chinese(album['name'])
+        album_cover_url = album['images'][0]['url'] if album['images'] else ''
+        album_cover_path = os.path.join(album_dir, f"{album['id']}.jpg")
+
+        # Download album cover if it doesn't already exist
+        if album_cover_url and not os.path.exists(album_cover_path):
+            download_image(album_cover_url, album_cover_path)
 
         # 构造简化歌曲信息
         song_info = {
@@ -68,7 +87,9 @@ def main():
             'song_name': song_name,
             'singer_name': singer_name,
             'added_at': added_at,
-            'album_name': track['album']['name'],
+            'album_name': album_name,
+            'album_cover_url': album_cover_url,
+            'album_cover_path': album_cover_path,
             'track_duration_ms': track['duration_ms'],
             'popularity': track['popularity'],
             'track_url': track['external_urls']['spotify']
