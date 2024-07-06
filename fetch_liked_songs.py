@@ -27,7 +27,7 @@ def get_access_token():
     if 'access_token' in response_json:
         return response_json['access_token']
     else:
-        raise Exception("Failed to obtain access token")
+        raise Exception(f"Failed to obtain access token: {response_json}")
 
 def fetch_liked_songs(access_token):
     url = 'https://api.spotify.com/v1/me/tracks?limit=50'
