@@ -20,13 +20,19 @@ def get_access_token(client_id, client_secret):
     return response_data['access_token']
 
 def fetch_playlist(playlist_id, access_token):
-    playlist_url = f'https://api.spotify.com/v1/playlists/{playlist_id}'
+    songs_list = []
+    next_url = f'https://api.spotify.com/v1/playlists/{playlist_id}/tracks?limit=100'
     headers = {
         'Authorization': f'Bearer {access_token}'
     }
 
-    response = requests.get(playlist_url, headers=headers)
-    return response.json()
+    while next_url:
+        response = requests.get(next_url, headers=headers)
+        data = response.json()
+        songs_list.extend(data['items'])
+        next_url = data['next']
+
+    return songs_list
 
 def convert_to_simplified_chinese(text):
     cc = OpenCC('t2s')
@@ -41,7 +47,7 @@ def main():
     playlist_data = fetch_playlist(playlist_id, access_token)
 
     songs_list = []
-    for item in playlist_data['tracks']['items']:
+    for item in playlist_data:
         track = item['track']
         added_at = item['added_at']
         song_name = convert_to_simplified_chinese(track['name'])
