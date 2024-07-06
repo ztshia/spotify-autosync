@@ -2,7 +2,7 @@ name: Fetch Liked Songs
 
 on:
   schedule:
-    - cron: '*/5 * * * *'  # 每天运行一次
+    - cron: '0 0 * * *'  # 每天运行一次
   push:
     branches:
       - main
@@ -35,7 +35,7 @@ jobs:
 
     - name: Display file content for debug
       run: |
-        cat liked_songs.json
+        if test -f "liked_songs.json"; then cat liked_songs.json; else echo "liked_songs.json not found"; fi
 
     - name: Commit and push changes
       run: |
