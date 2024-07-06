@@ -33,10 +33,14 @@ jobs:
       run: |
         python fetch_liked_songs.py
 
+    - name: Display file content for debug
+      run: |
+        cat liked_songs.json
+
     - name: Commit and push changes
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
         git add liked_songs.json
-        git commit -m 'Update liked_songs.json'
-        git push
+        git commit -m 'Update liked_songs.json' || echo "No changes to commit"
+        git push || echo "Nothing to push"

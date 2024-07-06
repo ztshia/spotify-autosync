@@ -47,5 +47,8 @@ for item in songs:
     }
     simplified_songs.append(song_info)
 
-with open('liked_songs.json', 'w', encoding='utf-8') as f:
+output_file = 'liked_songs.json'
+with open(output_file, 'w', encoding='utf-8') as f:
     json.dump(simplified_songs, f, ensure_ascii=False, indent=4)
+
+print(f"Generated {output_file} with {len(simplified_songs)} songs.")
