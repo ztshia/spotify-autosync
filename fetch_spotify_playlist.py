@@ -47,11 +47,15 @@ def main():
     playlist_data = fetch_playlist(playlist_id, access_token)
 
     songs_list = []
+    full_songs_list = []
+
     for item in playlist_data:
         track = item['track']
         added_at = item['added_at']
         song_name = convert_to_simplified_chinese(track['name'])
         singer_name = convert_to_simplified_chinese(', '.join([artist['name'] for artist in track['artists']]))
+
+        # 构造简化歌曲信息
         song_info = {
             'song_name': song_name,
             'singer_name': singer_name,
@@ -59,9 +63,27 @@ def main():
         }
         songs_list.append(song_info)
 
+        # 构造完整歌曲信息
+        full_song_info = {
+            'song_name': song_name,
+            'singer_name': singer_name,
+            'added_at': added_at,
+            'album_name': track['album']['name'],
+            'track_duration_ms': track['duration_ms'],
+            'popularity': track['popularity'],
+            'track_url': track['external_urls']['spotify']
+        }
+        full_songs_list.append(full_song_info)
+
+    # 生成简化 JSON 文件
     songs_json = json.dumps(songs_list, ensure_ascii=False, indent=4)
     with open('playlist.json', 'w', encoding='utf-8') as file:
         file.write(songs_json)
+
+    # 生成完整 JSON 文件
+    full_songs_json = json.dumps(full_songs_list, ensure_ascii=False, indent=4)
+    with open('full_playlist.json', 'w', encoding='utf-8') as file:
+        file.write(full_songs_json)
 
 if __name__ == '__main__':
     main()
