@@ -2,65 +2,66 @@ import requests
 import base64
 import json
 from opencc import OpenCC
-from datetime import datetime, timezone
 import os
 
-CLIENT_ID = os.getenv('SPOTIFY_CLIENT_ID')
-CLIENT_SECRET = os.getenv('SPOTIFY_CLIENT_SECRET')
-REFRESH_TOKEN = os.getenv('SPOTIFY_REFRESH_TOKEN')
-
-def get_access_token():
+def get_access_token(client_id, client_secret):
+    auth_str = f'{client_id}:{client_secret}'
+    b64_auth_str = base64.b64encode(auth_str.encode()).decode()
+    token_url = 'https://accounts.spotify.com/api/token'
     headers = {
-        'Authorization': 'Basic ' + base64.b64encode(f"{CLIENT_ID}:{CLIENT_SECRET}".encode()).decode()
+        'Authorization': f'Basic {b64_auth_str}',
     }
     data = {
-        'grant_type': 'refresh_token',
-        'refresh_token': REFRESH_TOKEN
+        'grant_type': 'client_credentials'
     }
-    response = requests.post('https://accounts.spotify.com/api/token', headers=headers, data=data)
-    
-    # Debug: Print response status and content
-    print(f"Response Status: {response.status_code}")
-    print(f"Response Content: {response.content.decode()}")
 
-    response_json = response.json()
-    if 'access_token' in response_json:
-        return response_json['access_token']
-    else:
-        raise Exception(f"Failed to obtain access token: {response_json}")
+    response = requests.post(token_url, headers=headers, data=data)
+    response_data = response.json()
+    return response_data['access_token']
 
-def fetch_liked_songs(access_token):
-    url = 'https://api.spotify.com/v1/me/tracks?limit=50'
+def fetch_playlist(playlist_id, access_token):
+    songs_list = []
+    next_url = f'https://api.spotify.com/v1/playlists/{playlist_id}/tracks?limit=100'
     headers = {
         'Authorization': f'Bearer {access_token}'
     }
-    songs = []
-    while url:
-        response = requests.get(url, headers=headers)
+
+    while next_url:
+        response = requests.get(next_url, headers=headers)
         data = response.json()
-        songs.extend(data['items'])
-        url = data.get('next')
-    return songs
+        songs_list.extend(data['items'])
+        next_url = data['next']
 
-try:
-    access_token = get_access_token()
-    songs = fetch_liked_songs(access_token)
+    return songs_list
 
-    simplified_songs = []
+def convert_to_simplified_chinese(text):
     cc = OpenCC('t2s')
-    for item in songs:
+    return cc.convert(text)
+
+def main():
+    client_id = os.getenv('SPOTIFY_CLIENT_ID')
+    client_secret = os.getenv('SPOTIFY_CLIENT_SECRET')
+    playlist_id = '44k9yc7Q1M2otYb6pdfxfg'
+
+    access_token = get_access_token(client_id, client_secret)
+    playlist_data = fetch_playlist(playlist_id, access_token)
+
+    songs_list = []
+    for item in playlist_data:
         track = item['track']
+        added_at = item['added_at']
+        song_name = convert_to_simplified_chinese(track['name'])
+        singer_name = convert_to_simplified_chinese(', '.join([artist['name'] for artist in track['artists']]))
         song_info = {
-            'song_name': cc.convert(track['name']),
-            'singer_name': cc.convert(', '.join([artist['name'] for artist in track['artists']])),
-            'added_at': item['added_at']
+            'song_name': song_name,
+            'singer_name': singer_name,
+            'added_at': added_at
         }
-        simplified_songs.append(song_info)
+        songs_list.append(song_info)
 
-    output_file = 'liked_songs.json'
-    with open(output_file, 'w', encoding='utf-8') as f:
-        json.dump(simplified_songs, f, ensure_ascii=False, indent=4)
+    songs_json = json.dumps(songs_list, ensure_ascii=False, indent=4)
+    with open('playlist.json', 'w', encoding='utf-8') as file:
+        file.write(songs_json)
 
-    print(f"Generated {output_file} with {len(simplified_songs)} songs.")
-except Exception as e:
-    print(f"Error: {e}")
+if __name__ == '__main__':
+    main()
