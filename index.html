@@ -5,151 +5,119 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>自选集✨ | 階上生活</title>
     <style>
-body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: #121212;
-    color: #fff;
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 20px;
-}
-
-.playlist {
-    width: 80%;
-    max-width: 1200px;
-}
-
-table {
-    width: 100%;
-    border-collapse: collapse;
-    margin: 0 auto;
-}
-
-th, td {
-    padding: 10px;
-    text-align: left;
-    white-space: nowrap;
-}
-
-th {
-    border-bottom: 1px solid #fff;
-    font-size: 14px;
-}
-
-td {
-    font-size: 14px;
-    border-bottom: 1px solid #333;
-}
-
-.album-cover-container {
-    position: relative;
-    width: 50px;
-    height: 50px;
-    border-radius: 3px;
-    overflow: hidden;
-    margin-right: 10px;
-}
-
-.album-cover {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    transition: all 0.3s ease;
-}
-
-.album-cover-container:hover .album-cover {
-    filter: blur(3px) brightness(0.5);
-}
-
-.album-cover-container:hover .popularity-overlay {
-    opacity: 1;
-}
-
-.popularity-overlay {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background: rgba(0, 0, 0, 0.5);
-    color: #fff;
-    font-size: 24px;
-    font-weight: 800;
-    opacity: 0;
-    transition: opacity 0.3s ease;
-}
-
-.song-info {
-    display: flex;
-    align-items: center;
-}
-
-.song-info img {
-    margin-right: 10px;
-}
-
-.song-details {
-    display: flex;
-    flex-direction: column;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    white-space: nowrap;
-}
-
-.song-name {
-    font-weight: bold;
-    color: #1db954;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    white-space: nowrap;
-}
-
-.song-name a {
-    color: inherit;
-    text-decoration: none;
-}
-
-.song-name a:hover {
-    text-decoration: underline;
-}
-
-.singer-name, .album-name {
-    color: #b3b3b3;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    white-space: nowrap;
-}
-
-.relative-time, .track-duration {
-    color: #b3b3b3;
-    text-align: center;
-}
-
-/* Mobile Styles */
-@media (max-width: 768px) {
-    table {
-        width: 100%;
-    }
-    th, td {
-        padding: 8px;
-    }
-    th:nth-child(1),
-    th:nth-child(3),
-    th:nth-child(5),
-    td:nth-child(1),
-    td:nth-child(3),
-    td:nth-child(5) {
-        display: none;
-    }
-    th, td {
-        text-align: center;
-    }
-}
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: #121212;
+            color: #fff;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+        .playlist {
+            width: 80%;
+            max-width: 1200px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            padding: 10px;
+            text-align: left;
+            white-space: nowrap;
+        }
+        th {
+            border-bottom: 1px solid #fff;
+            font-size: 14px;
+        }
+        td {
+            font-size: 14px;
+            border-bottom: 1px solid #333;
+        }
+        .album-cover-container {
+            position: relative;
+            width: 50px;
+            height: 50px;
+            border-radius: 3px;
+            overflow: hidden;
+            margin-right: 10px; /* Add some margin to the right of the album cover */
+        }
+        .album-cover {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            transition: all 0.3s ease;
+        }
+        .album-cover-container:hover .album-cover {
+            filter: blur(3px) brightness(0.5);
+        }
+        .album-cover-container:hover .popularity-overlay {
+            opacity: 1;
+        }
+        .popularity-overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background: rgba(0, 0, 0, 0.5);
+            color: #fff;
+            font-size: 24px;
+            font-weight: 800;
+            opacity: 0;
+            transition: opacity 0.3s ease;
+        }
+        .song-info {
+            display: flex;
+            align-items: center;
+        }
+        .song-info img {
+            margin-right: 10px;
+        }
+        .song-details {
+            display: flex;
+            flex-direction: column;
+        }
+        .song-name {
+            font-weight: bold;
+            color: #1db954;
+        }
+        .song-name a {
+            color: inherit;
+            text-decoration: none;
+        }
+        .song-name a:hover {
+            text-decoration: underline;
+        }
+        .singer-name, .album-name {
+            color: #b3b3b3;
+        }
+        .relative-time, .track-duration {
+            color: #b3b3b3;
+            text-align: center;
+        }
+        
+        /* Mobile responsive adjustments */
+        @media (max-width: 768px) {
+            th, td {
+                display: none;
+            }
+            th:nth-child(2), td:nth-child(2),
+            th:nth-child(4), td:nth-child(4) {
+                display: table-cell;
+            }
+            th, td {
+                text-align: left;
+            }
+            thead {
+                display: none;
+            }
+        }
     </style>
 </head>
 <body>
