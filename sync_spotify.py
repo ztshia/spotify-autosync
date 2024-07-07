@@ -1,10 +1,8 @@
 import requests
-import json
 import base64
-import os
-import urllib.parse
-import urllib.request
+import json
 from opencc import OpenCC
+import os
 
 CLIENT_ID = os.getenv('SPOTIFY_CLIENT_ID')
 CLIENT_SECRET = os.getenv('SPOTIFY_CLIENT_SECRET')
@@ -31,6 +29,10 @@ def get_access_token():
 
     return response_data['access_token']
 
+def convert_to_simplified_chinese(text):
+    cc = OpenCC('t2s')
+    return cc.convert(text)
+
 def get_liked_tracks(access_token):
     tracks_url = 'https://api.spotify.com/v1/me/tracks'
     headers = {
@@ -42,69 +44,53 @@ def get_liked_tracks(access_token):
     response = requests.get(tracks_url, headers=headers, params=params)
     return response.json()
 
-def download_album_cover(url, filename):
-    try:
-        urllib.request.urlretrieve(url, filename)
-        print(f"Downloaded album cover from {url} to {filename}")
-    except Exception as e:
-        print(f"Error downloading album cover: {e}")
+def download_album_cover(url, path):
+    response = requests.get(url)
+    if response.status_code == 200:
+        with open(path, 'wb') as f:
+            f.write(response.content)
+        print(f"Downloaded album cover to {path}")
+    else:
+        print(f"Failed to download album cover from {url}")
 
-def save_to_json_full(data, filename):
+def save_to_json(data, filename='liked_tracks.json'):
     with open(filename, 'w', encoding='utf-8') as file:
         json.dump(data, file, indent=4, ensure_ascii=False)
-    print(f"Full data saved to {filename} successfully.")
+    print(f"File {filename} saved successfully.")
 
-def save_to_json_simple(data, filename):
+def save_simple_json(data, filename='simple_liked_tracks.json'):
     simple_data = []
     for item in data['items']:
         track = item['track']
+        album_cover_url = track['album']['images'][0]['url'] if track['album']['images'] else ''
+        album_cover_path = f"favorited/{track['id']}.jpg" if album_cover_url else ''
+
         simple_data.append({
             'song_name': track['name'],
             'singer_name': ', '.join(artist['name'] for artist in track['artists']),
-            'added_at': item['added_at']
+            'added_at': item['added_at'],
+            'album_name': track['album']['name'],
+            'album_cover_url': album_cover_url,
+            'album_cover_path': album_cover_path,
+            'track_duration_ms': track['duration_ms'],
+            'popularity': track['popularity'],
+            'track_url': track['external_urls']['spotify']
         })
+
+        if album_cover_url:
+            download_album_cover(album_cover_url, album_cover_path)
 
     with open(filename, 'w', encoding='utf-8') as file:
         json.dump(simple_data, file, indent=4, ensure_ascii=False)
-    print(f"Simple data saved to {filename} successfully.")
-
-def convert_to_simplified_chinese(filename):
-    cc = OpenCC('t2s')  # 繁体中文转简体中文
-    with open(filename, 'r', encoding='utf-8') as file:
-        data = json.load(file)
-    converted_data = []
-    for item in data:
-        converted_item = {
-            'song_name': cc.convert(item['song_name']),
-            'singer_name': cc.convert(item['singer_name']),
-            'added_at': item['added_at']
-        }
-        converted_data.append(converted_item)
-    with open(filename, 'w', encoding='utf-8') as file:
-        json.dump(converted_data, file, indent=4, ensure_ascii=False)
-    print(f"File {filename} converted to simplified Chinese successfully.")
+    print(f"File {filename} saved successfully.")
 
 if __name__ == '__main__':
     try:
+        os.makedirs('favorited', exist_ok=True)
         access_token = get_access_token()
         liked_tracks = get_liked_tracks(access_token)
-
-        # 保存完整版 liked_tracks.json
-        save_to_json_full(liked_tracks, 'liked_tracks.json')
-
-        # 保存简化版 simple_liked_tracks.json
-        save_to_json_simple(liked_tracks, 'simple_liked_tracks.json')
-
-        # 下载封面并保存到指定路径
-        for item in liked_tracks['items']:
-            track = item['track']
-            album_cover_url = track['album']['images'][0]['url']  # 获取封面图片URL
-            album_cover_filename = f"favorited/album/{track['album']['id']}.jpg"  # 指定保存路径和文件名
-            download_album_cover(album_cover_url, album_cover_filename)
-
-        # 将 simple_liked_tracks.json 转换为简体中文
-        convert_to_simplified_chinese('simple_liked_tracks.json')
-
-        print(f'已将点赞的歌曲保存到 liked_tracks.json 并转换为简体中文')
+        save_to_json(liked_tracks)
+        save_simple_json(liked_tracks)
+        print(f'已将点赞的歌曲保存到 liked_tracks.json 和 simple_liked_tracks.json 文件中')
     except Exception as e:
         print(f"Error: {e}")
