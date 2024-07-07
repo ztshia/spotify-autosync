@@ -40,7 +40,7 @@ def get_top_tracks(access_token):
     }
     params = {
         'limit': 50,  # 可根据需要调整获取的数量
-        'time_range': 'long_term'  # 可根据需要调整时间范围，如 short_term, medium_term
+        'time_range': 'short_term'  # 可根据需要调整时间范围：short_term, medium_term, long_term
     }
     response = requests.get(top_tracks_url, headers=headers, params=params)
     return response.json()
@@ -59,17 +59,18 @@ def save_to_json(data, filename):
         json.dump(data, file, indent=4, ensure_ascii=False)
     print(f"File {filename} saved successfully.")
 
-def save_top_tracks(data):
+def save_top_tracks(data, filename='top_tracks.json'):
     top_tracks = []
     for item in data['items']:
         track = item
+
         album_cover_url = track['album']['images'][0]['url'] if track['album']['images'] else ''
         album_cover_path = f"top/{track['id']}.jpg" if album_cover_url else ''
 
         top_tracks.append({
             'song_name': cc.convert(track['name']),
             'singer_name': cc.convert(', '.join(artist['name'] for artist in track['artists'])),
-            'added_at': datetime.strptime(track['album']['release_date'], '%Y-%m-%d').strftime('%Y-%m-%d'),
+            'added_at': datetime.strptime(track['added_at'], '%Y-%m-%dT%H:%M:%SZ').strftime('%Y-%m-%d'),
             'album_name': cc.convert(track['album']['name']),
             'album_cover_url': album_cover_url,
             'album_cover_path': album_cover_path,
@@ -81,9 +82,9 @@ def save_top_tracks(data):
         if album_cover_url:
             download_album_cover(album_cover_url, album_cover_path)
 
-    save_to_json(top_tracks, 'top_tracks.json')
+    save_to_json(top_tracks, filename)
 
-def save_simple_top_tracks(data):
+def save_simple_top_tracks(data, filename='simple_top_tracks.json'):
     simple_top_tracks = []
     for item in data['items']:
         track = item
@@ -94,7 +95,7 @@ def save_simple_top_tracks(data):
             'added_at': track['added_at']
         })
 
-    save_to_json(simple_top_tracks, 'simple_top_tracks.json')
+    save_to_json(simple_top_tracks, filename)
 
 if __name__ == '__main__':
     try:
