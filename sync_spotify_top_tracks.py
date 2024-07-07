@@ -4,15 +4,11 @@ import base64
 import os
 from urllib.parse import urlparse
 from pathlib import Path
-import opencc
 
 CLIENT_ID = os.getenv('SPOTIFY_CLIENT_ID')
 CLIENT_SECRET = os.getenv('SPOTIFY_CLIENT_SECRET')
 REDIRECT_URI = os.getenv('SPOTIFY_REDIRECT_URI')
 REFRESH_TOKEN = os.getenv('SPOTIFY_REFRESH_TOKEN')
-
-# 使用默认配置初始化 OpenCC
-cc = opencc.OpenCC(os.getenv('OPENCC_CONFIG_PATH'))
 
 def get_access_token():
     token_url = 'https://accounts.spotify.com/api/token'
@@ -60,12 +56,12 @@ def download_image(url, folder='top'):
 
 def transform_data(track):
     album_cover_url = track['album']['images'][0]['url']
-    album_cover_path = download_image(album_cover_url, folder='top')
+    album_cover_path = download_image(album_cover_url)
     return {
-        "song_name": cc.convert(track['name']),
-        "singer_name": cc.convert(', '.join(artist['name'] for artist in track['artists'])),
+        "song_name": track['name'],
+        "singer_name": ', '.join(artist['name'] for artist in track['artists']),
         "added_at": track['added_at'],
-        "album_name": cc.convert(track['album']['name']),
+        "album_name": track['album']['name'],
         "album_cover_url": album_cover_url,
         "album_cover_path": album_cover_path,
         "track_duration_ms": track['duration_ms'],
@@ -85,8 +81,8 @@ if __name__ == '__main__':
         
         detailed_tracks = [transform_data(track) for track in top_tracks]
         simple_tracks = [{
-            "song_name": cc.convert(track['name']),
-            "singer_name": cc.convert(', '.join(artist['name'] for artist in track['artists'])),
+            "song_name": track['name'],
+            "singer_name": ', '.join(artist['name'] for artist in track['artists']),
             "added_at": track['added_at']
         } for track in top_tracks]
         
