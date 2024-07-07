@@ -101,6 +101,23 @@
             color: #b3b3b3;
             text-align: center;
         }
+        
+        /* Mobile responsive adjustments */
+        @media (max-width: 768px) {
+            th, td {
+                display: none;
+            }
+            th:nth-child(2), td:nth-child(2),
+            th:nth-child(4), td:nth-child(4) {
+                display: table-cell;
+            }
+            th, td {
+                text-align: left;
+            }
+            thead {
+                display: none;
+            }
+        }
     </style>
 </head>
 <body>
