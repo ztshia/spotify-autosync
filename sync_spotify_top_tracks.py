@@ -68,9 +68,9 @@ def save_top_tracks(data, filename='top_tracks.json'):
         album_cover_path = f"top/{track['id']}.jpg" if album_cover_url else ''
 
         top_tracks.append({
-            'song_name': cc.convert(track['name']),
+          'song_name': cc.convert(track['name']),
             'singer_name': cc.convert(', '.join(artist['name'] for artist in track['artists'])),
-            'added_at': datetime.strptime(track['added_at'], '%Y-%m-%dT%H:%M:%SZ').strftime('%Y-%m-%d'),
+            'added_at': item['added_at'],
             'album_name': cc.convert(track['album']['name']),
             'album_cover_url': album_cover_url,
             'album_cover_path': album_cover_path,
