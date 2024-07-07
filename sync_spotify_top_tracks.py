@@ -11,7 +11,8 @@ CLIENT_SECRET = os.getenv('SPOTIFY_CLIENT_SECRET')
 REDIRECT_URI = os.getenv('SPOTIFY_REDIRECT_URI')
 REFRESH_TOKEN = os.getenv('SPOTIFY_REFRESH_TOKEN')
 
-cc = opencc.OpenCC('t2s.json')
+# 使用默认配置初始化 OpenCC
+cc = opencc.OpenCC('t2s')
 
 def get_access_token():
     token_url = 'https://accounts.spotify.com/api/token'
