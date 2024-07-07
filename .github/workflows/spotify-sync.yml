@@ -2,7 +2,7 @@ name: Sync Spotify Liked Tracks
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # 每天00:00 UTC运行一次
+    - cron: '*/10 * * * *'  # 每天00:00 UTC运行一次
   workflow_dispatch:  # 手动触发
 
 jobs:
@@ -25,10 +25,10 @@ jobs:
 
     - name: Run sync script
       env:
-        CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
-        CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
-        REDIRECT_URI: ${{ secrets.SPOTIFY_REDIRECT_URI }}
-        REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+        SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+        SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+        SPOTIFY_REDIRECT_URI: ${{ secrets.SPOTIFY_REDIRECT_URI }}
+        SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
       run: |
         python sync_spotify.py
 
