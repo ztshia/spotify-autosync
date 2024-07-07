@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="keywords" content="夏征途,Kioto,階上生活,upstairs,profile,产品经理,求职,简历,合肥,资料">
     <title>自选集✨ | 階上生活</title>
     <style>
         body {
@@ -124,7 +123,7 @@
 
     <script>
         async function fetchPlaylist() {
-            const response = await fetch('./full_playlist.json');
+            const response = await fetch('./liked_tracks.json');
             const playlist = await response.json();
             const playlistBody = document.getElementById('playlist-body');
 
