@@ -32,6 +32,10 @@ jobs:
       run: |
         python sync_spotify.py
 
+    - name: List files in repository
+      run: |
+        ls -alh
+
     - name: Commit and push changes
       run: |
         git config --global user.name 'github-actions[bot]'
@@ -39,3 +43,4 @@ jobs:
         git add liked_tracks.json
         git commit -m 'Update liked tracks'
         git push
+      continue-on-error: true
