@@ -35,7 +35,6 @@ jobs:
     - name: List files in repository
       run: |
         ls -alh
-        ls -alh top
         cat top_tracks.json
         cat simple_top_tracks.json
 
