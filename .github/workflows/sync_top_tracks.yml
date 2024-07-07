@@ -21,12 +21,7 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install requests opencc-python-reimplemented
-
-    - name: Download OpenCC config files
-      run: |
-        wget https://raw.githubusercontent.com/BYVoid/OpenCC/master/data/config/t2s.json -P /tmp
-        wget https://raw.githubusercontent.com/BYVoid/OpenCC/master/data/dictionary.txt -P /tmp
+        pip install requests
 
     - name: Run sync top tracks script
       env:
@@ -34,8 +29,6 @@ jobs:
         SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
         SPOTIFY_REDIRECT_URI: ${{ secrets.SPOTIFY_REDIRECT_URI }}
         SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
-        OPENCC_CONFIG_PATH: /tmp/t2s.json
-        OPENCC_DICTIONARY_PATH: /tmp/dictionary.txt
       run: |
         python sync_spotify_top_tracks.py
 
