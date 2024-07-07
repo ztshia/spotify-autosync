@@ -2,8 +2,6 @@ import requests
 import json
 import base64
 import os
-from urllib.parse import urlparse
-from pathlib import Path
 
 CLIENT_ID = os.getenv('SPOTIFY_CLIENT_ID')
 CLIENT_SECRET = os.getenv('SPOTIFY_CLIENT_SECRET')
@@ -42,34 +40,7 @@ def get_top_tracks(access_token, time_range='medium_term'):
 
     return response.json()
 
-def download_image(url, folder='top'):
-    response = requests.get(url)
-    if response.status_code == 200:
-        parsed_url = urlparse(url)
-        image_name = os.path.basename(parsed_url.path)
-        Path(folder).mkdir(parents=True, exist_ok=True)
-        with open(os.path.join(folder, image_name), 'wb') as file:
-            file.write(response.content)
-        return os.path.join(folder, image_name)
-    else:
-        raise Exception(f"Failed to download image: {response.status_code}, {response.text}")
-
-def transform_data(track):
-    album_cover_url = track['album']['images'][0]['url']
-    album_cover_path = download_image(album_cover_url)
-    return {
-        "song_name": track['name'],
-        "singer_name": ', '.join(artist['name'] for artist in track['artists']),
-        "added_at": track['added_at'],
-        "album_name": track['album']['name'],
-        "album_cover_url": album_cover_url,
-        "album_cover_path": album_cover_path,
-        "track_duration_ms": track['duration_ms'],
-        "popularity": track['popularity'],
-        "track_url": track['external_urls']['spotify']
-    }
-
-def save_to_json(data, filename):
+def save_to_json(data, filename='top_tracks.json'):
     with open(filename, 'w', encoding='utf-8') as file:
         json.dump(data, file, indent=4, ensure_ascii=False)
     print(f"File {filename} saved successfully.")
@@ -77,18 +48,8 @@ def save_to_json(data, filename):
 if __name__ == '__main__':
     try:
         access_token = get_access_token()
-        top_tracks = get_top_tracks(access_token)['items']
-        
-        detailed_tracks = [transform_data(track) for track in top_tracks]
-        simple_tracks = [{
-            "song_name": track['name'],
-            "singer_name": ', '.join(artist['name'] for artist in track['artists']),
-            "added_at": track['added_at']
-        } for track in top_tracks]
-        
-        save_to_json(detailed_tracks, 'top_tracks.json')
-        save_to_json(simple_tracks, 'simple_top_tracks.json')
-        
-        print('最常听的歌曲已保存到 top_tracks.json 和 simple_top_tracks.json 文件中')
+        top_tracks = get_top_tracks(access_token)
+        save_to_json(top_tracks)
+        print('最常听的歌曲已保存到 top_tracks.json 文件中')
     except Exception as e:
         print(f"Error: {e}")
