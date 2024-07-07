@@ -58,25 +58,40 @@ def save_to_json(data, filename='top_tracks.json'):
         json.dump(data, file, indent=4, ensure_ascii=False)
     print(f"File {filename} saved successfully.")
 
-def save_simple_top_tracks(data, filename='simple_top_tracks.json'):
-    simple_tracks = []
+def save_top_tracks(data, filename='top_tracks.json'):
+    top_tracks = []
     for item in data['items']:
-        track = item
+        track = item['track']
+        album_cover_url = track['album']['images'][0]['url'] if track['album']['images'] else ''
+        album_cover_path = f"top/{track['id']}.jpg" if album_cover_url else ''
 
-        simple_tracks.append({
+        top_tracks.append({
             'song_name': cc.convert(track['name']),
             'singer_name': cc.convert(', '.join(artist['name'] for artist in track['artists'])),
-            'added_at': track['album']['release_date'],  # Adjust as needed
+            'added_at': item['added_at'],
             'album_name': cc.convert(track['album']['name']),
-            'album_cover_url': track['album']['images'][0]['url'] if track['album']['images'] else '',
-            'album_cover_path': f"top/{track['id']}.jpg" if track['album']['images'] else '',
+            'album_cover_url': album_cover_url,
+            'album_cover_path': album_cover_path,
             'track_duration_ms': track['duration_ms'],
             'popularity': track['popularity'],
             'track_url': track['external_urls']['spotify']
         })
 
-        if track['album']['images']:
-            download_album_cover(track['album']['images'][0]['url'], f"top/{track['id']}.jpg")
+         if album_cover_url:
+            download_album_cover(album_cover_url, album_cover_path)
+
+    save_to_json(top_tracks, filename)
+
+def save_simple_top_tracks(data, filename='simple_top_tracks.json'):
+    simple_tracks = []
+    for item in data['items']:
+        track = item['track']
+
+        simple_tracks.append({
+            'song_name': cc.convert(track['name']),
+            'singer_name': cc.convert(', '.join(artist['name'] for artist in track['artists'])),
+            'added_at': item['added_at']
+        })
 
     save_to_json(simple_tracks, filename)
 
