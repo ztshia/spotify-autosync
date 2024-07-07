@@ -21,7 +21,13 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install requests opencc
+        pip install requests opencc-python-reimplemented
+
+    - name: Download OpenCC config files
+      run: |
+        wget https://raw.githubusercontent.com/BYVoid/OpenCC/master/data/config/t2s.json -P /tmp
+        wget https://raw.githubusercontent.com/BYVoid/OpenCC/master/data/dictionary.txt -P /tmp
+
     - name: Run sync top tracks script
       env:
         SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
