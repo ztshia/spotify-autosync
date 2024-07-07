@@ -2,6 +2,7 @@ import requests
 import json
 import base64
 import os
+import opencc
 
 CLIENT_ID = os.getenv('SPOTIFY_CLIENT_ID')
 CLIENT_SECRET = os.getenv('SPOTIFY_CLIENT_SECRET')
@@ -55,16 +56,17 @@ def save_to_json(data, filename='liked_tracks.json'):
 
 def save_simple_json(data, filename='simple_liked_tracks.json'):
     simple_data = []
+    cc = opencc.OpenCC('t2s.json')
     for item in data['items']:
         track = item['track']
         album_cover_url = track['album']['images'][0]['url'] if track['album']['images'] else ''
         album_cover_path = f"favorited/{track['id']}.jpg" if album_cover_url else ''
 
         simple_data.append({
-            'song_name': track['name'],
-            'singer_name': ', '.join(artist['name'] for artist in track['artists']),
+            'song_name': cc.convert(track['name']),
+            'singer_name': cc.convert(', '.join(artist['name'] for artist in track['artists'])),
             'added_at': item['added_at'],
-            'album_name': track['album']['name'],
+            'album_name': cc.convert(track['album']['name']),
             'album_cover_url': album_cover_url,
             'album_cover_path': album_cover_path,
             'track_duration_ms': track['duration_ms'],
@@ -75,8 +77,21 @@ def save_simple_json(data, filename='simple_liked_tracks.json'):
         if album_cover_url:
             download_album_cover(album_cover_url, album_cover_path)
 
-    with open(filename, 'w', encoding='utf-8') as file:
-        json.dump(simple_data, file, indent=4, ensure_ascii=False)
+    save_to_json(simple_data, 'liked_tracks.json')
+    print(f"File liked_tracks.json saved successfully.")
+
+def save_extra_simple_json(data, filename='simple_liked_tracks.json'):
+    extra_simple_data = []
+    cc = opencc.OpenCC('t2s.json')
+    for item in data['items']:
+        track = item['track']
+        extra_simple_data.append({
+            'song_name': cc.convert(track['name']),
+            'singer_name': cc.convert(', '.join(artist['name'] for artist in track['artists'])),
+            'added_at': item['added_at'],
+        })
+
+    save_to_json(extra_simple_data, filename)
     print(f"File {filename} saved successfully.")
 
 if __name__ == '__main__':
@@ -84,8 +99,8 @@ if __name__ == '__main__':
         os.makedirs('favorited', exist_ok=True)
         access_token = get_access_token()
         liked_tracks = get_liked_tracks(access_token)
-        save_to_json(liked_tracks)
         save_simple_json(liked_tracks)
+        save_extra_simple_json(liked_tracks)
         print(f'已将点赞的歌曲保存到 liked_tracks.json 和 simple_liked_tracks.json 文件中')
     except Exception as e:
         print(f"Error: {e}")
