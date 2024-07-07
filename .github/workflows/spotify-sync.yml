@@ -35,7 +35,7 @@ jobs:
     - name: List files in repository
       run: |
         ls -alh
-        cat simple_liked_tracks.json
+        cat liked_tracks.json
 
     - name: Convert to Simplified Chinese
       run: |
@@ -46,11 +46,19 @@ jobs:
         ls -alh
         cat simple_liked_tracks.json
 
+    - name: Download album covers
+      run: |
+        python -c "from sync_spotify import get_liked_tracks, download_album_cover; liked_tracks = get_liked_tracks('YOUR_ACCESS_TOKEN_HERE'); [download_album_cover(track['track']['album']['images'][0]['url'], f'favorited/album/{track['track']['album']['id']}.jpg') for track in liked_tracks['items']]"
+
+    - name: List files after downloading album covers
+      run: |
+        ls -alh favorited/album
+
     - name: Commit and push changes
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-        git add simple_liked_tracks.json
+        git add liked_tracks.json simple_liked_tracks.json favorited/album/*.jpg
         git commit -m 'Update liked tracks'
         git push
       continue-on-error: true
