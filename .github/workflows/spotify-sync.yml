@@ -35,12 +35,15 @@ jobs:
     - name: List files in repository
       run: |
         ls -alh
+        ls -alh favorited
+        cat liked_tracks.json
+        cat simple_liked_tracks.json
 
     - name: Commit and push changes
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-        git add liked_tracks.json
+        git add liked_tracks.json simple_liked_tracks.json favorited/*
         git commit -m 'Update liked tracks'
         git push
       continue-on-error: true

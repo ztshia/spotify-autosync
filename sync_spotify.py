@@ -39,15 +39,53 @@ def get_liked_tracks(access_token):
     response = requests.get(tracks_url, headers=headers, params=params)
     return response.json()
 
+def download_album_cover(url, path):
+    response = requests.get(url)
+    if response.status_code == 200:
+        with open(path, 'wb') as f:
+            f.write(response.content)
+        print(f"Downloaded album cover to {path}")
+    else:
+        print(f"Failed to download album cover from {url}")
+
 def save_to_json(data, filename='liked_tracks.json'):
     with open(filename, 'w', encoding='utf-8') as file:
         json.dump(data, file, indent=4, ensure_ascii=False)
+    print(f"File {filename} saved successfully.")
+
+def save_simple_json(data, filename='simple_liked_tracks.json'):
+    simple_data = []
+    for item in data['items']:
+        track = item['track']
+        album_cover_url = track['album']['images'][0]['url'] if track['album']['images'] else ''
+        album_cover_path = f"favorited/{track['id']}.jpg" if album_cover_url else ''
+
+        simple_data.append({
+            'song_name': track['name'],
+            'singer_name': ', '.join(artist['name'] for artist in track['artists']),
+            'added_at': item['added_at'],
+            'album_name': track['album']['name'],
+            'album_cover_url': album_cover_url,
+            'album_cover_path': album_cover_path,
+            'track_duration_ms': track['duration_ms'],
+            'popularity': track['popularity'],
+            'track_url': track['external_urls']['spotify']
+        })
+
+        if album_cover_url:
+            download_album_cover(album_cover_url, album_cover_path)
+
+    with open(filename, 'w', encoding='utf-8') as file:
+        json.dump(simple_data, file, indent=4, ensure_ascii=False)
+    print(f"File {filename} saved successfully.")
 
 if __name__ == '__main__':
     try:
+        os.makedirs('favorited', exist_ok=True)
         access_token = get_access_token()
         liked_tracks = get_liked_tracks(access_token)
         save_to_json(liked_tracks)
-        print(f'已将点赞的歌曲保存到liked_tracks.json文件中')
+        save_simple_json(liked_tracks)
+        print(f'已将点赞的歌曲保存到 liked_tracks.json 和 simple_liked_tracks.json 文件中')
     except Exception as e:
         print(f"Error: {e}")
