@@ -12,7 +12,7 @@ REDIRECT_URI = os.getenv('SPOTIFY_REDIRECT_URI')
 REFRESH_TOKEN = os.getenv('SPOTIFY_REFRESH_TOKEN')
 
 # 使用默认配置初始化 OpenCC
-cc = opencc.OpenCC('t2s')
+cc = opencc.OpenCC('t2s.json')
 
 def get_access_token():
     token_url = 'https://accounts.spotify.com/api/token'
@@ -60,7 +60,7 @@ def download_image(url, folder='top'):
 
 def transform_data(track):
     album_cover_url = track['album']['images'][0]['url']
-    album_cover_path = download_image(album_cover_url)
+    album_cover_path = download_image(album_cover_url, folder='top')
     return {
         "song_name": cc.convert(track['name']),
         "singer_name": cc.convert(', '.join(artist['name'] for artist in track['artists'])),
