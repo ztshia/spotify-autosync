@@ -9,7 +9,7 @@
 2.注册[Spotify开发者](https://developer.spotify.com/dashboard/)账号并创建一个应用。访问Spotify开发者网站。
   登录后，创建一个新应用，获取客户端ID（**Client ID**）和客户端密钥（**Client Secret**）。
   
-3.访问 https://accounts.spotify.com/authorize?client_id=your_client_id&response_type=code&redirect_uri=your_redirect_uri&scope=user-library-read (将加粗部分更换为你刚才获取的Client ID与填写的redirect_uri)，获取到**auth code**。
+3.访问 https://accounts.spotify.com/authorize?client_id=your_client_id&response_type=code&redirect_uri=your_redirect_uri&scope=user-library-read (更换为你刚才获取的Client ID与填写的redirect_uri)，获取到**auth code**。
 
 4.本地运行以下脚本，获得Refresh Token
 
@@ -64,7 +64,7 @@ Automatically sync Spotify likes songs with the specified song list to generate 
 
 2. Sign up for a Spotify developer account and create an app. Visit the Spotify developer website. After logging in, create a new application and obtain the client ID and client secret.
    
-3. Visit https://accounts.spotify.com/authorize? client_id=your_client_id&response_type=code&redirect_uri=your_redirect_uri&scope=user-library-read (Replace the bolded part with the Client ID you just obtained and the redirect_uri you filled in) to get the auth code.
+3. Visit https://accounts.spotify.com/authorize? client_id=your_client_id&response_type=code&redirect_uri=your_redirect_uri&scope=user-library-read  (Replace with the Client ID you just obtained and the redirect_uri you filled in) to get the auth code.
 
 4. Run the following script locally to obtain the Refresh Token
 
