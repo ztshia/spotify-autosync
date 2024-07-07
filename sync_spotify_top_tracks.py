@@ -2,7 +2,6 @@ import requests
 import json
 import base64
 import os
-from datetime import datetime
 from opencc import OpenCC
 
 # OpenCC converter for Traditional Chinese to Simplified Chinese
@@ -34,15 +33,15 @@ def get_access_token():
     return response_data['access_token']
 
 def get_top_tracks(access_token):
-    top_tracks_url = 'https://api.spotify.com/v1/me/top/tracks'
+    tracks_url = 'https://api.spotify.com/v1/me/top/tracks'
     headers = {
         'Authorization': f'Bearer {access_token}',
     }
     params = {
-        'limit': 50,  # 可根据需要调整获取的数量
-        'time_range': 'short_term'  # 可根据需要调整时间范围：short_term, medium_term, long_term
+        'time_range': 'long_term',  # Change time_range if needed
+        'limit': 50
     }
-    response = requests.get(top_tracks_url, headers=headers, params=params)
+    response = requests.get(tracks_url, headers=headers, params=params)
     return response.json()
 
 def download_album_cover(url, path):
@@ -54,56 +53,40 @@ def download_album_cover(url, path):
     else:
         print(f"Failed to download album cover from {url}")
 
-def save_to_json(data, filename):
+def save_to_json(data, filename='top_tracks.json'):
     with open(filename, 'w', encoding='utf-8') as file:
         json.dump(data, file, indent=4, ensure_ascii=False)
     print(f"File {filename} saved successfully.")
 
-def save_top_tracks(data, filename='top_tracks.json'):
-    top_tracks = []
+def save_simple_top_tracks(data, filename='simple_top_tracks.json'):
+    simple_tracks = []
     for item in data['items']:
         track = item
 
-        album_cover_url = track['album']['images'][0]['url'] if track['album']['images'] else ''
-        album_cover_path = f"top/{track['id']}.jpg" if album_cover_url else ''
-
-        top_tracks.append({
-          'song_name': cc.convert(track['name']),
+        simple_tracks.append({
+            'song_name': cc.convert(track['name']),
             'singer_name': cc.convert(', '.join(artist['name'] for artist in track['artists'])),
-            'added_at': item['added_at'],
+            'added_at': track['album']['release_date'],  # Adjust as needed
             'album_name': cc.convert(track['album']['name']),
-            'album_cover_url': album_cover_url,
-            'album_cover_path': album_cover_path,
+            'album_cover_url': track['album']['images'][0]['url'] if track['album']['images'] else '',
+            'album_cover_path': f"top/{track['id']}.jpg" if track['album']['images'] else '',
             'track_duration_ms': track['duration_ms'],
             'popularity': track['popularity'],
             'track_url': track['external_urls']['spotify']
         })
 
-        if album_cover_url:
-            download_album_cover(album_cover_url, album_cover_path)
+        if track['album']['images']:
+            download_album_cover(track['album']['images'][0]['url'], f"top/{track['id']}.jpg")
 
-    save_to_json(top_tracks, filename)
-
-def save_simple_top_tracks(data, filename='simple_top_tracks.json'):
-    simple_top_tracks = []
-    for item in data['items']:
-        track = item
-
-        simple_top_tracks.append({
-            'song_name': cc.convert(track['name']),
-            'singer_name': cc.convert(', '.join(artist['name'] for artist in track['artists'])),
-            'added_at': track['added_at']
-        })
-
-    save_to_json(simple_top_tracks, filename)
+    save_to_json(simple_tracks, filename)
 
 if __name__ == '__main__':
     try:
         os.makedirs('top', exist_ok=True)
         access_token = get_access_token()
         top_tracks_data = get_top_tracks(access_token)
-        save_top_tracks(top_tracks_data)
-        save_simple_top_tracks(top_tracks_data)
+        save_to_json(top_tracks_data, 'top_tracks.json')
+        save_simple_top_tracks(top_tracks_data, 'simple_top_tracks.json')
         print(f'已将最常听的歌曲保存到 top_tracks.json 和 simple_top_tracks.json 文件中')
     except Exception as e:
         print(f"Error: {e}")
