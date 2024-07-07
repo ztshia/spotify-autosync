@@ -35,6 +35,7 @@ jobs:
     - name: List files in repository
       run: |
         ls -alh
+        cat liked_tracks.json  # 显示生成的文件内容
 
     - name: Commit and push changes
       run: |

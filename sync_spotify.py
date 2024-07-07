@@ -42,11 +42,13 @@ def get_liked_tracks(access_token):
 def save_to_json(data, filename='liked_tracks.json'):
     with open(filename, 'w', encoding='utf-8') as file:
         json.dump(data, file, indent=4, ensure_ascii=False)
+    print(f"File {filename} saved successfully.")
 
 if __name__ == '__main__':
     try:
         access_token = get_access_token()
         liked_tracks = get_liked_tracks(access_token)
+        print(f"Liked tracks: {json.dumps(liked_tracks, indent=4, ensure_ascii=False)}")
         save_to_json(liked_tracks)
         print(f'已将点赞的歌曲保存到liked_tracks.json文件中')
     except Exception as e:
