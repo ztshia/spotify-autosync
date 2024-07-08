@@ -125,6 +125,11 @@
         "added_at": "2009-12-29"
     },
     {
+        "song_name": "易燃易爆炸",
+        "singer_name": "陈粒",
+        "added_at": "2015-02-02"
+    },
+    {
         "song_name": "ポニーテールとシュシュ",
         "singer_name": "AKB48",
         "added_at": "2011-06-08"
@@ -238,11 +243,6 @@
         "song_name": "Shape of My Heart",
         "singer_name": "Backstreet Boys",
         "added_at": "2000-11-21"
-    },
-    {
-        "song_name": "易燃易爆炸",
-        "singer_name": "陈粒",
-        "added_at": "2015-02-02"
     },
     {
         "song_name": "山手线",
