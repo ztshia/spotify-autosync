@@ -120,6 +120,11 @@
         "added_at": "2009-12-29"
     },
     {
+        "song_name": "ポニーテールとシュシュ",
+        "singer_name": "AKB48",
+        "added_at": "2011-06-08"
+    },
+    {
         "song_name": "Sk8er Boi",
         "singer_name": "Avril Lavigne",
         "added_at": "2002-06-04"
@@ -243,10 +248,5 @@
         "song_name": "最爱的人伤我最深",
         "singer_name": "Zhang Yu Sheng, A-Mei Chang",
         "added_at": "1996-07-12"
-    },
-    {
-        "song_name": "处处吻",
-        "singer_name": "Miriam Yeung",
-        "added_at": "2010"
     }
 ]

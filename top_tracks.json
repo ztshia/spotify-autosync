@@ -264,6 +264,17 @@
         "track_url": "https://open.spotify.com/track/0o9XsvHqGY2L8E6LRztDv1"
     },
     {
+        "song_name": "ポニーテールとシュシュ",
+        "singer_name": "AKB48",
+        "added_at": "2011-06-08",
+        "album_name": "ここにいたこと(初回限定盘)",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273ea4b4fceb38b8e73b4aa0710",
+        "album_cover_path": "top/5FMD8aVYXM3BHm7Y1DKwGP.jpg",
+        "track_duration_ms": 270893,
+        "popularity": 46,
+        "track_url": "https://open.spotify.com/track/5FMD8aVYXM3BHm7Y1DKwGP"
+    },
+    {
         "song_name": "Sk8er Boi",
         "singer_name": "Avril Lavigne",
         "added_at": "2002-06-04",
@@ -537,16 +548,5 @@
         "track_duration_ms": 303333,
         "popularity": 38,
         "track_url": "https://open.spotify.com/track/3TsB0gj3W25TGO4QF6kVDk"
-    },
-    {
-        "song_name": "处处吻",
-        "singer_name": "Miriam Yeung",
-        "added_at": "2010",
-        "album_name": "囍爱杨千嬅",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273c96e25b477612cfc8b588d08",
-        "album_cover_path": "top/3hc0ucyeC4q8H7yODQxalN.jpg",
-        "track_duration_ms": 199041,
-        "popularity": 13,
-        "track_url": "https://open.spotify.com/track/3hc0ucyeC4q8H7yODQxalN"
     }
 ]
