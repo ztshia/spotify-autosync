@@ -55,6 +55,11 @@
         "added_at": "1996"
     },
     {
+        "song_name": "不摇滚",
+        "singer_name": "831, 房东的猫",
+        "added_at": "2019-10-25"
+    },
+    {
         "song_name": "听海",
         "singer_name": "A-Mei Chang",
         "added_at": "1997-06-11"
@@ -243,10 +248,5 @@
         "song_name": "山手线",
         "singer_name": "Keyakizaka46",
         "added_at": "2016-04-06"
-    },
-    {
-        "song_name": "最爱的人伤我最深",
-        "singer_name": "Zhang Yu Sheng, A-Mei Chang",
-        "added_at": "1996-07-12"
     }
 ]
