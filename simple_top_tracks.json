@@ -125,6 +125,11 @@
         "added_at": "2009-12-29"
     },
     {
+        "song_name": "生日快乐",
+        "singer_name": "房东的猫",
+        "added_at": "2023-05-04"
+    },
+    {
         "song_name": "易燃易爆炸",
         "singer_name": "陈粒",
         "added_at": "2015-02-02"
@@ -243,10 +248,5 @@
         "song_name": "Shape of My Heart",
         "singer_name": "Backstreet Boys",
         "added_at": "2000-11-21"
-    },
-    {
-        "song_name": "山手线",
-        "singer_name": "Keyakizaka46",
-        "added_at": "2016-04-06"
     }
 ]
