@@ -330,6 +330,17 @@
         "track_url": "https://open.spotify.com/track/5FMD8aVYXM3BHm7Y1DKwGP"
     },
     {
+        "song_name": "Everyday、カチューシャ",
+        "singer_name": "AKB48",
+        "added_at": "2012-08-15",
+        "album_name": "1830m",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273a4f984de3fbc0619370f88c8",
+        "album_cover_path": "top/6CJ3V6MRmcsjlJHZ48J5Ud.jpg",
+        "track_duration_ms": 316373,
+        "popularity": 44,
+        "track_url": "https://open.spotify.com/track/6CJ3V6MRmcsjlJHZ48J5Ud"
+    },
+    {
         "song_name": "Sk8er Boi",
         "singer_name": "Avril Lavigne",
         "added_at": "2002-06-04",
@@ -537,16 +548,5 @@
         "track_duration_ms": 252000,
         "popularity": 49,
         "track_url": "https://open.spotify.com/track/2ahydS3UcOoAF2usK3I1ph"
-    },
-    {
-        "song_name": "不谓侠",
-        "singer_name": "小阿七",
-        "added_at": "2019-11-15",
-        "album_name": "不谓侠",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2733ff02ceeba28a118e2c2ffbe",
-        "album_cover_path": "top/2u3PFw36fBOyghBDFCyDgr.jpg",
-        "track_duration_ms": 268621,
-        "popularity": 38,
-        "track_url": "https://open.spotify.com/track/2u3PFw36fBOyghBDFCyDgr"
     }
 ]
