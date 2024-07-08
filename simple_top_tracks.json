@@ -40,6 +40,11 @@
         "added_at": "2003-07-29"
     },
     {
+        "song_name": "カラコンウインク",
+        "singer_name": "AKB48",
+        "added_at": "2024-02-12"
+    },
+    {
         "song_name": "淋雨一直走",
         "singer_name": "Angela Chang",
         "added_at": "2012-10-12"
@@ -53,6 +58,11 @@
         "song_name": "As Long as You Love Me",
         "singer_name": "Backstreet Boys",
         "added_at": "1996"
+    },
+    {
+        "song_name": "息もできない",
+        "singer_name": "ZARD",
+        "added_at": "1998-03-04"
     },
     {
         "song_name": "不摇滚",
@@ -238,15 +248,5 @@
         "song_name": "不谓侠",
         "singer_name": "小阿七",
         "added_at": "2019-11-15"
-    },
-    {
-        "song_name": "民间传奇",
-        "singer_name": "Miriam Yeung",
-        "added_at": "2003-01-01"
-    },
-    {
-        "song_name": "Shape of My Heart",
-        "singer_name": "Backstreet Boys",
-        "added_at": "2000-11-21"
     }
 ]
