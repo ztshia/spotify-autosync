@@ -30,9 +30,24 @@
         "added_at": "2023-11-05"
     },
     {
+        "song_name": "淋雨一直走",
+        "singer_name": "Angela Chang",
+        "added_at": "2012-10-12"
+    },
+    {
         "song_name": "秘密",
         "singer_name": "Zhang Zhen Yue",
         "added_at": "1997-10-30"
+    },
+    {
+        "song_name": "君は仆だ",
+        "singer_name": "Atsuko Maeda",
+        "added_at": "2016-06-22"
+    },
+    {
+        "song_name": "听海",
+        "singer_name": "A-Mei Chang",
+        "added_at": "1997-06-11"
     },
     {
         "song_name": "她的睫毛",
@@ -45,9 +60,9 @@
         "added_at": "2024-02-12"
     },
     {
-        "song_name": "淋雨一直走",
-        "singer_name": "Angela Chang",
-        "added_at": "2012-10-12"
+        "song_name": "フライングゲット",
+        "singer_name": "AKB48",
+        "added_at": "2012-08-15"
     },
     {
         "song_name": "解脱",
@@ -68,11 +83,6 @@
         "song_name": "不摇滚",
         "singer_name": "831, 房东的猫",
         "added_at": "2019-10-25"
-    },
-    {
-        "song_name": "听海",
-        "singer_name": "A-Mei Chang",
-        "added_at": "1997-06-11"
     },
     {
         "song_name": "恋するフォーチュンクッキー",
@@ -118,11 +128,6 @@
         "song_name": "人质",
         "singer_name": "A-Mei Chang",
         "added_at": "2006-02-17"
-    },
-    {
-        "song_name": "フライングゲット",
-        "singer_name": "AKB48",
-        "added_at": "2012-08-15"
     },
     {
         "song_name": "英雄儿女",
@@ -243,10 +248,5 @@
         "song_name": "セブンスコード",
         "singer_name": "Atsuko Maeda",
         "added_at": "2014-03-05"
-    },
-    {
-        "song_name": "Ready, Go!",
-        "singer_name": "ZARD",
-        "added_at": "1995-02-01"
     }
 ]

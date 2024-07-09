@@ -66,6 +66,17 @@
         "track_url": "https://open.spotify.com/track/5ww0kT35Y7uSjb8obD0tzk"
     },
     {
+        "song_name": "淋雨一直走",
+        "singer_name": "Angela Chang",
+        "added_at": "2012-10-12",
+        "album_name": "有形的翅膀",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273b94d0b304128e6601071bbd6",
+        "album_cover_path": "top/5AwdQtK9c0ogafVxM8EWte.jpg",
+        "track_duration_ms": 204906,
+        "popularity": 34,
+        "track_url": "https://open.spotify.com/track/5AwdQtK9c0ogafVxM8EWte"
+    },
+    {
         "song_name": "秘密",
         "singer_name": "Zhang Zhen Yue",
         "added_at": "1997-10-30",
@@ -75,6 +86,28 @@
         "track_duration_ms": 322573,
         "popularity": 40,
         "track_url": "https://open.spotify.com/track/7yORKhsiAJB0jKaPiASEf1"
+    },
+    {
+        "song_name": "君は仆だ",
+        "singer_name": "Atsuko Maeda",
+        "added_at": "2016-06-22",
+        "album_name": "Selfish<TYPE-A>",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2734a8a746ec77f95fcac968c0f",
+        "album_cover_path": "top/1D13ic5JwHU5X1IzVjn24U.jpg",
+        "track_duration_ms": 224600,
+        "popularity": 23,
+        "track_url": "https://open.spotify.com/track/1D13ic5JwHU5X1IzVjn24U"
+    },
+    {
+        "song_name": "听海",
+        "singer_name": "A-Mei Chang",
+        "added_at": "1997-06-11",
+        "album_name": "Bad Boy",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2731debd484c8a5f63588647447",
+        "album_cover_path": "top/2WWDsBLNL4czuVcg7rjfy2.jpg",
+        "track_duration_ms": 318333,
+        "popularity": 58,
+        "track_url": "https://open.spotify.com/track/2WWDsBLNL4czuVcg7rjfy2"
     },
     {
         "song_name": "她的睫毛",
@@ -99,15 +132,15 @@
         "track_url": "https://open.spotify.com/track/6ZKmQF0QveVe21lt6nEJvi"
     },
     {
-        "song_name": "淋雨一直走",
-        "singer_name": "Angela Chang",
-        "added_at": "2012-10-12",
-        "album_name": "有形的翅膀",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273b94d0b304128e6601071bbd6",
-        "album_cover_path": "top/5AwdQtK9c0ogafVxM8EWte.jpg",
-        "track_duration_ms": 204906,
-        "popularity": 34,
-        "track_url": "https://open.spotify.com/track/5AwdQtK9c0ogafVxM8EWte"
+        "song_name": "フライングゲット",
+        "singer_name": "AKB48",
+        "added_at": "2012-08-15",
+        "album_name": "1830m",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273a4f984de3fbc0619370f88c8",
+        "album_cover_path": "top/75sVhuWjMLCtihbXY6TNKk.jpg",
+        "track_duration_ms": 257640,
+        "popularity": 46,
+        "track_url": "https://open.spotify.com/track/75sVhuWjMLCtihbXY6TNKk"
     },
     {
         "song_name": "解脱",
@@ -152,17 +185,6 @@
         "track_duration_ms": 285115,
         "popularity": 32,
         "track_url": "https://open.spotify.com/track/2KZO634LWOlumo7bEJSh21"
-    },
-    {
-        "song_name": "听海",
-        "singer_name": "A-Mei Chang",
-        "added_at": "1997-06-11",
-        "album_name": "Bad Boy",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2731debd484c8a5f63588647447",
-        "album_cover_path": "top/2WWDsBLNL4czuVcg7rjfy2.jpg",
-        "track_duration_ms": 318333,
-        "popularity": 58,
-        "track_url": "https://open.spotify.com/track/2WWDsBLNL4czuVcg7rjfy2"
     },
     {
         "song_name": "恋するフォーチュンクッキー",
@@ -262,17 +284,6 @@
         "track_duration_ms": 232853,
         "popularity": 53,
         "track_url": "https://open.spotify.com/track/6OAUhxFZzaRHHC8XiuIkvb"
-    },
-    {
-        "song_name": "フライングゲット",
-        "singer_name": "AKB48",
-        "added_at": "2012-08-15",
-        "album_name": "1830m",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273a4f984de3fbc0619370f88c8",
-        "album_cover_path": "top/75sVhuWjMLCtihbXY6TNKk.jpg",
-        "track_duration_ms": 257640,
-        "popularity": 46,
-        "track_url": "https://open.spotify.com/track/75sVhuWjMLCtihbXY6TNKk"
     },
     {
         "song_name": "英雄儿女",
@@ -537,16 +548,5 @@
         "track_duration_ms": 257493,
         "popularity": 6,
         "track_url": "https://open.spotify.com/track/2FnC1w0F0aLj1PbKcU4kxY"
-    },
-    {
-        "song_name": "Ready, Go!",
-        "singer_name": "ZARD",
-        "added_at": "1995-02-01",
-        "album_name": "Just believe in love",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2738298dc857f316fce487ec46a",
-        "album_cover_path": "top/2PF7jlS4vKSWtYZ1h2PNnv.jpg",
-        "track_duration_ms": 274400,
-        "popularity": 32,
-        "track_url": "https://open.spotify.com/track/2PF7jlS4vKSWtYZ1h2PNnv"
     }
 ]
