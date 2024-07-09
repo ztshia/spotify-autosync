@@ -55,6 +55,11 @@
         "added_at": "1997-06-11"
     },
     {
+        "song_name": "人质",
+        "singer_name": "A-Mei Chang",
+        "added_at": "2006-02-17"
+    },
+    {
         "song_name": "她的睫毛",
         "singer_name": "Jay Chou",
         "added_at": "2003-07-29"
@@ -130,11 +135,6 @@
         "added_at": "2015-12-11"
     },
     {
-        "song_name": "人质",
-        "singer_name": "A-Mei Chang",
-        "added_at": "2006-02-17"
-    },
-    {
         "song_name": "英雄儿女",
         "singer_name": "彭丽媛",
         "added_at": "2023-11-27"
@@ -143,6 +143,11 @@
         "song_name": "匿名的好友",
         "singer_name": "Rainie Yang",
         "added_at": "2009-12-29"
+    },
+    {
+        "song_name": "セブンスコード",
+        "singer_name": "Atsuko Maeda",
+        "added_at": "2016-06-22"
     },
     {
         "song_name": "生日快乐",
@@ -243,10 +248,5 @@
         "song_name": "右肩",
         "singer_name": "Atsuko Maeda",
         "added_at": "2016-06-22"
-    },
-    {
-        "song_name": "北京 北京",
-        "singer_name": "Hao Yun",
-        "added_at": "2018-03-27"
     }
 ]

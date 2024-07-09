@@ -121,6 +121,17 @@
         "track_url": "https://open.spotify.com/track/2WWDsBLNL4czuVcg7rjfy2"
     },
     {
+        "song_name": "人质",
+        "singer_name": "A-Mei Chang",
+        "added_at": "2006-02-17",
+        "album_name": "我要快乐 (Deluxe Version)",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273657284accb75e6b683ebd59a",
+        "album_cover_path": "top/6OAUhxFZzaRHHC8XiuIkvb.jpg",
+        "track_duration_ms": 232853,
+        "popularity": 53,
+        "track_url": "https://open.spotify.com/track/6OAUhxFZzaRHHC8XiuIkvb"
+    },
+    {
         "song_name": "她的睫毛",
         "singer_name": "Jay Chou",
         "added_at": "2003-07-29",
@@ -286,17 +297,6 @@
         "track_url": "https://open.spotify.com/track/5a9oEtMLbEAiopSRtXANIG"
     },
     {
-        "song_name": "人质",
-        "singer_name": "A-Mei Chang",
-        "added_at": "2006-02-17",
-        "album_name": "我要快乐 (Deluxe Version)",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273657284accb75e6b683ebd59a",
-        "album_cover_path": "top/6OAUhxFZzaRHHC8XiuIkvb.jpg",
-        "track_duration_ms": 232853,
-        "popularity": 53,
-        "track_url": "https://open.spotify.com/track/6OAUhxFZzaRHHC8XiuIkvb"
-    },
-    {
         "song_name": "英雄儿女",
         "singer_name": "彭丽媛",
         "added_at": "2023-11-27",
@@ -317,6 +317,17 @@
         "track_duration_ms": 261880,
         "popularity": 48,
         "track_url": "https://open.spotify.com/track/0o9XsvHqGY2L8E6LRztDv1"
+    },
+    {
+        "song_name": "セブンスコード",
+        "singer_name": "Atsuko Maeda",
+        "added_at": "2016-06-22",
+        "album_name": "Selfish<TYPE-C>",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273cd6363eff1b84333b9e776fb",
+        "album_cover_path": "top/1TQWabqSPUWHBFjHWL2uS8.jpg",
+        "track_duration_ms": 255546,
+        "popularity": 15,
+        "track_url": "https://open.spotify.com/track/1TQWabqSPUWHBFjHWL2uS8"
     },
     {
         "song_name": "生日快乐",
@@ -537,16 +548,5 @@
         "track_duration_ms": 305466,
         "popularity": 20,
         "track_url": "https://open.spotify.com/track/1vWW8DHnlQumZPKORKz9Ji"
-    },
-    {
-        "song_name": "北京 北京",
-        "singer_name": "Hao Yun",
-        "added_at": "2018-03-27",
-        "album_name": "郝云2016-2017冲动巡演全纪录",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273fcf3290d7267a7353b54ceda",
-        "album_cover_path": "top/2CFZbeDa2J06cF54tqJXsN.jpg",
-        "track_duration_ms": 226802,
-        "popularity": 8,
-        "track_url": "https://open.spotify.com/track/2CFZbeDa2J06cF54tqJXsN"
     }
 ]
