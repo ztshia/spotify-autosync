@@ -22,6 +22,17 @@
         "track_url": "https://open.spotify.com/track/1Ax9yT5o9RJ4IUjbK4mNaF"
     },
     {
+        "song_name": "小行迹",
+        "singer_name": "赵雷",
+        "added_at": "2022-08-29",
+        "album_name": "署前街少年",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273894cd0eec4a4698e5cbe34ee",
+        "album_cover_path": "top/0FDZioXKSRIIqu92ZeYeeI.jpg",
+        "track_duration_ms": 277493,
+        "popularity": 28,
+        "track_url": "https://open.spotify.com/track/0FDZioXKSRIIqu92ZeYeeI"
+    },
+    {
         "song_name": "365日の纸飞行机",
         "singer_name": "AKB48",
         "added_at": "2017-01-25",
@@ -64,17 +75,6 @@
         "track_duration_ms": 322573,
         "popularity": 40,
         "track_url": "https://open.spotify.com/track/7yORKhsiAJB0jKaPiASEf1"
-    },
-    {
-        "song_name": "小行迹",
-        "singer_name": "赵雷",
-        "added_at": "2022-08-29",
-        "album_name": "署前街少年",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273894cd0eec4a4698e5cbe34ee",
-        "album_cover_path": "top/0FDZioXKSRIIqu92ZeYeeI.jpg",
-        "track_duration_ms": 277493,
-        "popularity": 28,
-        "track_url": "https://open.spotify.com/track/0FDZioXKSRIIqu92ZeYeeI"
     },
     {
         "song_name": "她的睫毛",
