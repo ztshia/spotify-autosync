@@ -30,11 +30,6 @@
         "added_at": "2022-08-29"
     },
     {
-        "song_name": "秘密",
-        "singer_name": "Zhang Zhen Yue",
-        "added_at": "1997-10-30"
-    },
-    {
         "song_name": "她的睫毛",
         "singer_name": "Jay Chou",
         "added_at": "2003-07-29"
@@ -48,6 +43,11 @@
         "song_name": "淋雨一直走",
         "singer_name": "Angela Chang",
         "added_at": "2012-10-12"
+    },
+    {
+        "song_name": "秘密",
+        "singer_name": "Zhang Zhen Yue",
+        "added_at": "1997-10-30"
     },
     {
         "song_name": "解脱",

@@ -66,17 +66,6 @@
         "track_url": "https://open.spotify.com/track/0FDZioXKSRIIqu92ZeYeeI"
     },
     {
-        "song_name": "秘密",
-        "singer_name": "Zhang Zhen Yue",
-        "added_at": "1997-10-30",
-        "album_name": "这个下午很无聊",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2734e5e70c8920c21821a7e7efc",
-        "album_cover_path": "top/7yORKhsiAJB0jKaPiASEf1.jpg",
-        "track_duration_ms": 322573,
-        "popularity": 40,
-        "track_url": "https://open.spotify.com/track/7yORKhsiAJB0jKaPiASEf1"
-    },
-    {
         "song_name": "她的睫毛",
         "singer_name": "Jay Chou",
         "added_at": "2003-07-29",
@@ -108,6 +97,17 @@
         "track_duration_ms": 204906,
         "popularity": 34,
         "track_url": "https://open.spotify.com/track/5AwdQtK9c0ogafVxM8EWte"
+    },
+    {
+        "song_name": "秘密",
+        "singer_name": "Zhang Zhen Yue",
+        "added_at": "1997-10-30",
+        "album_name": "这个下午很无聊",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2734e5e70c8920c21821a7e7efc",
+        "album_cover_path": "top/7yORKhsiAJB0jKaPiASEf1.jpg",
+        "track_duration_ms": 322573,
+        "popularity": 40,
+        "track_url": "https://open.spotify.com/track/7yORKhsiAJB0jKaPiASEf1"
     },
     {
         "song_name": "解脱",
