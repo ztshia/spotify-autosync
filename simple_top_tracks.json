@@ -185,6 +185,11 @@
         "added_at": "2002-06-25"
     },
     {
+        "song_name": "ハート型ウイルス [no3b ver.]",
+        "singer_name": "ノースリーブス",
+        "added_at": "2012-11-07"
+    },
+    {
         "song_name": "明天你是否依然爱我",
         "singer_name": "童安格",
         "added_at": "1989-01-01"
@@ -243,10 +248,5 @@
         "song_name": "可惜我是水瓶座",
         "singer_name": "Miriam Yeung",
         "added_at": "2003-01-01"
-    },
-    {
-        "song_name": "右肩",
-        "singer_name": "Atsuko Maeda",
-        "added_at": "2016-06-22"
     }
 ]

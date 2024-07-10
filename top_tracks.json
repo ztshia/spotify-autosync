@@ -407,6 +407,17 @@
         "track_url": "https://open.spotify.com/track/0cNyIy3ijBKWzNQM7Pjb3S"
     },
     {
+        "song_name": "ハート型ウイルス [no3b ver.]",
+        "singer_name": "ノースリーブス",
+        "added_at": "2012-11-07",
+        "album_name": "ノースリーブス",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273e8e6f295bf2cdb41e4a58b70",
+        "album_cover_path": "top/0mbrp0RsP9C3lXnbJ7c400.jpg",
+        "track_duration_ms": 235000,
+        "popularity": 30,
+        "track_url": "https://open.spotify.com/track/0mbrp0RsP9C3lXnbJ7c400"
+    },
+    {
         "song_name": "明天你是否依然爱我",
         "singer_name": "童安格",
         "added_at": "1989-01-01",
@@ -537,16 +548,5 @@
         "track_duration_ms": 215333,
         "popularity": 54,
         "track_url": "https://open.spotify.com/track/1sWUT5hSawhEctQEQrVQdn"
-    },
-    {
-        "song_name": "右肩",
-        "singer_name": "Atsuko Maeda",
-        "added_at": "2016-06-22",
-        "album_name": "Selfish<TYPE-B>",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b27371e77a698dd334f1d18e431a",
-        "album_cover_path": "top/1vWW8DHnlQumZPKORKz9Ji.jpg",
-        "track_duration_ms": 305466,
-        "popularity": 20,
-        "track_url": "https://open.spotify.com/track/1vWW8DHnlQumZPKORKz9Ji"
     }
 ]
