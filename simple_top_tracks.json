@@ -75,11 +75,6 @@
         "added_at": "2012-08-15"
     },
     {
-        "song_name": "解脱",
-        "singer_name": "A-Mei Chang",
-        "added_at": "1996-12-13"
-    },
-    {
         "song_name": "As Long as You Love Me",
         "singer_name": "Backstreet Boys",
         "added_at": "1996"
@@ -98,6 +93,11 @@
         "song_name": "恋するフォーチュンクッキー",
         "singer_name": "AKB48",
         "added_at": "2013-08-21"
+    },
+    {
+        "song_name": "解脱",
+        "singer_name": "A-Mei Chang",
+        "added_at": "1996-12-13"
     },
     {
         "song_name": "独家记忆",
