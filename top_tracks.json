@@ -352,6 +352,17 @@
         "track_url": "https://open.spotify.com/track/75sVhuWjMLCtihbXY6TNKk"
     },
     {
+        "song_name": "隐形的纪念",
+        "singer_name": "Ashin Chen",
+        "added_at": "2019-04-27",
+        "album_name": "隐形的纪念",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273f96459ab5c2ea5746b384119",
+        "album_cover_path": "top/7MZntt73sRKP0R8kWLo1ba.jpg",
+        "track_duration_ms": 300357,
+        "popularity": 25,
+        "track_url": "https://open.spotify.com/track/7MZntt73sRKP0R8kWLo1ba"
+    },
+    {
         "song_name": "Sk8er Boi",
         "singer_name": "Avril Lavigne",
         "added_at": "2002-06-04",
@@ -537,16 +548,5 @@
         "track_duration_ms": 305466,
         "popularity": 20,
         "track_url": "https://open.spotify.com/track/1vWW8DHnlQumZPKORKz9Ji"
-    },
-    {
-        "song_name": "北京 北京",
-        "singer_name": "Hao Yun",
-        "added_at": "2018-03-27",
-        "album_name": "郝云2016-2017冲动巡演全纪录",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273fcf3290d7267a7353b54ceda",
-        "album_cover_path": "top/2CFZbeDa2J06cF54tqJXsN.jpg",
-        "track_duration_ms": 226802,
-        "popularity": 8,
-        "track_url": "https://open.spotify.com/track/2CFZbeDa2J06cF54tqJXsN"
     }
 ]
