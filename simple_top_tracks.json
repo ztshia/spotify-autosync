@@ -5,19 +5,9 @@
         "added_at": "2007-08-14"
     },
     {
-        "song_name": "只要有你",
-        "singer_name": "黄晓明, 刘涛, 周杰, 古巨基, 马伊琍, 黄奕",
-        "added_at": "2003-07-01"
-    },
-    {
         "song_name": "小行迹",
         "singer_name": "赵雷",
         "added_at": "2022-08-29"
-    },
-    {
-        "song_name": "365日の纸飞行机",
-        "singer_name": "AKB48",
-        "added_at": "2017-01-25"
     },
     {
         "song_name": "断了的弦",
@@ -70,14 +60,19 @@
         "added_at": "2024-02-12"
     },
     {
-        "song_name": "フライングゲット",
-        "singer_name": "AKB48",
-        "added_at": "2012-08-15"
-    },
-    {
         "song_name": "As Long as You Love Me",
         "singer_name": "Backstreet Boys",
         "added_at": "1996"
+    },
+    {
+        "song_name": "365日の纸飞行机",
+        "singer_name": "AKB48",
+        "added_at": "2017-01-25"
+    },
+    {
+        "song_name": "只要有你",
+        "singer_name": "黄晓明, 刘涛, 周杰, 古巨基, 马伊琍, 黄奕",
+        "added_at": "2003-07-01"
     },
     {
         "song_name": "不摇滚",
@@ -110,11 +105,6 @@
         "added_at": "1992-04-20"
     },
     {
-        "song_name": "奇洛李维斯回信",
-        "singer_name": "Fiona Sit",
-        "added_at": "2004-04-08"
-    },
-    {
         "song_name": "姊妹",
         "singer_name": "Miriam Yeung",
         "added_at": "2006-01-01"
@@ -128,11 +118,6 @@
         "song_name": "我想要",
         "singer_name": "小阿七",
         "added_at": "2021-07-02"
-    },
-    {
-        "song_name": "最好的债",
-        "singer_name": "Miriam Yeung",
-        "added_at": "2015-12-11"
     },
     {
         "song_name": "英雄儿女",
@@ -160,12 +145,7 @@
         "added_at": "2015-02-02"
     },
     {
-        "song_name": "ポニーテールとシュシュ",
-        "singer_name": "AKB48",
-        "added_at": "2011-06-08"
-    },
-    {
-        "song_name": "Everyday、カチューシャ",
+        "song_name": "フライングゲット",
         "singer_name": "AKB48",
         "added_at": "2012-08-15"
     },
@@ -248,5 +228,25 @@
         "song_name": "可惜我是水瓶座",
         "singer_name": "Miriam Yeung",
         "added_at": "2003-01-01"
+    },
+    {
+        "song_name": "右肩",
+        "singer_name": "Atsuko Maeda",
+        "added_at": "2016-06-22"
+    },
+    {
+        "song_name": "北京 北京",
+        "singer_name": "Hao Yun",
+        "added_at": "2018-03-27"
+    },
+    {
+        "song_name": "セブンスコード",
+        "singer_name": "Atsuko Maeda",
+        "added_at": "2014-03-05"
+    },
+    {
+        "song_name": "Ready, Go!",
+        "singer_name": "ZARD",
+        "added_at": "1995-02-01"
     }
 ]
