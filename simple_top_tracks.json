@@ -25,6 +25,11 @@
         "added_at": "1997-10-30"
     },
     {
+        "song_name": "上からマリコ",
+        "singer_name": "AKB48",
+        "added_at": "2011-12-07"
+    },
+    {
         "song_name": "君は仆だ",
         "singer_name": "Atsuko Maeda",
         "added_at": "2016-06-22"
@@ -150,6 +155,11 @@
         "added_at": "2015-02-02"
     },
     {
+        "song_name": "让我照顾你",
+        "singer_name": "Mayday",
+        "added_at": "2004-11-05"
+    },
+    {
         "song_name": "那些女孩教我的事",
         "singer_name": "Victor Wong",
         "added_at": "2008-04-18"
@@ -188,11 +198,6 @@
         "song_name": "明天你是否依然爱我",
         "singer_name": "童安格",
         "added_at": "1989-01-01"
-    },
-    {
-        "song_name": "上からマリコ",
-        "singer_name": "AKB48",
-        "added_at": "2011-12-07"
     },
     {
         "song_name": "ハジマリノウタ〜远い空澄んで〜",
@@ -241,11 +246,6 @@
     },
     {
         "song_name": "笑中有泪",
-        "singer_name": "Miriam Yeung",
-        "added_at": "2003-01-01"
-    },
-    {
-        "song_name": "可惜我是水瓶座",
         "singer_name": "Miriam Yeung",
         "added_at": "2003-01-01"
     }
