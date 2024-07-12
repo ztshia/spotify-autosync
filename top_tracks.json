@@ -341,6 +341,17 @@
         "track_url": "https://open.spotify.com/track/2j6JzWe86H8oULfJYWhKim"
     },
     {
+        "song_name": "勇气",
+        "singer_name": "Fish Leong",
+        "added_at": "2000-08-02",
+        "album_name": "勇气",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2734f33cc2b3adabd7493e44619",
+        "album_cover_path": "top/1SNF1IdMuKPDhw9HTrdcvM.jpg",
+        "track_duration_ms": 239293,
+        "popularity": 54,
+        "track_url": "https://open.spotify.com/track/1SNF1IdMuKPDhw9HTrdcvM"
+    },
+    {
         "song_name": "易燃易爆炸",
         "singer_name": "陈粒",
         "added_at": "2015-02-02",
@@ -526,17 +537,6 @@
         "track_duration_ms": 278573,
         "popularity": 42,
         "track_url": "https://open.spotify.com/track/18J1skShnRiRdvLoOaDLTC"
-    },
-    {
-        "song_name": "勇气",
-        "singer_name": "Fish Leong",
-        "added_at": "2000-08-02",
-        "album_name": "勇气",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2734f33cc2b3adabd7493e44619",
-        "album_cover_path": "top/1SNF1IdMuKPDhw9HTrdcvM.jpg",
-        "track_duration_ms": 239293,
-        "popularity": 54,
-        "track_url": "https://open.spotify.com/track/1SNF1IdMuKPDhw9HTrdcvM"
     },
     {
         "song_name": "息もできない",
