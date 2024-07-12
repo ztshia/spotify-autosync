@@ -75,6 +75,11 @@
         "added_at": "2003-07-01"
     },
     {
+        "song_name": "任意门",
+        "singer_name": "Mayday",
+        "added_at": "2016-07-21"
+    },
+    {
         "song_name": "不摇滚",
         "singer_name": "831, 房东的猫",
         "added_at": "2019-10-25"
@@ -243,10 +248,5 @@
         "song_name": "セブンスコード",
         "singer_name": "Atsuko Maeda",
         "added_at": "2014-03-05"
-    },
-    {
-        "song_name": "Ready, Go!",
-        "singer_name": "ZARD",
-        "added_at": "1995-02-01"
     }
 ]
