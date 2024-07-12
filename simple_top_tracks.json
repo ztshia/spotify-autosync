@@ -130,6 +130,11 @@
         "added_at": "2021-07-02"
     },
     {
+        "song_name": "请你爱我 - 电影 : 原谅他77次 主题曲",
+        "singer_name": "Charlene Choi, Pakho Chau",
+        "added_at": "2017-04-26"
+    },
+    {
         "song_name": "英雄儿女",
         "singer_name": "彭丽媛",
         "added_at": "2023-11-27"
@@ -243,10 +248,5 @@
         "song_name": "タイムマシンなんていらない",
         "singer_name": "Atsuko Maeda",
         "added_at": "2016-06-22"
-    },
-    {
-        "song_name": "笑中有泪",
-        "singer_name": "Miriam Yeung",
-        "added_at": "2003-01-01"
     }
 ]
