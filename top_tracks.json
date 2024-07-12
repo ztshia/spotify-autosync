@@ -44,6 +44,17 @@
         "track_url": "https://open.spotify.com/track/5ww0kT35Y7uSjb8obD0tzk"
     },
     {
+        "song_name": "人质",
+        "singer_name": "A-Mei Chang",
+        "added_at": "2006-02-17",
+        "album_name": "我要快乐 (Deluxe Version)",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273657284accb75e6b683ebd59a",
+        "album_cover_path": "top/6OAUhxFZzaRHHC8XiuIkvb.jpg",
+        "track_duration_ms": 232853,
+        "popularity": 53,
+        "track_url": "https://open.spotify.com/track/6OAUhxFZzaRHHC8XiuIkvb"
+    },
+    {
         "song_name": "秘密",
         "singer_name": "Zhang Zhen Yue",
         "added_at": "1997-10-30",
@@ -108,17 +119,6 @@
         "track_duration_ms": 204906,
         "popularity": 34,
         "track_url": "https://open.spotify.com/track/5AwdQtK9c0ogafVxM8EWte"
-    },
-    {
-        "song_name": "人质",
-        "singer_name": "A-Mei Chang",
-        "added_at": "2006-02-17",
-        "album_name": "我要快乐 (Deluxe Version)",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273657284accb75e6b683ebd59a",
-        "album_cover_path": "top/6OAUhxFZzaRHHC8XiuIkvb.jpg",
-        "track_duration_ms": 232853,
-        "popularity": 53,
-        "track_url": "https://open.spotify.com/track/6OAUhxFZzaRHHC8XiuIkvb"
     },
     {
         "song_name": "她的睫毛",
