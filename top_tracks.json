@@ -330,6 +330,17 @@
         "track_url": "https://open.spotify.com/track/3OWTiOvc1numNmjqpKfq3V"
     },
     {
+        "song_name": "那些女孩教我的事",
+        "singer_name": "Victor Wong",
+        "added_at": "2008-04-18",
+        "album_name": "那些女孩教我的事",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b27309ef6f9bb62dc4248b225555",
+        "album_cover_path": "top/67uanblQscHlU8SClpZW2L.jpg",
+        "track_duration_ms": 254093,
+        "popularity": 33,
+        "track_url": "https://open.spotify.com/track/67uanblQscHlU8SClpZW2L"
+    },
+    {
         "song_name": "フライングゲット",
         "singer_name": "AKB48",
         "added_at": "2012-08-15",
@@ -537,16 +548,5 @@
         "track_duration_ms": 226802,
         "popularity": 8,
         "track_url": "https://open.spotify.com/track/2CFZbeDa2J06cF54tqJXsN"
-    },
-    {
-        "song_name": "セブンスコード",
-        "singer_name": "Atsuko Maeda",
-        "added_at": "2014-03-05",
-        "album_name": "セブンスコード Type-A",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b27332e82babee085624b433a2e3",
-        "album_cover_path": "top/2FnC1w0F0aLj1PbKcU4kxY.jpg",
-        "track_duration_ms": 257493,
-        "popularity": 6,
-        "track_url": "https://open.spotify.com/track/2FnC1w0F0aLj1PbKcU4kxY"
     }
 ]
