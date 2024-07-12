@@ -462,6 +462,17 @@
         "track_url": "https://open.spotify.com/track/13T5qmhQR7JhR6EWoDPZXX"
     },
     {
+        "song_name": "ノエルの夜",
+        "singer_name": "AKB48",
+        "added_at": "2011-12-07",
+        "album_name": "上からマリコ〈Type-K〉",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273e7a8b94c31bf482881191228",
+        "album_cover_path": "top/14fdCeSeWj2880r0zRvRF6.jpg",
+        "track_duration_ms": 248520,
+        "popularity": 8,
+        "track_url": "https://open.spotify.com/track/14fdCeSeWj2880r0zRvRF6"
+    },
+    {
         "song_name": "一事无成的伟大",
         "singer_name": "831",
         "added_at": "2019-03-20",
@@ -537,16 +548,5 @@
         "track_duration_ms": 215333,
         "popularity": 54,
         "track_url": "https://open.spotify.com/track/1sWUT5hSawhEctQEQrVQdn"
-    },
-    {
-        "song_name": "右肩",
-        "singer_name": "Atsuko Maeda",
-        "added_at": "2016-06-22",
-        "album_name": "Selfish<TYPE-B>",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b27371e77a698dd334f1d18e431a",
-        "album_cover_path": "top/1vWW8DHnlQumZPKORKz9Ji.jpg",
-        "track_duration_ms": 305466,
-        "popularity": 20,
-        "track_url": "https://open.spotify.com/track/1vWW8DHnlQumZPKORKz9Ji"
     }
 ]

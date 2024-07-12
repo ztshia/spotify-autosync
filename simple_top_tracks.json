@@ -210,6 +210,11 @@
         "added_at": "2001"
     },
     {
+        "song_name": "ノエルの夜",
+        "singer_name": "AKB48",
+        "added_at": "2011-12-07"
+    },
+    {
         "song_name": "一事无成的伟大",
         "singer_name": "831",
         "added_at": "2019-03-20"
@@ -243,10 +248,5 @@
         "song_name": "可惜我是水瓶座",
         "singer_name": "Miriam Yeung",
         "added_at": "2003-01-01"
-    },
-    {
-        "song_name": "右肩",
-        "singer_name": "Atsuko Maeda",
-        "added_at": "2016-06-22"
     }
 ]
