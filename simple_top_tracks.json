@@ -60,11 +60,6 @@
         "added_at": "2003-07-29"
     },
     {
-        "song_name": "カラコンウインク",
-        "singer_name": "AKB48",
-        "added_at": "2024-02-12"
-    },
-    {
         "song_name": "As Long as You Love Me",
         "singer_name": "Backstreet Boys",
         "added_at": "1996"
@@ -153,6 +148,11 @@
         "song_name": "生日快乐",
         "singer_name": "房东的猫",
         "added_at": "2023-05-04"
+    },
+    {
+        "song_name": "カラコンウインク",
+        "singer_name": "AKB48",
+        "added_at": "2024-02-12"
     },
     {
         "song_name": "勇气",
