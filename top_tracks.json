@@ -154,6 +154,17 @@
         "track_url": "https://open.spotify.com/track/0JncJnMiDjLpeYURyhFgch"
     },
     {
+        "song_name": "匿名的好友",
+        "singer_name": "Rainie Yang",
+        "added_at": "2009-12-29",
+        "album_name": "雨爱",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2737781cc488fb3aeca4a1c5a5c",
+        "album_cover_path": "top/0o9XsvHqGY2L8E6LRztDv1.jpg",
+        "track_duration_ms": 261880,
+        "popularity": 48,
+        "track_url": "https://open.spotify.com/track/0o9XsvHqGY2L8E6LRztDv1"
+    },
+    {
         "song_name": "只要有你",
         "singer_name": "黄晓明, 刘涛, 周杰, 古巨基, 马伊琍, 黄奕",
         "added_at": "2003-07-01",
@@ -295,17 +306,6 @@
         "track_duration_ms": 271281,
         "popularity": 4,
         "track_url": "https://open.spotify.com/track/0nkPzU2h70zxVpRTEcCFf4"
-    },
-    {
-        "song_name": "匿名的好友",
-        "singer_name": "Rainie Yang",
-        "added_at": "2009-12-29",
-        "album_name": "雨爱",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2737781cc488fb3aeca4a1c5a5c",
-        "album_cover_path": "top/0o9XsvHqGY2L8E6LRztDv1.jpg",
-        "track_duration_ms": 261880,
-        "popularity": 48,
-        "track_url": "https://open.spotify.com/track/0o9XsvHqGY2L8E6LRztDv1"
     },
     {
         "song_name": "セブンスコード",

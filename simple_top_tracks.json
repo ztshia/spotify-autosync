@@ -70,6 +70,11 @@
         "added_at": "2017-01-25"
     },
     {
+        "song_name": "匿名的好友",
+        "singer_name": "Rainie Yang",
+        "added_at": "2009-12-29"
+    },
+    {
         "song_name": "只要有你",
         "singer_name": "黄晓明, 刘涛, 周杰, 古巨基, 马伊琍, 黄奕",
         "added_at": "2003-07-01"
@@ -133,11 +138,6 @@
         "song_name": "英雄儿女",
         "singer_name": "彭丽媛",
         "added_at": "2023-11-27"
-    },
-    {
-        "song_name": "匿名的好友",
-        "singer_name": "Rainie Yang",
-        "added_at": "2009-12-29"
     },
     {
         "song_name": "セブンスコード",
