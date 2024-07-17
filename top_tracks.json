@@ -22,17 +22,6 @@
         "track_url": "https://open.spotify.com/track/6ua4mNb8k1AyJBTpyhB4PD"
     },
     {
-        "song_name": "英雄赞歌 - 电影《英雄儿女》插曲",
-        "singer_name": "中国人民解放军总政歌舞团合唱队",
-        "added_at": "2023-11-05",
-        "album_name": "中国电影百年歌曲精萃（五）II",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2732345d1bbd991b3ca9fced631",
-        "album_cover_path": "top/5ww0kT35Y7uSjb8obD0tzk.jpg",
-        "track_duration_ms": 255240,
-        "popularity": 3,
-        "track_url": "https://open.spotify.com/track/5ww0kT35Y7uSjb8obD0tzk"
-    },
-    {
         "song_name": "人质",
         "singer_name": "A-Mei Chang",
         "added_at": "2006-02-17",
@@ -220,17 +209,6 @@
         "track_url": "https://open.spotify.com/track/33wxzspBqwNVyvs8j6o1CS"
     },
     {
-        "song_name": "恋するフォーチュンクッキー",
-        "singer_name": "AKB48",
-        "added_at": "2013-08-21",
-        "album_name": "恋するフォーチュンクッキー <Type-A> 通常盘",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b27367e2fee59f3295d99c8e9b90",
-        "album_cover_path": "top/3Tw2WaAaeRj0YKtTUogJVz.jpg",
-        "track_duration_ms": 284226,
-        "popularity": 45,
-        "track_url": "https://open.spotify.com/track/3Tw2WaAaeRj0YKtTUogJVz"
-    },
-    {
         "song_name": "解脱",
         "singer_name": "A-Mei Chang",
         "added_at": "1996-12-13",
@@ -253,39 +231,6 @@
         "track_url": "https://open.spotify.com/track/3cSHn8YDBsq4Tlc4RXKSUe"
     },
     {
-        "song_name": "水手",
-        "singer_name": "郑智化, Lin Zheng-Zhong (Jerry), Lou Ji-Zhen",
-        "added_at": "1992-04-20",
-        "album_name": "私房歌",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273bab1657dc21bb967146435d7",
-        "album_cover_path": "top/3xRNwjF4BkUxQmrBAXes6g.jpg",
-        "track_duration_ms": 292866,
-        "popularity": 41,
-        "track_url": "https://open.spotify.com/track/3xRNwjF4BkUxQmrBAXes6g"
-    },
-    {
-        "song_name": "姊妹",
-        "singer_name": "Miriam Yeung",
-        "added_at": "2006-01-01",
-        "album_name": "正东 10 X 10 我至爱唱片-杨千嬅MIRIAM",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273b59ed538640da521dedda661",
-        "album_cover_path": "top/4nzEm4ymqDfbspwOL0Avfd.jpg",
-        "track_duration_ms": 267026,
-        "popularity": 26,
-        "track_url": "https://open.spotify.com/track/4nzEm4ymqDfbspwOL0Avfd"
-    },
-    {
-        "song_name": "星星点灯",
-        "singer_name": "郑智化, Weng Wei-Ming",
-        "added_at": "1992-01-02",
-        "album_name": "星星点灯",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273a3d7d4c6089dcbd76525ec49",
-        "album_cover_path": "top/502oVRqbvjsMlrT4hthQuJ.jpg",
-        "track_duration_ms": 302986,
-        "popularity": 36,
-        "track_url": "https://open.spotify.com/track/502oVRqbvjsMlrT4hthQuJ"
-    },
-    {
         "song_name": "我想要",
         "singer_name": "小阿七",
         "added_at": "2021-07-02",
@@ -306,17 +251,6 @@
         "track_duration_ms": 173385,
         "popularity": 30,
         "track_url": "https://open.spotify.com/track/6wCdaGGHgkdLqzyNMLey27"
-    },
-    {
-        "song_name": "英雄儿女",
-        "singer_name": "彭丽媛",
-        "added_at": "2023-11-27",
-        "album_name": "和谐中国颂—第3章·钢铁长城",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b27386152eb01b5127cd812184ad",
-        "album_cover_path": "top/0nkPzU2h70zxVpRTEcCFf4.jpg",
-        "track_duration_ms": 271281,
-        "popularity": 3,
-        "track_url": "https://open.spotify.com/track/0nkPzU2h70zxVpRTEcCFf4"
     },
     {
         "song_name": "セブンスコード",
@@ -548,5 +482,71 @@
         "track_duration_ms": 278573,
         "popularity": 42,
         "track_url": "https://open.spotify.com/track/18J1skShnRiRdvLoOaDLTC"
+    },
+    {
+        "song_name": "タイムマシンなんていらない",
+        "singer_name": "Atsuko Maeda",
+        "added_at": "2016-06-22",
+        "album_name": "Selfish<TYPE-C>",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273cd6363eff1b84333b9e776fb",
+        "album_cover_path": "top/1i5LCYqiAS63x8wVFx6lv4.jpg",
+        "track_duration_ms": 250280,
+        "popularity": 24,
+        "track_url": "https://open.spotify.com/track/1i5LCYqiAS63x8wVFx6lv4"
+    },
+    {
+        "song_name": "可惜我是水瓶座",
+        "singer_name": "Miriam Yeung",
+        "added_at": "2003-01-01",
+        "album_name": "Miriam's Music Box",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273b5b9a8e27ae1d3be8dd6fdbc",
+        "album_cover_path": "top/1sWUT5hSawhEctQEQrVQdn.jpg",
+        "track_duration_ms": 215333,
+        "popularity": 55,
+        "track_url": "https://open.spotify.com/track/1sWUT5hSawhEctQEQrVQdn"
+    },
+    {
+        "song_name": "右肩",
+        "singer_name": "Atsuko Maeda",
+        "added_at": "2016-06-22",
+        "album_name": "Selfish<TYPE-B>",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b27371e77a698dd334f1d18e431a",
+        "album_cover_path": "top/1vWW8DHnlQumZPKORKz9Ji.jpg",
+        "track_duration_ms": 305466,
+        "popularity": 20,
+        "track_url": "https://open.spotify.com/track/1vWW8DHnlQumZPKORKz9Ji"
+    },
+    {
+        "song_name": "北京 北京",
+        "singer_name": "Hao Yun",
+        "added_at": "2018-03-27",
+        "album_name": "郝云2016-2017冲动巡演全纪录",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273fcf3290d7267a7353b54ceda",
+        "album_cover_path": "top/2CFZbeDa2J06cF54tqJXsN.jpg",
+        "track_duration_ms": 226802,
+        "popularity": 8,
+        "track_url": "https://open.spotify.com/track/2CFZbeDa2J06cF54tqJXsN"
+    },
+    {
+        "song_name": "セブンスコード",
+        "singer_name": "Atsuko Maeda",
+        "added_at": "2014-03-05",
+        "album_name": "セブンスコード Type-A",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b27332e82babee085624b433a2e3",
+        "album_cover_path": "top/2FnC1w0F0aLj1PbKcU4kxY.jpg",
+        "track_duration_ms": 257493,
+        "popularity": 6,
+        "track_url": "https://open.spotify.com/track/2FnC1w0F0aLj1PbKcU4kxY"
+    },
+    {
+        "song_name": "Ready, Go!",
+        "singer_name": "ZARD",
+        "added_at": "1995-02-01",
+        "album_name": "Just believe in love",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2738298dc857f316fce487ec46a",
+        "album_cover_path": "top/2PF7jlS4vKSWtYZ1h2PNnv.jpg",
+        "track_duration_ms": 274400,
+        "popularity": 33,
+        "track_url": "https://open.spotify.com/track/2PF7jlS4vKSWtYZ1h2PNnv"
     }
 ]
