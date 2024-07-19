@@ -1,16 +1,5 @@
 [
     {
-        "song_name": "小行迹",
-        "singer_name": "赵雷",
-        "added_at": "2022-08-29",
-        "album_name": "署前街少年",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273894cd0eec4a4698e5cbe34ee",
-        "album_cover_path": "top/0FDZioXKSRIIqu92ZeYeeI.jpg",
-        "track_duration_ms": 277493,
-        "popularity": 28,
-        "track_url": "https://open.spotify.com/track/0FDZioXKSRIIqu92ZeYeeI"
-    },
-    {
         "song_name": "断了的弦",
         "singer_name": "Jay Chou",
         "added_at": "2003-11-11",
@@ -99,17 +88,6 @@
         "track_url": "https://open.spotify.com/track/5AwdQtK9c0ogafVxM8EWte"
     },
     {
-        "song_name": "每当变幻时 - 电影 每当变幻时 主题曲",
-        "singer_name": "Miriam Yeung",
-        "added_at": "2007-08-14",
-        "album_name": "Meridian",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273aee5f9eff786c7807a3a95e4",
-        "album_cover_path": "top/6wW16Rh7083lL2phMMLpZV.jpg",
-        "track_duration_ms": 161133,
-        "popularity": 19,
-        "track_url": "https://open.spotify.com/track/6wW16Rh7083lL2phMMLpZV"
-    },
-    {
         "song_name": "她的睫毛",
         "singer_name": "Jay Chou",
         "added_at": "2003-07-29",
@@ -132,15 +110,15 @@
         "track_url": "https://open.spotify.com/track/00WvmRXTkPBZNhhRK3xfdy"
     },
     {
-        "song_name": "365日の纸飞行机",
-        "singer_name": "AKB48",
-        "added_at": "2017-01-25",
-        "album_name": "サムネイル<Type A>",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b27371c8a0b9a128451abf918b24",
-        "album_cover_path": "top/0JncJnMiDjLpeYURyhFgch.jpg",
-        "track_duration_ms": 283373,
-        "popularity": 48,
-        "track_url": "https://open.spotify.com/track/0JncJnMiDjLpeYURyhFgch"
+        "song_name": "小行迹",
+        "singer_name": "赵雷",
+        "added_at": "2022-08-29",
+        "album_name": "署前街少年",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273894cd0eec4a4698e5cbe34ee",
+        "album_cover_path": "top/0FDZioXKSRIIqu92ZeYeeI.jpg",
+        "track_duration_ms": 277493,
+        "popularity": 28,
+        "track_url": "https://open.spotify.com/track/0FDZioXKSRIIqu92ZeYeeI"
     },
     {
         "song_name": "匿名的好友",
@@ -152,17 +130,6 @@
         "track_duration_ms": 261880,
         "popularity": 49,
         "track_url": "https://open.spotify.com/track/0o9XsvHqGY2L8E6LRztDv1"
-    },
-    {
-        "song_name": "只要有你",
-        "singer_name": "黄晓明, 刘涛, 周杰, 古巨基, 马伊琍, 黄奕",
-        "added_at": "2003-07-01",
-        "album_name": "只要有你",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273ef3e3253cea2672e0b634b95",
-        "album_cover_path": "top/1Ax9yT5o9RJ4IUjbK4mNaF.jpg",
-        "track_duration_ms": 317640,
-        "popularity": 25,
-        "track_url": "https://open.spotify.com/track/1Ax9yT5o9RJ4IUjbK4mNaF"
     },
     {
         "song_name": "任意门",
@@ -218,17 +185,6 @@
         "track_duration_ms": 284666,
         "popularity": 52,
         "track_url": "https://open.spotify.com/track/3awaN4hJ3e3s6WcVEB79fE"
-    },
-    {
-        "song_name": "独家记忆",
-        "singer_name": "Jordan Chan",
-        "added_at": "2008-01-01",
-        "album_name": "独家记忆",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273e1ca932a2cd98a243fba4a4a",
-        "album_cover_path": "top/3cSHn8YDBsq4Tlc4RXKSUe.jpg",
-        "track_duration_ms": 307093,
-        "popularity": 55,
-        "track_url": "https://open.spotify.com/track/3cSHn8YDBsq4Tlc4RXKSUe"
     },
     {
         "song_name": "我想要",
@@ -330,17 +286,6 @@
         "track_url": "https://open.spotify.com/track/67uanblQscHlU8SClpZW2L"
     },
     {
-        "song_name": "フライングゲット",
-        "singer_name": "AKB48",
-        "added_at": "2012-08-15",
-        "album_name": "1830m",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273a4f984de3fbc0619370f88c8",
-        "album_cover_path": "top/75sVhuWjMLCtihbXY6TNKk.jpg",
-        "track_duration_ms": 257640,
-        "popularity": 47,
-        "track_url": "https://open.spotify.com/track/75sVhuWjMLCtihbXY6TNKk"
-    },
-    {
         "song_name": "隐形的纪念",
         "singer_name": "Ashin Chen",
         "added_at": "2019-04-27",
@@ -372,28 +317,6 @@
         "track_duration_ms": 204000,
         "popularity": 76,
         "track_url": "https://open.spotify.com/track/00Mb3DuaIH1kjrwOku9CGU"
-    },
-    {
-        "song_name": "头号甜心",
-        "singer_name": "Angela Chang",
-        "added_at": "2007-12-14",
-        "album_name": "Ang5.0",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2734f000b0055b55f073682c4df",
-        "album_cover_path": "top/05GXrtPXpqjimB3i8Ctyzz.jpg",
-        "track_duration_ms": 219388,
-        "popularity": 30,
-        "track_url": "https://open.spotify.com/track/05GXrtPXpqjimB3i8Ctyzz"
-    },
-    {
-        "song_name": "我们的纪念册",
-        "singer_name": "Twins",
-        "added_at": "2002-06-25",
-        "album_name": "我们的纪念册",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273f05657e778211a9583ecd246",
-        "album_cover_path": "top/0cNyIy3ijBKWzNQM7Pjb3S.jpg",
-        "track_duration_ms": 264213,
-        "popularity": 31,
-        "track_url": "https://open.spotify.com/track/0cNyIy3ijBKWzNQM7Pjb3S"
     },
     {
         "song_name": "ハート型ウイルス [no3b ver.]",
@@ -484,6 +407,17 @@
         "track_url": "https://open.spotify.com/track/18J1skShnRiRdvLoOaDLTC"
     },
     {
+        "song_name": "只要有你",
+        "singer_name": "黄晓明, 刘涛, 周杰, 古巨基, 马伊琍, 黄奕",
+        "added_at": "2003-07-01",
+        "album_name": "只要有你",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273ef3e3253cea2672e0b634b95",
+        "album_cover_path": "top/1Ax9yT5o9RJ4IUjbK4mNaF.jpg",
+        "track_duration_ms": 317640,
+        "popularity": 25,
+        "track_url": "https://open.spotify.com/track/1Ax9yT5o9RJ4IUjbK4mNaF"
+    },
+    {
         "song_name": "タイムマシンなんていらない",
         "singer_name": "Atsuko Maeda",
         "added_at": "2016-06-22",
@@ -548,5 +482,71 @@
         "track_duration_ms": 274400,
         "popularity": 33,
         "track_url": "https://open.spotify.com/track/2PF7jlS4vKSWtYZ1h2PNnv"
+    },
+    {
+        "song_name": "独り占め",
+        "singer_name": "Atsuko Maeda",
+        "added_at": "2014-03-05",
+        "album_name": "セブンスコード Type-A",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b27332e82babee085624b433a2e3",
+        "album_cover_path": "top/2RSgYN3cEROrb3T5Bd7uTj.jpg",
+        "track_duration_ms": 225693,
+        "popularity": 1,
+        "track_url": "https://open.spotify.com/track/2RSgYN3cEROrb3T5Bd7uTj"
+    },
+    {
+        "song_name": "被动 feat. 伍佰 - Live",
+        "singer_name": "LaLa Hsu, Wu Bai",
+        "added_at": "2019-12-06",
+        "album_name": "徐佳莹是日救星演唱会Live",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273fe898e6b1872fa94e169fa7c",
+        "album_cover_path": "top/2WQpWaHZ4lrwzA3qQ9I1PH.jpg",
+        "track_duration_ms": 285549,
+        "popularity": 29,
+        "track_url": "https://open.spotify.com/track/2WQpWaHZ4lrwzA3qQ9I1PH"
+    },
+    {
+        "song_name": "甜蜜蜜",
+        "singer_name": "Teresa Teng",
+        "added_at": "1979-01-01",
+        "album_name": "BTB 邓丽君-甜蜜蜜",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273a29ae2c5c697eb63761dcd77",
+        "album_cover_path": "top/2XoUbKNeEbvoI0rP3XrHGp.jpg",
+        "track_duration_ms": 211840,
+        "popularity": 48,
+        "track_url": "https://open.spotify.com/track/2XoUbKNeEbvoI0rP3XrHGp"
+    },
+    {
+        "song_name": "有没有一首歌会让你想起我",
+        "singer_name": "Wakin Chau",
+        "added_at": "2001-10-16",
+        "album_name": "忘忧草",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b27370fe9423f5b895ba5ce73dc6",
+        "album_cover_path": "top/2YOECkGti9IFHkPYTZAHWl.jpg",
+        "track_duration_ms": 287066,
+        "popularity": 48,
+        "track_url": "https://open.spotify.com/track/2YOECkGti9IFHkPYTZAHWl"
+    },
+    {
+        "song_name": "美人鱼",
+        "singer_name": "JJ Lin",
+        "added_at": "2004-06-04",
+        "album_name": "第二天堂",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2730d39c7f4416b6655c664bad3",
+        "album_cover_path": "top/2ahydS3UcOoAF2usK3I1ph.jpg",
+        "track_duration_ms": 252000,
+        "popularity": 49,
+        "track_url": "https://open.spotify.com/track/2ahydS3UcOoAF2usK3I1ph"
+    },
+    {
+        "song_name": "不谓侠",
+        "singer_name": "小阿七",
+        "added_at": "2019-11-15",
+        "album_name": "不谓侠",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2733ff02ceeba28a118e2c2ffbe",
+        "album_cover_path": "top/2u3PFw36fBOyghBDFCyDgr.jpg",
+        "track_duration_ms": 268621,
+        "popularity": 38,
+        "track_url": "https://open.spotify.com/track/2u3PFw36fBOyghBDFCyDgr"
     }
 ]
