@@ -242,6 +242,17 @@
         "track_url": "https://open.spotify.com/track/6ZKmQF0QveVe21lt6nEJvi"
     },
     {
+        "song_name": "隐形的纪念",
+        "singer_name": "Ashin Chen",
+        "added_at": "2019-04-27",
+        "album_name": "隐形的纪念",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273f96459ab5c2ea5746b384119",
+        "album_cover_path": "top/7MZntt73sRKP0R8kWLo1ba.jpg",
+        "track_duration_ms": 300357,
+        "popularity": 26,
+        "track_url": "https://open.spotify.com/track/7MZntt73sRKP0R8kWLo1ba"
+    },
+    {
         "song_name": "勇气",
         "singer_name": "Fish Leong",
         "added_at": "2000-08-02",
@@ -284,17 +295,6 @@
         "track_duration_ms": 254093,
         "popularity": 34,
         "track_url": "https://open.spotify.com/track/67uanblQscHlU8SClpZW2L"
-    },
-    {
-        "song_name": "隐形的纪念",
-        "singer_name": "Ashin Chen",
-        "added_at": "2019-04-27",
-        "album_name": "隐形的纪念",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273f96459ab5c2ea5746b384119",
-        "album_cover_path": "top/7MZntt73sRKP0R8kWLo1ba.jpg",
-        "track_duration_ms": 300357,
-        "popularity": 26,
-        "track_url": "https://open.spotify.com/track/7MZntt73sRKP0R8kWLo1ba"
     },
     {
         "song_name": "你被写在我的歌里",

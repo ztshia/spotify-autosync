@@ -110,6 +110,11 @@
         "added_at": "2024-02-12"
     },
     {
+        "song_name": "隐形的纪念",
+        "singer_name": "Ashin Chen",
+        "added_at": "2019-04-27"
+    },
+    {
         "song_name": "勇气",
         "singer_name": "Fish Leong",
         "added_at": "2000-08-02"
@@ -128,11 +133,6 @@
         "song_name": "那些女孩教我的事",
         "singer_name": "Victor Wong",
         "added_at": "2008-04-18"
-    },
-    {
-        "song_name": "隐形的纪念",
-        "singer_name": "Ashin Chen",
-        "added_at": "2019-04-27"
     },
     {
         "song_name": "你被写在我的歌里",
