@@ -150,16 +150,6 @@
         "added_at": "2012-11-07"
     },
     {
-        "song_name": "明天你是否依然爱我",
-        "singer_name": "童安格",
-        "added_at": "1989-01-01"
-    },
-    {
-        "song_name": "ハジマリノウタ〜远い空澄んで〜",
-        "singer_name": "Ikimonogakari",
-        "added_at": "2009-12-23"
-    },
-    {
         "song_name": "情人知己",
         "singer_name": "Sally Yeh",
         "added_at": "1992"
@@ -205,11 +195,6 @@
         "added_at": "2016-06-22"
     },
     {
-        "song_name": "北京 北京",
-        "singer_name": "Hao Yun",
-        "added_at": "2018-03-27"
-    },
-    {
         "song_name": "セブンスコード",
         "singer_name": "Atsuko Maeda",
         "added_at": "2014-03-05"
@@ -230,11 +215,6 @@
         "added_at": "2019-12-06"
     },
     {
-        "song_name": "甜蜜蜜",
-        "singer_name": "Teresa Teng",
-        "added_at": "1979-01-01"
-    },
-    {
         "song_name": "有没有一首歌会让你想起我",
         "singer_name": "Wakin Chau",
         "added_at": "2001-10-16"
@@ -248,5 +228,25 @@
         "song_name": "不谓侠",
         "singer_name": "小阿七",
         "added_at": "2019-11-15"
+    },
+    {
+        "song_name": "民间传奇",
+        "singer_name": "Miriam Yeung",
+        "added_at": "2003-01-01"
+    },
+    {
+        "song_name": "Shape of My Heart",
+        "singer_name": "Backstreet Boys",
+        "added_at": "2000-11-21"
+    },
+    {
+        "song_name": "Selfish",
+        "singer_name": "Atsuko Maeda",
+        "added_at": "2016-06-22"
+    },
+    {
+        "song_name": "Vintage",
+        "singer_name": "ZARD",
+        "added_at": "1998-03-04"
     }
 ]
