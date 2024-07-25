@@ -22,17 +22,6 @@
         "track_url": "https://open.spotify.com/track/6OAUhxFZzaRHHC8XiuIkvb"
     },
     {
-        "song_name": "秘密",
-        "singer_name": "Zhang Zhen Yue",
-        "added_at": "1997-10-30",
-        "album_name": "这个下午很无聊",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2734e5e70c8920c21821a7e7efc",
-        "album_cover_path": "top/7yORKhsiAJB0jKaPiASEf1.jpg",
-        "track_duration_ms": 322573,
-        "popularity": 41,
-        "track_url": "https://open.spotify.com/track/7yORKhsiAJB0jKaPiASEf1"
-    },
-    {
         "song_name": "上からマリコ",
         "singer_name": "AKB48",
         "added_at": "2011-12-07",
@@ -75,17 +64,6 @@
         "track_duration_ms": 318333,
         "popularity": 59,
         "track_url": "https://open.spotify.com/track/2WWDsBLNL4czuVcg7rjfy2"
-    },
-    {
-        "song_name": "淋雨一直走",
-        "singer_name": "Angela Chang",
-        "added_at": "2012-10-12",
-        "album_name": "有形的翅膀",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273b94d0b304128e6601071bbd6",
-        "album_cover_path": "top/5AwdQtK9c0ogafVxM8EWte.jpg",
-        "track_duration_ms": 204906,
-        "popularity": 35,
-        "track_url": "https://open.spotify.com/track/5AwdQtK9c0ogafVxM8EWte"
     },
     {
         "song_name": "她的睫毛",
@@ -185,6 +163,17 @@
         "track_duration_ms": 284666,
         "popularity": 52,
         "track_url": "https://open.spotify.com/track/3awaN4hJ3e3s6WcVEB79fE"
+    },
+    {
+        "song_name": "淋雨一直走",
+        "singer_name": "Angela Chang",
+        "added_at": "2012-10-12",
+        "album_name": "有形的翅膀",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273b94d0b304128e6601071bbd6",
+        "album_cover_path": "top/5AwdQtK9c0ogafVxM8EWte.jpg",
+        "track_duration_ms": 204906,
+        "popularity": 35,
+        "track_url": "https://open.spotify.com/track/5AwdQtK9c0ogafVxM8EWte"
     },
     {
         "song_name": "我想要",
@@ -306,6 +295,17 @@
         "track_duration_ms": 275493,
         "popularity": 61,
         "track_url": "https://open.spotify.com/track/7ovUSP7jWkzWR2SHptYJfd"
+    },
+    {
+        "song_name": "秘密",
+        "singer_name": "Zhang Zhen Yue",
+        "added_at": "1997-10-30",
+        "album_name": "这个下午很无聊",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2734e5e70c8920c21821a7e7efc",
+        "album_cover_path": "top/7yORKhsiAJB0jKaPiASEf1.jpg",
+        "track_duration_ms": 322573,
+        "popularity": 41,
+        "track_url": "https://open.spotify.com/track/7yORKhsiAJB0jKaPiASEf1"
     },
     {
         "song_name": "Sk8er Boi",
