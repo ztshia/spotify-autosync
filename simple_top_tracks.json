@@ -40,11 +40,6 @@
         "added_at": "1996"
     },
     {
-        "song_name": "小行迹",
-        "singer_name": "赵雷",
-        "added_at": "2022-08-29"
-    },
-    {
         "song_name": "匿名的好友",
         "singer_name": "Rainie Yang",
         "added_at": "2009-12-29"
@@ -143,6 +138,11 @@
         "song_name": "Sk8er Boi",
         "singer_name": "Avril Lavigne",
         "added_at": "2002-06-04"
+    },
+    {
+        "song_name": "小行迹",
+        "singer_name": "赵雷",
+        "added_at": "2022-08-29"
     },
     {
         "song_name": "ハート型ウイルス [no3b ver.]",
