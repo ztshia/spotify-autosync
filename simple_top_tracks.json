@@ -100,6 +100,11 @@
         "added_at": "2017-04-26"
     },
     {
+        "song_name": "悄悄告诉你",
+        "singer_name": "Christine Fan",
+        "added_at": "2013-07-09"
+    },
+    {
         "song_name": "セブンスコード",
         "singer_name": "Atsuko Maeda",
         "added_at": "2016-06-22"
@@ -243,10 +248,5 @@
         "song_name": "美人鱼",
         "singer_name": "JJ Lin",
         "added_at": "2004-06-04"
-    },
-    {
-        "song_name": "不谓侠",
-        "singer_name": "小阿七",
-        "added_at": "2019-11-15"
     }
 ]
