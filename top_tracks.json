@@ -77,6 +77,17 @@
         "track_url": "https://open.spotify.com/track/2JnamB6EQVscDH3np6HQvN"
     },
     {
+        "song_name": "解脱",
+        "singer_name": "A-Mei Chang",
+        "added_at": "1996-12-13",
+        "album_name": "姊妹",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2736f11c97c7e75f63ea312b75b",
+        "album_cover_path": "top/3awaN4hJ3e3s6WcVEB79fE.jpg",
+        "track_duration_ms": 284666,
+        "popularity": 52,
+        "track_url": "https://open.spotify.com/track/3awaN4hJ3e3s6WcVEB79fE"
+    },
+    {
         "song_name": "As Long as You Love Me",
         "singer_name": "Backstreet Boys",
         "added_at": "1996",
@@ -152,17 +163,6 @@
         "track_duration_ms": 175400,
         "popularity": 2,
         "track_url": "https://open.spotify.com/track/33wxzspBqwNVyvs8j6o1CS"
-    },
-    {
-        "song_name": "解脱",
-        "singer_name": "A-Mei Chang",
-        "added_at": "1996-12-13",
-        "album_name": "姊妹",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2736f11c97c7e75f63ea312b75b",
-        "album_cover_path": "top/3awaN4hJ3e3s6WcVEB79fE.jpg",
-        "track_duration_ms": 284666,
-        "popularity": 52,
-        "track_url": "https://open.spotify.com/track/3awaN4hJ3e3s6WcVEB79fE"
     },
     {
         "song_name": "我记得",

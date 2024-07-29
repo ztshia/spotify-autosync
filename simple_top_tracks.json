@@ -35,6 +35,11 @@
         "added_at": "2003-07-29"
     },
     {
+        "song_name": "解脱",
+        "singer_name": "A-Mei Chang",
+        "added_at": "1996-12-13"
+    },
+    {
         "song_name": "As Long as You Love Me",
         "singer_name": "Backstreet Boys",
         "added_at": "1996"
@@ -68,11 +73,6 @@
         "song_name": "Shall We Talk",
         "singer_name": "Joey Yung",
         "added_at": "2001-11-20"
-    },
-    {
-        "song_name": "解脱",
-        "singer_name": "A-Mei Chang",
-        "added_at": "1996-12-13"
     },
     {
         "song_name": "我记得",
