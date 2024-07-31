@@ -5,11 +5,6 @@
         "added_at": "2006-02-17"
     },
     {
-        "song_name": "上からマリコ",
-        "singer_name": "AKB48",
-        "added_at": "2011-12-07"
-    },
-    {
         "song_name": "君は仆だ",
         "singer_name": "Atsuko Maeda",
         "added_at": "2016-06-22"
@@ -40,6 +35,11 @@
         "added_at": "2009-12-29"
     },
     {
+        "song_name": "上からマリコ",
+        "singer_name": "AKB48",
+        "added_at": "2011-12-07"
+    },
+    {
         "song_name": "任意门",
         "singer_name": "Mayday",
         "added_at": "2016-07-21"
@@ -68,11 +68,6 @@
         "song_name": "程艾影",
         "singer_name": "赵雷",
         "added_at": "2022-08-29"
-    },
-    {
-        "song_name": "淋雨一直走",
-        "singer_name": "Angela Chang",
-        "added_at": "2012-10-12"
     },
     {
         "song_name": "我想要",
@@ -115,31 +110,6 @@
         "added_at": "2024-02-12"
     },
     {
-        "song_name": "隐形的纪念",
-        "singer_name": "Ashin Chen",
-        "added_at": "2019-04-27"
-    },
-    {
-        "song_name": "勇气",
-        "singer_name": "Fish Leong",
-        "added_at": "2000-08-02"
-    },
-    {
-        "song_name": "易燃易爆炸",
-        "singer_name": "陈粒",
-        "added_at": "2015-02-02"
-    },
-    {
-        "song_name": "让我照顾你",
-        "singer_name": "Mayday",
-        "added_at": "2004-11-05"
-    },
-    {
-        "song_name": "那些女孩教我的事",
-        "singer_name": "Victor Wong",
-        "added_at": "2008-04-18"
-    },
-    {
         "song_name": "你被写在我的歌里",
         "singer_name": "sodagreen, Ella Chen",
         "added_at": "2011-11-11"
@@ -148,11 +118,6 @@
         "song_name": "秘密",
         "singer_name": "Zhang Zhen Yue",
         "added_at": "1997-10-30"
-    },
-    {
-        "song_name": "Sk8er Boi",
-        "singer_name": "Avril Lavigne",
-        "added_at": "2002-06-04"
     },
     {
         "song_name": "ハート型ウイルス [no3b ver.]",
@@ -165,24 +130,9 @@
         "added_at": "1992"
     },
     {
-        "song_name": "默读伤悲",
-        "singer_name": "Sandy Lam",
-        "added_at": "2001"
-    },
-    {
         "song_name": "ノエルの夜",
         "singer_name": "AKB48",
         "added_at": "2011-12-07"
-    },
-    {
-        "song_name": "一事无成的伟大",
-        "singer_name": "831",
-        "added_at": "2019-03-20"
-    },
-    {
-        "song_name": "钟无艳",
-        "singer_name": "Kay Tse",
-        "added_at": "2013-01-01"
     },
     {
         "song_name": "只要有你",
@@ -195,11 +145,6 @@
         "added_at": "2016-06-22"
     },
     {
-        "song_name": "可惜我是水瓶座",
-        "singer_name": "Miriam Yeung",
-        "added_at": "2003-01-01"
-    },
-    {
         "song_name": "右肩",
         "singer_name": "Atsuko Maeda",
         "added_at": "2016-06-22"
@@ -210,19 +155,9 @@
         "added_at": "2014-03-05"
     },
     {
-        "song_name": "Ready, Go!",
-        "singer_name": "ZARD",
-        "added_at": "1995-02-01"
-    },
-    {
         "song_name": "独り占め",
         "singer_name": "Atsuko Maeda",
         "added_at": "2014-03-05"
-    },
-    {
-        "song_name": "被动 feat. 伍佰 - Live",
-        "singer_name": "LaLa Hsu, Wu Bai",
-        "added_at": "2019-12-06"
     },
     {
         "song_name": "有没有一首歌会让你想起我",
@@ -230,23 +165,88 @@
         "added_at": "2001-10-16"
     },
     {
-        "song_name": "美人鱼",
-        "singer_name": "JJ Lin",
-        "added_at": "2004-06-04"
-    },
-    {
         "song_name": "不谓侠",
         "singer_name": "小阿七",
         "added_at": "2019-11-15"
     },
     {
-        "song_name": "民间传奇",
-        "singer_name": "Miriam Yeung",
-        "added_at": "2003-01-01"
-    },
-    {
         "song_name": "Shape of My Heart",
         "singer_name": "Backstreet Boys",
         "added_at": "2000-11-21"
+    },
+    {
+        "song_name": "Selfish",
+        "singer_name": "Atsuko Maeda",
+        "added_at": "2016-06-22"
+    },
+    {
+        "song_name": "Vintage",
+        "singer_name": "ZARD",
+        "added_at": "1998-03-04"
+    },
+    {
+        "song_name": "コンタクトレンズ (off vocal ver.)",
+        "singer_name": "Atsuko Maeda",
+        "added_at": "2014-03-05"
+    },
+    {
+        "song_name": "简要说明",
+        "singer_name": "小阿七",
+        "added_at": "2019-12-13"
+    },
+    {
+        "song_name": "如果你是风",
+        "singer_name": "小阿七",
+        "added_at": "2023-04-02"
+    },
+    {
+        "song_name": "小酒窝 (粤)",
+        "singer_name": "JJ Lin, Charlene Choi",
+        "added_at": "2013-08-15"
+    },
+    {
+        "song_name": "壊れたシグナル",
+        "singer_name": "Atsuko Maeda",
+        "added_at": "2016-06-22"
+    },
+    {
+        "song_name": "やさしいサヨナラ",
+        "singer_name": "Atsuko Maeda",
+        "added_at": "2016-06-22"
+    },
+    {
+        "song_name": "致最爱的人",
+        "singer_name": "小阿七",
+        "added_at": "2022-12-09"
+    },
+    {
+        "song_name": "淋雨一直走",
+        "singer_name": "Angela Chang",
+        "added_at": "2012-10-12"
+    },
+    {
+        "song_name": "Relax！",
+        "singer_name": "ノースリーブス",
+        "added_at": "2012-11-07"
+    },
+    {
+        "song_name": "セブンスコード (off vocal ver.)",
+        "singer_name": "Atsuko Maeda",
+        "added_at": "2014-03-05"
+    },
+    {
+        "song_name": "妈妈的话",
+        "singer_name": "小阿七",
+        "added_at": "2023-05-13"
+    },
+    {
+        "song_name": "青春时计",
+        "singer_name": "NGT48",
+        "added_at": "2017-04-11"
+    },
+    {
+        "song_name": "转眼",
+        "singer_name": "Mayday",
+        "added_at": "2016-07-21"
     }
 ]

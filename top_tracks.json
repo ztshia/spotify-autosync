@@ -11,17 +11,6 @@
         "track_url": "https://open.spotify.com/track/6OAUhxFZzaRHHC8XiuIkvb"
     },
     {
-        "song_name": "上からマリコ",
-        "singer_name": "AKB48",
-        "added_at": "2011-12-07",
-        "album_name": "上からマリコ〈Type-K〉",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273e7a8b94c31bf482881191228",
-        "album_cover_path": "top/0vsgOfTLFru6SBOLl3MQPr.jpg",
-        "track_duration_ms": 277813,
-        "popularity": 31,
-        "track_url": "https://open.spotify.com/track/0vsgOfTLFru6SBOLl3MQPr"
-    },
-    {
         "song_name": "君は仆だ",
         "singer_name": "Atsuko Maeda",
         "added_at": "2016-06-22",
@@ -88,6 +77,17 @@
         "track_url": "https://open.spotify.com/track/0o9XsvHqGY2L8E6LRztDv1"
     },
     {
+        "song_name": "上からマリコ",
+        "singer_name": "AKB48",
+        "added_at": "2011-12-07",
+        "album_name": "上からマリコ〈Type-K〉",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273e7a8b94c31bf482881191228",
+        "album_cover_path": "top/0vsgOfTLFru6SBOLl3MQPr.jpg",
+        "track_duration_ms": 277813,
+        "popularity": 31,
+        "track_url": "https://open.spotify.com/track/0vsgOfTLFru6SBOLl3MQPr"
+    },
+    {
         "song_name": "任意门",
         "singer_name": "Mayday",
         "added_at": "2016-07-21",
@@ -152,17 +152,6 @@
         "track_duration_ms": 300394,
         "popularity": 40,
         "track_url": "https://open.spotify.com/track/3rKkFDJMRyLfcBjppFEpyB"
-    },
-    {
-        "song_name": "淋雨一直走",
-        "singer_name": "Angela Chang",
-        "added_at": "2012-10-12",
-        "album_name": "有形的翅膀",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273b94d0b304128e6601071bbd6",
-        "album_cover_path": "top/5AwdQtK9c0ogafVxM8EWte.jpg",
-        "track_duration_ms": 204906,
-        "popularity": 35,
-        "track_url": "https://open.spotify.com/track/5AwdQtK9c0ogafVxM8EWte"
     },
     {
         "song_name": "我想要",
@@ -253,61 +242,6 @@
         "track_url": "https://open.spotify.com/track/6ZKmQF0QveVe21lt6nEJvi"
     },
     {
-        "song_name": "隐形的纪念",
-        "singer_name": "Ashin Chen",
-        "added_at": "2019-04-27",
-        "album_name": "隐形的纪念",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273f96459ab5c2ea5746b384119",
-        "album_cover_path": "top/7MZntt73sRKP0R8kWLo1ba.jpg",
-        "track_duration_ms": 300357,
-        "popularity": 25,
-        "track_url": "https://open.spotify.com/track/7MZntt73sRKP0R8kWLo1ba"
-    },
-    {
-        "song_name": "勇气",
-        "singer_name": "Fish Leong",
-        "added_at": "2000-08-02",
-        "album_name": "勇气",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2734f33cc2b3adabd7493e44619",
-        "album_cover_path": "top/1SNF1IdMuKPDhw9HTrdcvM.jpg",
-        "track_duration_ms": 239293,
-        "popularity": 54,
-        "track_url": "https://open.spotify.com/track/1SNF1IdMuKPDhw9HTrdcvM"
-    },
-    {
-        "song_name": "易燃易爆炸",
-        "singer_name": "陈粒",
-        "added_at": "2015-02-02",
-        "album_name": "如也",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2732ef2d5a049bad98c26350eb7",
-        "album_cover_path": "top/3OWTiOvc1numNmjqpKfq3V.jpg",
-        "track_duration_ms": 202346,
-        "popularity": 45,
-        "track_url": "https://open.spotify.com/track/3OWTiOvc1numNmjqpKfq3V"
-    },
-    {
-        "song_name": "让我照顾你",
-        "singer_name": "Mayday",
-        "added_at": "2004-11-05",
-        "album_name": "神的孩子都在跳舞",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273d857d6c3ae7672ce8c4800d8",
-        "album_cover_path": "top/4zd7niv8TABDercon8Bhou.jpg",
-        "track_duration_ms": 239001,
-        "popularity": 30,
-        "track_url": "https://open.spotify.com/track/4zd7niv8TABDercon8Bhou"
-    },
-    {
-        "song_name": "那些女孩教我的事",
-        "singer_name": "Victor Wong",
-        "added_at": "2008-04-18",
-        "album_name": "那些女孩教我的事",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b27309ef6f9bb62dc4248b225555",
-        "album_cover_path": "top/67uanblQscHlU8SClpZW2L.jpg",
-        "track_duration_ms": 254093,
-        "popularity": 33,
-        "track_url": "https://open.spotify.com/track/67uanblQscHlU8SClpZW2L"
-    },
-    {
         "song_name": "你被写在我的歌里",
         "singer_name": "sodagreen, Ella Chen",
         "added_at": "2011-11-11",
@@ -328,17 +262,6 @@
         "track_duration_ms": 322573,
         "popularity": 40,
         "track_url": "https://open.spotify.com/track/7yORKhsiAJB0jKaPiASEf1"
-    },
-    {
-        "song_name": "Sk8er Boi",
-        "singer_name": "Avril Lavigne",
-        "added_at": "2002-06-04",
-        "album_name": "Let Go",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273f7ec724fbf97a30869d06240",
-        "album_cover_path": "top/00Mb3DuaIH1kjrwOku9CGU.jpg",
-        "track_duration_ms": 204000,
-        "popularity": 76,
-        "track_url": "https://open.spotify.com/track/00Mb3DuaIH1kjrwOku9CGU"
     },
     {
         "song_name": "ハート型ウイルス [no3b ver.]",
@@ -363,17 +286,6 @@
         "track_url": "https://open.spotify.com/track/11TGtRbbvi9ox9vCkrrRV7"
     },
     {
-        "song_name": "默读伤悲",
-        "singer_name": "Sandy Lam",
-        "added_at": "2001",
-        "album_name": "原来… 林忆莲",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b27393840d138b232d176e6f50d6",
-        "album_cover_path": "top/13T5qmhQR7JhR6EWoDPZXX.jpg",
-        "track_duration_ms": 235333,
-        "popularity": 16,
-        "track_url": "https://open.spotify.com/track/13T5qmhQR7JhR6EWoDPZXX"
-    },
-    {
         "song_name": "ノエルの夜",
         "singer_name": "AKB48",
         "added_at": "2011-12-07",
@@ -383,28 +295,6 @@
         "track_duration_ms": 248520,
         "popularity": 8,
         "track_url": "https://open.spotify.com/track/14fdCeSeWj2880r0zRvRF6"
-    },
-    {
-        "song_name": "一事无成的伟大",
-        "singer_name": "831",
-        "added_at": "2019-03-20",
-        "album_name": "「一事无成的伟大」自选作品辑",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273f6c4a4b3f4fbd15ac9a0e652",
-        "album_cover_path": "top/17KAKg35T2DDLFAVy7MjPb.jpg",
-        "track_duration_ms": 372572,
-        "popularity": 30,
-        "track_url": "https://open.spotify.com/track/17KAKg35T2DDLFAVy7MjPb"
-    },
-    {
-        "song_name": "钟无艳",
-        "singer_name": "Kay Tse",
-        "added_at": "2013-01-01",
-        "album_name": "最好的时刻 2006-2012",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2735ebe78bf36ccd4395f074863",
-        "album_cover_path": "top/18J1skShnRiRdvLoOaDLTC.jpg",
-        "track_duration_ms": 278573,
-        "popularity": 42,
-        "track_url": "https://open.spotify.com/track/18J1skShnRiRdvLoOaDLTC"
     },
     {
         "song_name": "只要有你",
@@ -429,17 +319,6 @@
         "track_url": "https://open.spotify.com/track/1i5LCYqiAS63x8wVFx6lv4"
     },
     {
-        "song_name": "可惜我是水瓶座",
-        "singer_name": "Miriam Yeung",
-        "added_at": "2003-01-01",
-        "album_name": "Miriam's Music Box",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273b5b9a8e27ae1d3be8dd6fdbc",
-        "album_cover_path": "top/1sWUT5hSawhEctQEQrVQdn.jpg",
-        "track_duration_ms": 215333,
-        "popularity": 55,
-        "track_url": "https://open.spotify.com/track/1sWUT5hSawhEctQEQrVQdn"
-    },
-    {
         "song_name": "右肩",
         "singer_name": "Atsuko Maeda",
         "added_at": "2016-06-22",
@@ -462,17 +341,6 @@
         "track_url": "https://open.spotify.com/track/2FnC1w0F0aLj1PbKcU4kxY"
     },
     {
-        "song_name": "Ready, Go!",
-        "singer_name": "ZARD",
-        "added_at": "1995-02-01",
-        "album_name": "Just believe in love",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2738298dc857f316fce487ec46a",
-        "album_cover_path": "top/2PF7jlS4vKSWtYZ1h2PNnv.jpg",
-        "track_duration_ms": 274400,
-        "popularity": 33,
-        "track_url": "https://open.spotify.com/track/2PF7jlS4vKSWtYZ1h2PNnv"
-    },
-    {
         "song_name": "独り占め",
         "singer_name": "Atsuko Maeda",
         "added_at": "2014-03-05",
@@ -482,17 +350,6 @@
         "track_duration_ms": 225693,
         "popularity": 1,
         "track_url": "https://open.spotify.com/track/2RSgYN3cEROrb3T5Bd7uTj"
-    },
-    {
-        "song_name": "被动 feat. 伍佰 - Live",
-        "singer_name": "LaLa Hsu, Wu Bai",
-        "added_at": "2019-12-06",
-        "album_name": "徐佳莹是日救星演唱会Live",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273fe898e6b1872fa94e169fa7c",
-        "album_cover_path": "top/2WQpWaHZ4lrwzA3qQ9I1PH.jpg",
-        "track_duration_ms": 285549,
-        "popularity": 28,
-        "track_url": "https://open.spotify.com/track/2WQpWaHZ4lrwzA3qQ9I1PH"
     },
     {
         "song_name": "有没有一首歌会让你想起我",
@@ -506,17 +363,6 @@
         "track_url": "https://open.spotify.com/track/2YOECkGti9IFHkPYTZAHWl"
     },
     {
-        "song_name": "美人鱼",
-        "singer_name": "JJ Lin",
-        "added_at": "2004-06-04",
-        "album_name": "第二天堂",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2730d39c7f4416b6655c664bad3",
-        "album_cover_path": "top/2ahydS3UcOoAF2usK3I1ph.jpg",
-        "track_duration_ms": 252000,
-        "popularity": 50,
-        "track_url": "https://open.spotify.com/track/2ahydS3UcOoAF2usK3I1ph"
-    },
-    {
         "song_name": "不谓侠",
         "singer_name": "小阿七",
         "added_at": "2019-11-15",
@@ -528,17 +374,6 @@
         "track_url": "https://open.spotify.com/track/2u3PFw36fBOyghBDFCyDgr"
     },
     {
-        "song_name": "民间传奇",
-        "singer_name": "Miriam Yeung",
-        "added_at": "2003-01-01",
-        "album_name": "Make Up",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273944392775cdc7cd7ec24090d",
-        "album_cover_path": "top/2x0ZQO0THJXdBbFSVgiIH3.jpg",
-        "track_duration_ms": 234120,
-        "popularity": 5,
-        "track_url": "https://open.spotify.com/track/2x0ZQO0THJXdBbFSVgiIH3"
-    },
-    {
         "song_name": "Shape of My Heart",
         "singer_name": "Backstreet Boys",
         "added_at": "2000-11-21",
@@ -548,5 +383,170 @@
         "track_duration_ms": 230093,
         "popularity": 71,
         "track_url": "https://open.spotify.com/track/35o9a4iAfLl5jRmqMX9c1D"
+    },
+    {
+        "song_name": "Selfish",
+        "singer_name": "Atsuko Maeda",
+        "added_at": "2016-06-22",
+        "album_name": "Selfish<TYPE-B>",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b27371e77a698dd334f1d18e431a",
+        "album_cover_path": "top/36TT3B5dYTzZhrg8vtwCmR.jpg",
+        "track_duration_ms": 238506,
+        "popularity": 13,
+        "track_url": "https://open.spotify.com/track/36TT3B5dYTzZhrg8vtwCmR"
+    },
+    {
+        "song_name": "Vintage",
+        "singer_name": "ZARD",
+        "added_at": "1998-03-04",
+        "album_name": "息もできない",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2735c4192c255c8bc918e232852",
+        "album_cover_path": "top/3GBUuDrhPi7kMwO4oKEz9K.jpg",
+        "track_duration_ms": 199333,
+        "popularity": 16,
+        "track_url": "https://open.spotify.com/track/3GBUuDrhPi7kMwO4oKEz9K"
+    },
+    {
+        "song_name": "コンタクトレンズ (off vocal ver.)",
+        "singer_name": "Atsuko Maeda",
+        "added_at": "2014-03-05",
+        "album_name": "セブンスコード Type-A",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b27332e82babee085624b433a2e3",
+        "album_cover_path": "top/3ULHNiRY4O0MbrVpfU5CHj.jpg",
+        "track_duration_ms": 241293,
+        "popularity": 0,
+        "track_url": "https://open.spotify.com/track/3ULHNiRY4O0MbrVpfU5CHj"
+    },
+    {
+        "song_name": "简要说明",
+        "singer_name": "小阿七",
+        "added_at": "2019-12-13",
+        "album_name": "简要说明",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273fdc4abb9f2704594d9a21954",
+        "album_cover_path": "top/3mHiccK39SHrJKoJIHixSm.jpg",
+        "track_duration_ms": 228065,
+        "popularity": 24,
+        "track_url": "https://open.spotify.com/track/3mHiccK39SHrJKoJIHixSm"
+    },
+    {
+        "song_name": "如果你是风",
+        "singer_name": "小阿七",
+        "added_at": "2023-04-02",
+        "album_name": "如果你是风",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273638bc45435b5bb5a88a00d32",
+        "album_cover_path": "top/3zzzz5cqLHgkbK2nka278j.jpg",
+        "track_duration_ms": 202358,
+        "popularity": 39,
+        "track_url": "https://open.spotify.com/track/3zzzz5cqLHgkbK2nka278j"
+    },
+    {
+        "song_name": "小酒窝 (粤)",
+        "singer_name": "JJ Lin, Charlene Choi",
+        "added_at": "2013-08-15",
+        "album_name": "壹加壹 合唱精选",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273bd40c80b58e558079a7ddb5f",
+        "album_cover_path": "top/4DqWflNKYdRwjtOWSHan7s.jpg",
+        "track_duration_ms": 218173,
+        "popularity": 27,
+        "track_url": "https://open.spotify.com/track/4DqWflNKYdRwjtOWSHan7s"
+    },
+    {
+        "song_name": "壊れたシグナル",
+        "singer_name": "Atsuko Maeda",
+        "added_at": "2016-06-22",
+        "album_name": "Selfish<TYPE-A>",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2734a8a746ec77f95fcac968c0f",
+        "album_cover_path": "top/4FRMxmCDluweX0HmiDR8Df.jpg",
+        "track_duration_ms": 276626,
+        "popularity": 3,
+        "track_url": "https://open.spotify.com/track/4FRMxmCDluweX0HmiDR8Df"
+    },
+    {
+        "song_name": "やさしいサヨナラ",
+        "singer_name": "Atsuko Maeda",
+        "added_at": "2016-06-22",
+        "album_name": "Selfish<TYPE-C>",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273cd6363eff1b84333b9e776fb",
+        "album_cover_path": "top/4zK9WVgEELgIdf5UlwWtnP.jpg",
+        "track_duration_ms": 321433,
+        "popularity": 2,
+        "track_url": "https://open.spotify.com/track/4zK9WVgEELgIdf5UlwWtnP"
+    },
+    {
+        "song_name": "致最爱的人",
+        "singer_name": "小阿七",
+        "added_at": "2022-12-09",
+        "album_name": "致最爱的人",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2731100d72262c2077322ecff7a",
+        "album_cover_path": "top/5AFvloBxH5jRJ2ujNOk7X9.jpg",
+        "track_duration_ms": 239983,
+        "popularity": 31,
+        "track_url": "https://open.spotify.com/track/5AFvloBxH5jRJ2ujNOk7X9"
+    },
+    {
+        "song_name": "淋雨一直走",
+        "singer_name": "Angela Chang",
+        "added_at": "2012-10-12",
+        "album_name": "有形的翅膀",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273b94d0b304128e6601071bbd6",
+        "album_cover_path": "top/5AwdQtK9c0ogafVxM8EWte.jpg",
+        "track_duration_ms": 204906,
+        "popularity": 35,
+        "track_url": "https://open.spotify.com/track/5AwdQtK9c0ogafVxM8EWte"
+    },
+    {
+        "song_name": "Relax！",
+        "singer_name": "ノースリーブス",
+        "added_at": "2012-11-07",
+        "album_name": "ノースリーブス",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2734eab81088bf68432df3181cc",
+        "album_cover_path": "top/5CpHBHYuOo5o5kG0QiNhDr.jpg",
+        "track_duration_ms": 229093,
+        "popularity": 23,
+        "track_url": "https://open.spotify.com/track/5CpHBHYuOo5o5kG0QiNhDr"
+    },
+    {
+        "song_name": "セブンスコード (off vocal ver.)",
+        "singer_name": "Atsuko Maeda",
+        "added_at": "2014-03-05",
+        "album_name": "セブンスコード Type-A",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b27332e82babee085624b433a2e3",
+        "album_cover_path": "top/5mb69HfNZihKuswaPSR0US.jpg",
+        "track_duration_ms": 257279,
+        "popularity": 0,
+        "track_url": "https://open.spotify.com/track/5mb69HfNZihKuswaPSR0US"
+    },
+    {
+        "song_name": "妈妈的话",
+        "singer_name": "小阿七",
+        "added_at": "2023-05-13",
+        "album_name": "妈妈的话",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273fa3ab3e9a3b575609ba11bb0",
+        "album_cover_path": "top/5tzvYXuozyDUU4yI9OtqvS.jpg",
+        "track_duration_ms": 167824,
+        "popularity": 39,
+        "track_url": "https://open.spotify.com/track/5tzvYXuozyDUU4yI9OtqvS"
+    },
+    {
+        "song_name": "青春时计",
+        "singer_name": "NGT48",
+        "added_at": "2017-04-11",
+        "album_name": "青春时计 (Special Edition)",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273f6a1b9f7b2a39f816cf6353c",
+        "album_cover_path": "top/62bPGqh8IYBpVOzxIxkrXA.jpg",
+        "track_duration_ms": 208466,
+        "popularity": 27,
+        "track_url": "https://open.spotify.com/track/62bPGqh8IYBpVOzxIxkrXA"
+    },
+    {
+        "song_name": "转眼",
+        "singer_name": "Mayday",
+        "added_at": "2016-07-21",
+        "album_name": "自传",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2731403df7a7de5cd45df3ae3db",
+        "album_cover_path": "top/63xfI8jFOg6HIMnASL55fp.jpg",
+        "track_duration_ms": 366993,
+        "popularity": 40,
+        "track_url": "https://open.spotify.com/track/63xfI8jFOg6HIMnASL55fp"
     }
 ]
