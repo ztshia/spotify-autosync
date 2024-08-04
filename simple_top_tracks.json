@@ -5,11 +5,6 @@
         "added_at": "2016-06-22"
     },
     {
-        "song_name": "息もできない",
-        "singer_name": "ZARD",
-        "added_at": "1998-03-04"
-    },
-    {
         "song_name": "小行迹",
         "singer_name": "赵雷",
         "added_at": "2022-08-29"
@@ -28,11 +23,6 @@
         "song_name": "忘忧草",
         "singer_name": "Wakin Chau",
         "added_at": "2001-10-16"
-    },
-    {
-        "song_name": "不摇滚",
-        "singer_name": "831, 房东的猫",
-        "added_at": "2019-10-25"
     },
     {
         "song_name": "Shall We Talk",
@@ -65,11 +55,6 @@
         "added_at": "2016-06-22"
     },
     {
-        "song_name": "生日快乐",
-        "singer_name": "房东的猫",
-        "added_at": "2023-05-04"
-    },
-    {
         "song_name": "暑前街少年",
         "singer_name": "赵雷",
         "added_at": "2022-08-29"
@@ -80,11 +65,6 @@
         "added_at": "2014-06-06"
     },
     {
-        "song_name": "カラコンウインク",
-        "singer_name": "AKB48",
-        "added_at": "2024-02-12"
-    },
-    {
         "song_name": "人质",
         "singer_name": "A-Mei Chang",
         "added_at": "2006-02-17"
@@ -93,11 +73,6 @@
         "song_name": "你被写在我的歌里",
         "singer_name": "sodagreen, Ella Chen",
         "added_at": "2011-11-11"
-    },
-    {
-        "song_name": "秘密",
-        "singer_name": "Zhang Zhen Yue",
-        "added_at": "1997-10-30"
     },
     {
         "song_name": "ハート型ウイルス [no3b ver.]",
@@ -125,6 +100,11 @@
         "added_at": "2016-06-22"
     },
     {
+        "song_name": "息もできない",
+        "singer_name": "ZARD",
+        "added_at": "1998-03-04"
+    },
+    {
         "song_name": "セブンスコード",
         "singer_name": "Atsuko Maeda",
         "added_at": "2014-03-05"
@@ -150,19 +130,9 @@
         "added_at": "2016-06-22"
     },
     {
-        "song_name": "Vintage",
-        "singer_name": "ZARD",
-        "added_at": "1998-03-04"
-    },
-    {
         "song_name": "コンタクトレンズ (off vocal ver.)",
         "singer_name": "Atsuko Maeda",
         "added_at": "2014-03-05"
-    },
-    {
-        "song_name": "如果你是风",
-        "singer_name": "小阿七",
-        "added_at": "2023-04-02"
     },
     {
         "song_name": "小酒窝 (粤)",
@@ -230,9 +200,9 @@
         "added_at": "2014-03-05"
     },
     {
-        "song_name": "隠形的翅膀",
-        "singer_name": "Angela Chang",
-        "added_at": "2006-01-05"
+        "song_name": "秘密",
+        "singer_name": "Zhang Zhen Yue",
+        "added_at": "1997-10-30"
     },
     {
         "song_name": "匿名的好友",
@@ -248,5 +218,35 @@
         "song_name": "ゼロサム太阳(歌:team K)",
         "singer_name": "AKB48",
         "added_at": "2011-12-07"
+    },
+    {
+        "song_name": "下一站天后",
+        "singer_name": "Charlene Choi",
+        "added_at": "2003"
+    },
+    {
+        "song_name": "你说得对",
+        "singer_name": "Wakin Chau",
+        "added_at": "2001-10-16"
+    },
+    {
+        "song_name": "成都",
+        "singer_name": "赵雷",
+        "added_at": "2016-12-21"
+    },
+    {
+        "song_name": "看得最远的地方",
+        "singer_name": "Angela Chang",
+        "added_at": "2009-09-25"
+    },
+    {
+        "song_name": "恋爱ing",
+        "singer_name": "Mayday",
+        "added_at": "2005-08-26"
+    },
+    {
+        "song_name": "遗失的美好",
+        "singer_name": "Angela Chang",
+        "added_at": "2004-04-01"
     }
 ]
