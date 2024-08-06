@@ -110,17 +110,6 @@
         "track_url": "https://open.spotify.com/track/0FDZioXKSRIIqu92ZeYeeI"
     },
     {
-        "song_name": "ハート型ウイルス [no3b ver.]",
-        "singer_name": "ノースリーブス",
-        "added_at": "2012-11-07",
-        "album_name": "ノースリーブス",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273e8e6f295bf2cdb41e4a58b70",
-        "album_cover_path": "top/0mbrp0RsP9C3lXnbJ7c400.jpg",
-        "track_duration_ms": 235000,
-        "popularity": 30,
-        "track_url": "https://open.spotify.com/track/0mbrp0RsP9C3lXnbJ7c400"
-    },
-    {
         "song_name": "ノエルの夜",
         "singer_name": "AKB48",
         "added_at": "2011-12-07",
@@ -154,17 +143,6 @@
         "track_url": "https://open.spotify.com/track/4DqWflNKYdRwjtOWSHan7s"
     },
     {
-        "song_name": "やさしいサヨナラ",
-        "singer_name": "Atsuko Maeda",
-        "added_at": "2016-06-22",
-        "album_name": "Selfish<TYPE-C>",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273cd6363eff1b84333b9e776fb",
-        "album_cover_path": "top/4zK9WVgEELgIdf5UlwWtnP.jpg",
-        "track_duration_ms": 321433,
-        "popularity": 3,
-        "track_url": "https://open.spotify.com/track/4zK9WVgEELgIdf5UlwWtnP"
-    },
-    {
         "song_name": "三里屯的夜",
         "singer_name": "赵雷",
         "added_at": "2022-08-29",
@@ -176,28 +154,6 @@
         "track_url": "https://open.spotify.com/track/58vEQe9Trf6ZcIdTFuuku4"
     },
     {
-        "song_name": "Relax！",
-        "singer_name": "ノースリーブス",
-        "added_at": "2012-11-07",
-        "album_name": "ノースリーブス",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2734eab81088bf68432df3181cc",
-        "album_cover_path": "top/5CpHBHYuOo5o5kG0QiNhDr.jpg",
-        "track_duration_ms": 229093,
-        "popularity": 23,
-        "track_url": "https://open.spotify.com/track/5CpHBHYuOo5o5kG0QiNhDr"
-    },
-    {
-        "song_name": "青春时计",
-        "singer_name": "NGT48",
-        "added_at": "2017-04-11",
-        "album_name": "青春时计 (Special Edition)",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273f6a1b9f7b2a39f816cf6353c",
-        "album_cover_path": "top/62bPGqh8IYBpVOzxIxkrXA.jpg",
-        "track_duration_ms": 208466,
-        "popularity": 27,
-        "track_url": "https://open.spotify.com/track/62bPGqh8IYBpVOzxIxkrXA"
-    },
-    {
         "song_name": "转眼",
         "singer_name": "Mayday",
         "added_at": "2016-07-21",
@@ -207,17 +163,6 @@
         "track_duration_ms": 366993,
         "popularity": 40,
         "track_url": "https://open.spotify.com/track/63xfI8jFOg6HIMnASL55fp"
-    },
-    {
-        "song_name": "独り占め (off vocal ver.)",
-        "singer_name": "Atsuko Maeda",
-        "added_at": "2014-03-05",
-        "album_name": "セブンスコード Type-A",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b27332e82babee085624b433a2e3",
-        "album_cover_path": "top/7c90zngrPbjO25jHz8oi7L.jpg",
-        "track_duration_ms": 223480,
-        "popularity": 0,
-        "track_url": "https://open.spotify.com/track/7c90zngrPbjO25jHz8oi7L"
     },
     {
         "song_name": "匿名的好友",
@@ -295,17 +240,6 @@
         "track_duration_ms": 169333,
         "popularity": 42,
         "track_url": "https://open.spotify.com/track/352axIEAvn4doPd9qHdqIs"
-    },
-    {
-        "song_name": "遗失的美好",
-        "singer_name": "Angela Chang",
-        "added_at": "2004-04-01",
-        "album_name": "Over The Rainbow",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2736e594c7ec3500cdb0f42582a",
-        "album_cover_path": "top/3kcnCi8MfkMqFKeznqEEOE.jpg",
-        "track_duration_ms": 261933,
-        "popularity": 52,
-        "track_url": "https://open.spotify.com/track/3kcnCi8MfkMqFKeznqEEOE"
     },
     {
         "song_name": "我最亲爱的",
@@ -548,5 +482,71 @@
         "track_duration_ms": 239293,
         "popularity": 54,
         "track_url": "https://open.spotify.com/track/1SNF1IdMuKPDhw9HTrdcvM"
+    },
+    {
+        "song_name": "你不是真正的快乐",
+        "singer_name": "Mayday",
+        "added_at": "2008-10-23",
+        "album_name": "后 青春期的诗",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273db5b9b66b5a8a13c2f2e569b",
+        "album_cover_path": "top/1XfWRrji6DBo420tz75tNV.jpg",
+        "track_duration_ms": 299906,
+        "popularity": 53,
+        "track_url": "https://open.spotify.com/track/1XfWRrji6DBo420tz75tNV"
+    },
+    {
+        "song_name": "我的爱",
+        "singer_name": "Stefanie Sun",
+        "added_at": "2004-10-26",
+        "album_name": "孙燕姿STEFANIE同名专辑",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273e7734d1c2626d140c2180a13",
+        "album_cover_path": "top/1bhXYLkHLt6ucYSCwzue3k.jpg",
+        "track_duration_ms": 261440,
+        "popularity": 42,
+        "track_url": "https://open.spotify.com/track/1bhXYLkHLt6ucYSCwzue3k"
+    },
+    {
+        "song_name": "光年之外 (电影 《Passengers》 中国区主题曲)",
+        "singer_name": "G.E.M.",
+        "added_at": "2016-12-30",
+        "album_name": "光年之外 (电影 《Passengers》 中国区主题曲)",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273f234c75e68b7b50c3d2b48d0",
+        "album_cover_path": "top/1bkvGbgK4HU8B7Ue4k7O7I.jpg",
+        "track_duration_ms": 235505,
+        "popularity": 62,
+        "track_url": "https://open.spotify.com/track/1bkvGbgK4HU8B7Ue4k7O7I"
+    },
+    {
+        "song_name": "我也很想他",
+        "singer_name": "Stefanie Sun",
+        "added_at": "2004-10-26",
+        "album_name": "孙燕姿STEFANIE同名专辑",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273e7734d1c2626d140c2180a13",
+        "album_cover_path": "top/1vRWBwDWDbuyzTSBHLQkq4.jpg",
+        "track_duration_ms": 257200,
+        "popularity": 47,
+        "track_url": "https://open.spotify.com/track/1vRWBwDWDbuyzTSBHLQkq4"
+    },
+    {
+        "song_name": "我怎么哭了",
+        "singer_name": "831",
+        "added_at": "2014-11-28",
+        "album_name": "大逃杀",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2730cefc2bf3774c8cc9cc466a3",
+        "album_cover_path": "top/25tUA3vWZhsC8mHh8zcU23.jpg",
+        "track_duration_ms": 294040,
+        "popularity": 40,
+        "track_url": "https://open.spotify.com/track/25tUA3vWZhsC8mHh8zcU23"
+    },
+    {
+        "song_name": "风衣",
+        "singer_name": "Stefanie Sun",
+        "added_at": "2017-11-08",
+        "album_name": "No.13 作品 : 跳舞的梵谷",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273c1d53f3fd781e2d6d6cdb1ad",
+        "album_cover_path": "top/27GFtQIhsIa0oSjqTbWIkB.jpg",
+        "track_duration_ms": 242951,
+        "popularity": 41,
+        "track_url": "https://open.spotify.com/track/27GFtQIhsIa0oSjqTbWIkB"
     }
 ]

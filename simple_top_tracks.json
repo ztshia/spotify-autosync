@@ -50,11 +50,6 @@
         "added_at": "2022-08-29"
     },
     {
-        "song_name": "ハート型ウイルス [no3b ver.]",
-        "singer_name": "ノースリーブス",
-        "added_at": "2012-11-07"
-    },
-    {
         "song_name": "ノエルの夜",
         "singer_name": "AKB48",
         "added_at": "2011-12-07"
@@ -70,34 +65,14 @@
         "added_at": "2013-08-15"
     },
     {
-        "song_name": "やさしいサヨナラ",
-        "singer_name": "Atsuko Maeda",
-        "added_at": "2016-06-22"
-    },
-    {
         "song_name": "三里屯的夜",
         "singer_name": "赵雷",
         "added_at": "2022-08-29"
     },
     {
-        "song_name": "Relax！",
-        "singer_name": "ノースリーブス",
-        "added_at": "2012-11-07"
-    },
-    {
-        "song_name": "青春时计",
-        "singer_name": "NGT48",
-        "added_at": "2017-04-11"
-    },
-    {
         "song_name": "转眼",
         "singer_name": "Mayday",
         "added_at": "2016-07-21"
-    },
-    {
-        "song_name": "独り占め (off vocal ver.)",
-        "singer_name": "Atsuko Maeda",
-        "added_at": "2014-03-05"
     },
     {
         "song_name": "匿名的好友",
@@ -133,11 +108,6 @@
         "song_name": "恋爱ing",
         "singer_name": "Mayday",
         "added_at": "2005-08-26"
-    },
-    {
-        "song_name": "遗失的美好",
-        "singer_name": "Angela Chang",
-        "added_at": "2004-04-01"
     },
     {
         "song_name": "我最亲爱的",
@@ -248,5 +218,35 @@
         "song_name": "勇气",
         "singer_name": "Fish Leong",
         "added_at": "2000-08-02"
+    },
+    {
+        "song_name": "你不是真正的快乐",
+        "singer_name": "Mayday",
+        "added_at": "2008-10-23"
+    },
+    {
+        "song_name": "我的爱",
+        "singer_name": "Stefanie Sun",
+        "added_at": "2004-10-26"
+    },
+    {
+        "song_name": "光年之外 (电影 《Passengers》 中国区主题曲)",
+        "singer_name": "G.E.M.",
+        "added_at": "2016-12-30"
+    },
+    {
+        "song_name": "我也很想他",
+        "singer_name": "Stefanie Sun",
+        "added_at": "2004-10-26"
+    },
+    {
+        "song_name": "我怎么哭了",
+        "singer_name": "831",
+        "added_at": "2014-11-28"
+    },
+    {
+        "song_name": "风衣",
+        "singer_name": "Stefanie Sun",
+        "added_at": "2017-11-08"
     }
 ]
