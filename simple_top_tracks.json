@@ -40,6 +40,11 @@
         "added_at": "2022-08-29"
     },
     {
+        "song_name": "天对地",
+        "singer_name": "Twins",
+        "added_at": "2005-12-23"
+    },
+    {
         "song_name": "请你爱我 - 电影 : 原谅他77次 主题曲",
         "singer_name": "Charlene Choi, Pakho Chau",
         "added_at": "2017-04-26"
@@ -63,6 +68,11 @@
         "song_name": "ノエルの夜",
         "singer_name": "AKB48",
         "added_at": "2011-12-07"
+    },
+    {
+        "song_name": "I Love You",
+        "singer_name": "Avril Lavigne",
+        "added_at": "2011-03-08"
     },
     {
         "song_name": "著睡衣跳舞",
@@ -238,15 +248,5 @@
         "song_name": "篇章",
         "singer_name": "Angela Chang, 王赫野",
         "added_at": "2022-05-24"
-    },
-    {
-        "song_name": "我终于失去了妳",
-        "singer_name": "Zhao Chuan",
-        "added_at": "1989-06-04"
-    },
-    {
-        "song_name": "五月天",
-        "singer_name": "S.H.E",
-        "added_at": "2007-05-11"
     }
 ]
