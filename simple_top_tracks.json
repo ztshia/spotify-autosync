@@ -5,6 +5,11 @@
         "added_at": "2013-07-09"
     },
     {
+        "song_name": "泪桥",
+        "singer_name": "Wu Bai",
+        "added_at": "2003-12-07"
+    },
+    {
         "song_name": "上からマリコ",
         "singer_name": "AKB48",
         "added_at": "2011-12-07"
@@ -243,10 +248,5 @@
         "song_name": "我的爱",
         "singer_name": "Stefanie Sun",
         "added_at": "2004-10-26"
-    },
-    {
-        "song_name": "光年之外 (电影 《Passengers》 中国区主题曲)",
-        "singer_name": "G.E.M.",
-        "added_at": "2016-12-30"
     }
 ]

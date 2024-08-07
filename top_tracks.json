@@ -11,6 +11,17 @@
         "track_url": "https://open.spotify.com/track/7j34mUd15g3RrhZzVx3CgB"
     },
     {
+        "song_name": "泪桥",
+        "singer_name": "Wu Bai",
+        "added_at": "2003-12-07",
+        "album_name": "泪桥",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273574541164c6e7f7f849e3b27",
+        "album_cover_path": "top/0NAcDn6U2GB2Arhspmh38S.jpg",
+        "track_duration_ms": 225186,
+        "popularity": 53,
+        "track_url": "https://open.spotify.com/track/0NAcDn6U2GB2Arhspmh38S"
+    },
+    {
         "song_name": "上からマリコ",
         "singer_name": "AKB48",
         "added_at": "2011-12-07",
@@ -537,16 +548,5 @@
         "track_duration_ms": 261440,
         "popularity": 42,
         "track_url": "https://open.spotify.com/track/1bhXYLkHLt6ucYSCwzue3k"
-    },
-    {
-        "song_name": "光年之外 (电影 《Passengers》 中国区主题曲)",
-        "singer_name": "G.E.M.",
-        "added_at": "2016-12-30",
-        "album_name": "光年之外 (电影 《Passengers》 中国区主题曲)",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273f234c75e68b7b50c3d2b48d0",
-        "album_cover_path": "top/1bkvGbgK4HU8B7Ue4k7O7I.jpg",
-        "track_duration_ms": 235505,
-        "popularity": 62,
-        "track_url": "https://open.spotify.com/track/1bkvGbgK4HU8B7Ue4k7O7I"
     }
 ]
