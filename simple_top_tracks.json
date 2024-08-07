@@ -60,6 +60,11 @@
         "added_at": "2001-10-16"
     },
     {
+        "song_name": "蝴蝶",
+        "singer_name": "David Tao",
+        "added_at": "2002-06-29"
+    },
+    {
         "song_name": "小酒窝 (粤)",
         "singer_name": "JJ Lin, Charlene Choi",
         "added_at": "2013-08-15"
@@ -113,6 +118,11 @@
         "song_name": "我最亲爱的",
         "singer_name": "A-Mei Chang",
         "added_at": "2011-04-23"
+    },
+    {
+        "song_name": "眼泪成诗",
+        "singer_name": "Stefanie Sun",
+        "added_at": "2005-10-07"
     },
     {
         "song_name": "隠形的翅膀",
@@ -238,15 +248,5 @@
         "song_name": "我也很想他",
         "singer_name": "Stefanie Sun",
         "added_at": "2004-10-26"
-    },
-    {
-        "song_name": "我怎么哭了",
-        "singer_name": "831",
-        "added_at": "2014-11-28"
-    },
-    {
-        "song_name": "风衣",
-        "singer_name": "Stefanie Sun",
-        "added_at": "2017-11-08"
     }
 ]
