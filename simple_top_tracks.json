@@ -80,6 +80,11 @@
         "added_at": "2013-08-15"
     },
     {
+        "song_name": "炼金术",
+        "singer_name": "Miriam Yeung",
+        "added_at": "2010"
+    },
+    {
         "song_name": "三里屯的夜",
         "singer_name": "赵雷",
         "added_at": "2022-08-29"
@@ -243,10 +248,5 @@
         "song_name": "你不是真正的快乐",
         "singer_name": "Mayday",
         "added_at": "2008-10-23"
-    },
-    {
-        "song_name": "我的爱",
-        "singer_name": "Stefanie Sun",
-        "added_at": "2004-10-26"
     }
 ]
