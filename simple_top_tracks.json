@@ -65,9 +65,19 @@
         "added_at": "2011-12-07"
     },
     {
+        "song_name": "著睡衣跳舞",
+        "singer_name": "Twins",
+        "added_at": "2002-01-29"
+    },
+    {
         "song_name": "有没有一首歌会让你想起我",
         "singer_name": "Wakin Chau",
         "added_at": "2001-10-16"
+    },
+    {
+        "song_name": "大人ジェリービーンズ",
+        "singer_name": "Mayu Watanabe",
+        "added_at": "2017-12-20"
     },
     {
         "song_name": "蝴蝶",
@@ -238,15 +248,5 @@
         "song_name": "五月天",
         "singer_name": "S.H.E",
         "added_at": "2007-05-11"
-    },
-    {
-        "song_name": "勇气",
-        "singer_name": "Fish Leong",
-        "added_at": "2000-08-02"
-    },
-    {
-        "song_name": "你不是真正的快乐",
-        "singer_name": "Mayday",
-        "added_at": "2008-10-23"
     }
 ]

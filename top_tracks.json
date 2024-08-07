@@ -143,6 +143,17 @@
         "track_url": "https://open.spotify.com/track/14fdCeSeWj2880r0zRvRF6"
     },
     {
+        "song_name": "著睡衣跳舞",
+        "singer_name": "Twins",
+        "added_at": "2002-01-29",
+        "album_name": "双生儿",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273752b2c2378ef8b402cb4525f",
+        "album_cover_path": "top/2IJ1nl9nNUcPxrnuNfi4vl.jpg",
+        "track_duration_ms": 202162,
+        "popularity": 17,
+        "track_url": "https://open.spotify.com/track/2IJ1nl9nNUcPxrnuNfi4vl"
+    },
+    {
         "song_name": "有没有一首歌会让你想起我",
         "singer_name": "Wakin Chau",
         "added_at": "2001-10-16",
@@ -152,6 +163,17 @@
         "track_duration_ms": 287066,
         "popularity": 47,
         "track_url": "https://open.spotify.com/track/2YOECkGti9IFHkPYTZAHWl"
+    },
+    {
+        "song_name": "大人ジェリービーンズ",
+        "singer_name": "Mayu Watanabe",
+        "added_at": "2017-12-20",
+        "album_name": "Best Regards!",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b27384645d8804fbb2ba85a65765",
+        "album_cover_path": "top/39eiPh98Qjp1d9z8ekqw16.jpg",
+        "track_duration_ms": 215786,
+        "popularity": 13,
+        "track_url": "https://open.spotify.com/track/39eiPh98Qjp1d9z8ekqw16"
     },
     {
         "song_name": "蝴蝶",
@@ -526,27 +548,5 @@
         "track_duration_ms": 232506,
         "popularity": 42,
         "track_url": "https://open.spotify.com/track/1S0PhR401vBaAZp2B7Zx0d"
-    },
-    {
-        "song_name": "勇气",
-        "singer_name": "Fish Leong",
-        "added_at": "2000-08-02",
-        "album_name": "勇气",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2734f33cc2b3adabd7493e44619",
-        "album_cover_path": "top/1SNF1IdMuKPDhw9HTrdcvM.jpg",
-        "track_duration_ms": 239293,
-        "popularity": 54,
-        "track_url": "https://open.spotify.com/track/1SNF1IdMuKPDhw9HTrdcvM"
-    },
-    {
-        "song_name": "你不是真正的快乐",
-        "singer_name": "Mayday",
-        "added_at": "2008-10-23",
-        "album_name": "后 青春期的诗",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273db5b9b66b5a8a13c2f2e569b",
-        "album_cover_path": "top/1XfWRrji6DBo420tz75tNV.jpg",
-        "track_duration_ms": 299906,
-        "popularity": 53,
-        "track_url": "https://open.spotify.com/track/1XfWRrji6DBo420tz75tNV"
     }
 ]
