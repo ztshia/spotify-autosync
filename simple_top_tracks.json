@@ -5,6 +5,11 @@
         "added_at": "2013-07-09"
     },
     {
+        "song_name": "程艾影",
+        "singer_name": "赵雷",
+        "added_at": "2022-08-29"
+    },
+    {
         "song_name": "泪桥",
         "singer_name": "Wu Bai",
         "added_at": "2003-12-07"
@@ -21,11 +26,6 @@
     },
     {
         "song_name": "我记得",
-        "singer_name": "赵雷",
-        "added_at": "2022-08-29"
-    },
-    {
-        "song_name": "程艾影",
         "singer_name": "赵雷",
         "added_at": "2022-08-29"
     },
