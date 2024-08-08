@@ -22,28 +22,6 @@
         "track_url": "https://open.spotify.com/track/0NAcDn6U2GB2Arhspmh38S"
     },
     {
-        "song_name": "上からマリコ",
-        "singer_name": "AKB48",
-        "added_at": "2011-12-07",
-        "album_name": "上からマリコ〈Type-K〉",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273e7a8b94c31bf482881191228",
-        "album_cover_path": "top/0vsgOfTLFru6SBOLl3MQPr.jpg",
-        "track_duration_ms": 277813,
-        "popularity": 32,
-        "track_url": "https://open.spotify.com/track/0vsgOfTLFru6SBOLl3MQPr"
-    },
-    {
-        "song_name": "任意门",
-        "singer_name": "Mayday",
-        "added_at": "2016-07-21",
-        "album_name": "自传",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2731403df7a7de5cd45df3ae3db",
-        "album_cover_path": "top/289IhpqgR1pMAH8UzxazwG.jpg",
-        "track_duration_ms": 272921,
-        "popularity": 40,
-        "track_url": "https://open.spotify.com/track/289IhpqgR1pMAH8UzxazwG"
-    },
-    {
         "song_name": "忘忧草",
         "singer_name": "Wakin Chau",
         "added_at": "2001-10-16",
@@ -99,17 +77,6 @@
         "track_url": "https://open.spotify.com/track/3wDgQGQFkc2k46XsXzmH63"
     },
     {
-        "song_name": "请你爱我 - 电影 : 原谅他77次 主题曲",
-        "singer_name": "Charlene Choi, Pakho Chau",
-        "added_at": "2017-04-26",
-        "album_name": "请你爱我 - 电影 : 原谅他77次 主题曲",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273e2a7f701b594226df93d8416",
-        "album_cover_path": "top/6wCdaGGHgkdLqzyNMLey27.jpg",
-        "track_duration_ms": 173385,
-        "popularity": 30,
-        "track_url": "https://open.spotify.com/track/6wCdaGGHgkdLqzyNMLey27"
-    },
-    {
         "song_name": "暑前街少年",
         "singer_name": "赵雷",
         "added_at": "2022-08-29",
@@ -141,17 +108,6 @@
         "track_duration_ms": 277493,
         "popularity": 29,
         "track_url": "https://open.spotify.com/track/0FDZioXKSRIIqu92ZeYeeI"
-    },
-    {
-        "song_name": "ノエルの夜",
-        "singer_name": "AKB48",
-        "added_at": "2011-12-07",
-        "album_name": "上からマリコ〈Type-K〉",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273e7a8b94c31bf482881191228",
-        "album_cover_path": "top/14fdCeSeWj2880r0zRvRF6.jpg",
-        "track_duration_ms": 248520,
-        "popularity": 8,
-        "track_url": "https://open.spotify.com/track/14fdCeSeWj2880r0zRvRF6"
     },
     {
         "song_name": "I Love You",
@@ -209,17 +165,6 @@
         "track_url": "https://open.spotify.com/track/488POZ0bB10TULhedwrt9i"
     },
     {
-        "song_name": "小酒窝 (粤)",
-        "singer_name": "JJ Lin, Charlene Choi",
-        "added_at": "2013-08-15",
-        "album_name": "壹加壹 合唱精选",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273bd40c80b58e558079a7ddb5f",
-        "album_cover_path": "top/4DqWflNKYdRwjtOWSHan7s.jpg",
-        "track_duration_ms": 218173,
-        "popularity": 27,
-        "track_url": "https://open.spotify.com/track/4DqWflNKYdRwjtOWSHan7s"
-    },
-    {
         "song_name": "炼金术",
         "singer_name": "Miriam Yeung",
         "added_at": "2010",
@@ -242,17 +187,6 @@
         "track_url": "https://open.spotify.com/track/58vEQe9Trf6ZcIdTFuuku4"
     },
     {
-        "song_name": "转眼",
-        "singer_name": "Mayday",
-        "added_at": "2016-07-21",
-        "album_name": "自传",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2731403df7a7de5cd45df3ae3db",
-        "album_cover_path": "top/63xfI8jFOg6HIMnASL55fp.jpg",
-        "track_duration_ms": 366993,
-        "popularity": 40,
-        "track_url": "https://open.spotify.com/track/63xfI8jFOg6HIMnASL55fp"
-    },
-    {
         "song_name": "匿名的好友",
         "singer_name": "Rainie Yang",
         "added_at": "2009-12-29",
@@ -262,28 +196,6 @@
         "track_duration_ms": 261880,
         "popularity": 49,
         "track_url": "https://open.spotify.com/track/0o9XsvHqGY2L8E6LRztDv1"
-    },
-    {
-        "song_name": "ゼロサム太阳(歌:team K)",
-        "singer_name": "AKB48",
-        "added_at": "2011-12-07",
-        "album_name": "上からマリコ〈Type-K〉",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273e7a8b94c31bf482881191228",
-        "album_cover_path": "top/3nCI0KppIb2p4JCd897tFS.jpg",
-        "track_duration_ms": 254946,
-        "popularity": 15,
-        "track_url": "https://open.spotify.com/track/3nCI0KppIb2p4JCd897tFS"
-    },
-    {
-        "song_name": "下一站天后",
-        "singer_name": "Charlene Choi",
-        "added_at": "2003",
-        "album_name": "Touch of Love",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273dfaa4cad0963d1334c9aec0e",
-        "album_cover_path": "top/4WORG8BZ24zecSGt26bLgL.jpg",
-        "track_duration_ms": 208268,
-        "popularity": 14,
-        "track_url": "https://open.spotify.com/track/4WORG8BZ24zecSGt26bLgL"
     },
     {
         "song_name": "你说得对",
@@ -350,28 +262,6 @@
         "track_duration_ms": 221200,
         "popularity": 56,
         "track_url": "https://open.spotify.com/track/4ZwdG5w5j31LAll9jHvvtR"
-    },
-    {
-        "song_name": "隠形的翅膀",
-        "singer_name": "Angela Chang",
-        "added_at": "2006-01-05",
-        "album_name": "潘朵拉",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273ccfe11aca69fb27395f2b94a",
-        "album_cover_path": "top/6Tv5ukQ3xK8WHxJgWMM6vM.jpg",
-        "track_duration_ms": 222080,
-        "popularity": 51,
-        "track_url": "https://open.spotify.com/track/6Tv5ukQ3xK8WHxJgWMM6vM"
-    },
-    {
-        "song_name": "隐形的纪念",
-        "singer_name": "Ashin Chen",
-        "added_at": "2019-04-27",
-        "album_name": "隐形的纪念",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273f96459ab5c2ea5746b384119",
-        "album_cover_path": "top/7MZntt73sRKP0R8kWLo1ba.jpg",
-        "track_duration_ms": 300357,
-        "popularity": 25,
-        "track_url": "https://open.spotify.com/track/7MZntt73sRKP0R8kWLo1ba"
     },
     {
         "song_name": "寓言",
@@ -484,17 +374,6 @@
         "track_url": "https://open.spotify.com/track/0ycpiOuqqmEIOUa6pXthmP"
     },
     {
-        "song_name": "黑暗骑士 (feat. 五月天)",
-        "singer_name": "JJ Lin, Mayday",
-        "added_at": "2013-03-13",
-        "album_name": "因你 而在",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273d007039d7dbb3ac88b4c5686",
-        "album_cover_path": "top/19CLXPdpU5lu5tfVjwAYcp.jpg",
-        "track_duration_ms": 303506,
-        "popularity": 38,
-        "track_url": "https://open.spotify.com/track/19CLXPdpU5lu5tfVjwAYcp"
-    },
-    {
         "song_name": "温柔",
         "singer_name": "Mayday",
         "added_at": "2000-07-07",
@@ -548,5 +427,126 @@
         "track_duration_ms": 248982,
         "popularity": 47,
         "track_url": "https://open.spotify.com/track/1N1cLClnWhZRTuZR2TCam6"
+    },
+    {
+        "song_name": "我终于失去了妳",
+        "singer_name": "Zhao Chuan",
+        "added_at": "1989-06-04",
+        "album_name": "我终于失去了妳",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273216c5463b649ee94014bf15b",
+        "album_cover_path": "top/1QWrG9mWkdKUfnUEITIxSr.jpg",
+        "track_duration_ms": 288000,
+        "popularity": 44,
+        "track_url": "https://open.spotify.com/track/1QWrG9mWkdKUfnUEITIxSr"
+    },
+    {
+        "song_name": "五月天",
+        "singer_name": "S.H.E",
+        "added_at": "2007-05-11",
+        "album_name": "PLAY",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273f501890188d5d58b39ded74c",
+        "album_cover_path": "top/1S0PhR401vBaAZp2B7Zx0d.jpg",
+        "track_duration_ms": 232506,
+        "popularity": 42,
+        "track_url": "https://open.spotify.com/track/1S0PhR401vBaAZp2B7Zx0d"
+    },
+    {
+        "song_name": "你不是真正的快乐",
+        "singer_name": "Mayday",
+        "added_at": "2008-10-23",
+        "album_name": "后 青春期的诗",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273db5b9b66b5a8a13c2f2e569b",
+        "album_cover_path": "top/1XfWRrji6DBo420tz75tNV.jpg",
+        "track_duration_ms": 299906,
+        "popularity": 53,
+        "track_url": "https://open.spotify.com/track/1XfWRrji6DBo420tz75tNV"
+    },
+    {
+        "song_name": "光年之外 (电影 《Passengers》 中国区主题曲)",
+        "singer_name": "G.E.M.",
+        "added_at": "2016-12-30",
+        "album_name": "光年之外 (电影 《Passengers》 中国区主题曲)",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273f234c75e68b7b50c3d2b48d0",
+        "album_cover_path": "top/1bkvGbgK4HU8B7Ue4k7O7I.jpg",
+        "track_duration_ms": 235505,
+        "popularity": 62,
+        "track_url": "https://open.spotify.com/track/1bkvGbgK4HU8B7Ue4k7O7I"
+    },
+    {
+        "song_name": "我也很想他",
+        "singer_name": "Stefanie Sun",
+        "added_at": "2004-10-26",
+        "album_name": "孙燕姿STEFANIE同名专辑",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273e7734d1c2626d140c2180a13",
+        "album_cover_path": "top/1vRWBwDWDbuyzTSBHLQkq4.jpg",
+        "track_duration_ms": 257200,
+        "popularity": 47,
+        "track_url": "https://open.spotify.com/track/1vRWBwDWDbuyzTSBHLQkq4"
+    },
+    {
+        "song_name": "我怎么哭了",
+        "singer_name": "831",
+        "added_at": "2014-11-28",
+        "album_name": "大逃杀",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2730cefc2bf3774c8cc9cc466a3",
+        "album_cover_path": "top/25tUA3vWZhsC8mHh8zcU23.jpg",
+        "track_duration_ms": 294040,
+        "popularity": 40,
+        "track_url": "https://open.spotify.com/track/25tUA3vWZhsC8mHh8zcU23"
+    },
+    {
+        "song_name": "风衣",
+        "singer_name": "Stefanie Sun",
+        "added_at": "2017-11-08",
+        "album_name": "No.13 作品 : 跳舞的梵谷",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273c1d53f3fd781e2d6d6cdb1ad",
+        "album_cover_path": "top/27GFtQIhsIa0oSjqTbWIkB.jpg",
+        "track_duration_ms": 242951,
+        "popularity": 41,
+        "track_url": "https://open.spotify.com/track/27GFtQIhsIa0oSjqTbWIkB"
+    },
+    {
+        "song_name": "泡沫",
+        "singer_name": "G.E.M.",
+        "added_at": "2012-06-27",
+        "album_name": "Xposed",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2739f6a38e4bb9c2f824c215e58",
+        "album_cover_path": "top/2IfSPLPDW6RGosdB5huwAA.jpg",
+        "track_duration_ms": 258865,
+        "popularity": 61,
+        "track_url": "https://open.spotify.com/track/2IfSPLPDW6RGosdB5huwAA"
+    },
+    {
+        "song_name": "我不需要每一个人都爱我 A Rock Can Be A Star",
+        "singer_name": "831",
+        "added_at": "2021-12-30",
+        "album_name": "颠倒世界",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2738fd43ea10e5f4f68b25fd939",
+        "album_cover_path": "top/2JpQvrAzCdCjhwy5EkMqRS.jpg",
+        "track_duration_ms": 243116,
+        "popularity": 40,
+        "track_url": "https://open.spotify.com/track/2JpQvrAzCdCjhwy5EkMqRS"
+    },
+    {
+        "song_name": "安静了",
+        "singer_name": "S.H.E",
+        "added_at": "2008-09-23",
+        "album_name": "我的电台FM S.H.E",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273bf20604ae28256705ee864c2",
+        "album_cover_path": "top/2KRLVQOjVL1SDxcHXUAC4E.jpg",
+        "track_duration_ms": 271280,
+        "popularity": 47,
+        "track_url": "https://open.spotify.com/track/2KRLVQOjVL1SDxcHXUAC4E"
+    },
+    {
+        "song_name": "绿光",
+        "singer_name": "Stefanie Sun",
+        "added_at": "2001",
+        "album_name": "风筝",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2731615d51c49ccf1f6afd81b6c",
+        "album_cover_path": "top/2kmwkxaPjSwJ1fe7SFROTs.jpg",
+        "track_duration_ms": 191560,
+        "popularity": 50,
+        "track_url": "https://open.spotify.com/track/2kmwkxaPjSwJ1fe7SFROTs"
     }
 ]

@@ -10,16 +10,6 @@
         "added_at": "2003-12-07"
     },
     {
-        "song_name": "上からマリコ",
-        "singer_name": "AKB48",
-        "added_at": "2011-12-07"
-    },
-    {
-        "song_name": "任意门",
-        "singer_name": "Mayday",
-        "added_at": "2016-07-21"
-    },
-    {
         "song_name": "忘忧草",
         "singer_name": "Wakin Chau",
         "added_at": "2001-10-16"
@@ -45,11 +35,6 @@
         "added_at": "2005-12-23"
     },
     {
-        "song_name": "请你爱我 - 电影 : 原谅他77次 主题曲",
-        "singer_name": "Charlene Choi, Pakho Chau",
-        "added_at": "2017-04-26"
-    },
-    {
         "song_name": "暑前街少年",
         "singer_name": "赵雷",
         "added_at": "2022-08-29"
@@ -63,11 +48,6 @@
         "song_name": "小行迹",
         "singer_name": "赵雷",
         "added_at": "2022-08-29"
-    },
-    {
-        "song_name": "ノエルの夜",
-        "singer_name": "AKB48",
-        "added_at": "2011-12-07"
     },
     {
         "song_name": "I Love You",
@@ -95,11 +75,6 @@
         "added_at": "2002-06-29"
     },
     {
-        "song_name": "小酒窝 (粤)",
-        "singer_name": "JJ Lin, Charlene Choi",
-        "added_at": "2013-08-15"
-    },
-    {
         "song_name": "炼金术",
         "singer_name": "Miriam Yeung",
         "added_at": "2010"
@@ -110,24 +85,9 @@
         "added_at": "2022-08-29"
     },
     {
-        "song_name": "转眼",
-        "singer_name": "Mayday",
-        "added_at": "2016-07-21"
-    },
-    {
         "song_name": "匿名的好友",
         "singer_name": "Rainie Yang",
         "added_at": "2009-12-29"
-    },
-    {
-        "song_name": "ゼロサム太阳(歌:team K)",
-        "singer_name": "AKB48",
-        "added_at": "2011-12-07"
-    },
-    {
-        "song_name": "下一站天后",
-        "singer_name": "Charlene Choi",
-        "added_at": "2003"
     },
     {
         "song_name": "你说得对",
@@ -158,16 +118,6 @@
         "song_name": "眼泪成诗",
         "singer_name": "Stefanie Sun",
         "added_at": "2005-10-07"
-    },
-    {
-        "song_name": "隠形的翅膀",
-        "singer_name": "Angela Chang",
-        "added_at": "2006-01-05"
-    },
-    {
-        "song_name": "隐形的纪念",
-        "singer_name": "Ashin Chen",
-        "added_at": "2019-04-27"
     },
     {
         "song_name": "寓言",
@@ -220,11 +170,6 @@
         "added_at": "2021-12-30"
     },
     {
-        "song_name": "黑暗骑士 (feat. 五月天)",
-        "singer_name": "JJ Lin, Mayday",
-        "added_at": "2013-03-13"
-    },
-    {
         "song_name": "温柔",
         "singer_name": "Mayday",
         "added_at": "2000-07-07"
@@ -248,5 +193,60 @@
         "song_name": "篇章",
         "singer_name": "Angela Chang, 王赫野",
         "added_at": "2022-05-24"
+    },
+    {
+        "song_name": "我终于失去了妳",
+        "singer_name": "Zhao Chuan",
+        "added_at": "1989-06-04"
+    },
+    {
+        "song_name": "五月天",
+        "singer_name": "S.H.E",
+        "added_at": "2007-05-11"
+    },
+    {
+        "song_name": "你不是真正的快乐",
+        "singer_name": "Mayday",
+        "added_at": "2008-10-23"
+    },
+    {
+        "song_name": "光年之外 (电影 《Passengers》 中国区主题曲)",
+        "singer_name": "G.E.M.",
+        "added_at": "2016-12-30"
+    },
+    {
+        "song_name": "我也很想他",
+        "singer_name": "Stefanie Sun",
+        "added_at": "2004-10-26"
+    },
+    {
+        "song_name": "我怎么哭了",
+        "singer_name": "831",
+        "added_at": "2014-11-28"
+    },
+    {
+        "song_name": "风衣",
+        "singer_name": "Stefanie Sun",
+        "added_at": "2017-11-08"
+    },
+    {
+        "song_name": "泡沫",
+        "singer_name": "G.E.M.",
+        "added_at": "2012-06-27"
+    },
+    {
+        "song_name": "我不需要每一个人都爱我 A Rock Can Be A Star",
+        "singer_name": "831",
+        "added_at": "2021-12-30"
+    },
+    {
+        "song_name": "安静了",
+        "singer_name": "S.H.E",
+        "added_at": "2008-09-23"
+    },
+    {
+        "song_name": "绿光",
+        "singer_name": "Stefanie Sun",
+        "added_at": "2001"
     }
 ]
