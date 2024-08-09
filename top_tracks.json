@@ -33,17 +33,6 @@
         "track_url": "https://open.spotify.com/track/0NAcDn6U2GB2Arhspmh38S"
     },
     {
-        "song_name": "忘忧草",
-        "singer_name": "Wakin Chau",
-        "added_at": "2001-10-16",
-        "album_name": "忘忧草",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b27370fe9423f5b895ba5ce73dc6",
-        "album_cover_path": "top/2GLbeHZDxmHvG9O2B0uo24.jpg",
-        "track_duration_ms": 226266,
-        "popularity": 29,
-        "track_url": "https://open.spotify.com/track/2GLbeHZDxmHvG9O2B0uo24"
-    },
-    {
         "song_name": "被动 feat. 伍佰 - Live",
         "singer_name": "LaLa Hsu, Wu Bai",
         "added_at": "2019-12-06",
@@ -132,17 +121,6 @@
         "track_url": "https://open.spotify.com/track/2IJ1nl9nNUcPxrnuNfi4vl"
     },
     {
-        "song_name": "有没有一首歌会让你想起我",
-        "singer_name": "Wakin Chau",
-        "added_at": "2001-10-16",
-        "album_name": "忘忧草",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b27370fe9423f5b895ba5ce73dc6",
-        "album_cover_path": "top/2YOECkGti9IFHkPYTZAHWl.jpg",
-        "track_duration_ms": 287066,
-        "popularity": 47,
-        "track_url": "https://open.spotify.com/track/2YOECkGti9IFHkPYTZAHWl"
-    },
-    {
         "song_name": "大人ジェリービーンズ",
         "singer_name": "Mayu Watanabe",
         "added_at": "2017-12-20",
@@ -185,17 +163,6 @@
         "track_duration_ms": 308313,
         "popularity": 21,
         "track_url": "https://open.spotify.com/track/58vEQe9Trf6ZcIdTFuuku4"
-    },
-    {
-        "song_name": "匿名的好友",
-        "singer_name": "Rainie Yang",
-        "added_at": "2009-12-29",
-        "album_name": "雨爱",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2737781cc488fb3aeca4a1c5a5c",
-        "album_cover_path": "top/0o9XsvHqGY2L8E6LRztDv1.jpg",
-        "track_duration_ms": 261880,
-        "popularity": 49,
-        "track_url": "https://open.spotify.com/track/0o9XsvHqGY2L8E6LRztDv1"
     },
     {
         "song_name": "你说得对",
@@ -548,5 +515,38 @@
         "track_duration_ms": 191560,
         "popularity": 50,
         "track_url": "https://open.spotify.com/track/2kmwkxaPjSwJ1fe7SFROTs"
+    },
+    {
+        "song_name": "中国话",
+        "singer_name": "S.H.E",
+        "added_at": "2007-05-11",
+        "album_name": "PLAY",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273f501890188d5d58b39ded74c",
+        "album_cover_path": "top/2su4MjRcOXVjGjMsylxFXx.jpg",
+        "track_duration_ms": 194026,
+        "popularity": 41,
+        "track_url": "https://open.spotify.com/track/2su4MjRcOXVjGjMsylxFXx"
+    },
+    {
+        "song_name": "你曾是少年",
+        "singer_name": "S.H.E",
+        "added_at": "2015-05-25",
+        "album_name": "你曾是少年",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273f5df00ba244ff1c150e77233",
+        "album_cover_path": "top/2vEPmW5BnsnXNVV29laPsu.jpg",
+        "track_duration_ms": 266651,
+        "popularity": 46,
+        "track_url": "https://open.spotify.com/track/2vEPmW5BnsnXNVV29laPsu"
+    },
+    {
+        "song_name": "说你爱我",
+        "singer_name": "S.H.E",
+        "added_at": "2007-05-11",
+        "album_name": "PLAY",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273f501890188d5d58b39ded74c",
+        "album_cover_path": "top/2xGmrEdhFbLBre9adaby0i.jpg",
+        "track_duration_ms": 272800,
+        "popularity": 33,
+        "track_url": "https://open.spotify.com/track/2xGmrEdhFbLBre9adaby0i"
     }
 ]

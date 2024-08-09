@@ -15,11 +15,6 @@
         "added_at": "2003-12-07"
     },
     {
-        "song_name": "忘忧草",
-        "singer_name": "Wakin Chau",
-        "added_at": "2001-10-16"
-    },
-    {
         "song_name": "被动 feat. 伍佰 - Live",
         "singer_name": "LaLa Hsu, Wu Bai",
         "added_at": "2019-12-06"
@@ -60,11 +55,6 @@
         "added_at": "2002-01-29"
     },
     {
-        "song_name": "有没有一首歌会让你想起我",
-        "singer_name": "Wakin Chau",
-        "added_at": "2001-10-16"
-    },
-    {
         "song_name": "大人ジェリービーンズ",
         "singer_name": "Mayu Watanabe",
         "added_at": "2017-12-20"
@@ -83,11 +73,6 @@
         "song_name": "三里屯的夜",
         "singer_name": "赵雷",
         "added_at": "2022-08-29"
-    },
-    {
-        "song_name": "匿名的好友",
-        "singer_name": "Rainie Yang",
-        "added_at": "2009-12-29"
     },
     {
         "song_name": "你说得对",
@@ -248,5 +233,20 @@
         "song_name": "绿光",
         "singer_name": "Stefanie Sun",
         "added_at": "2001"
+    },
+    {
+        "song_name": "中国话",
+        "singer_name": "S.H.E",
+        "added_at": "2007-05-11"
+    },
+    {
+        "song_name": "你曾是少年",
+        "singer_name": "S.H.E",
+        "added_at": "2015-05-25"
+    },
+    {
+        "song_name": "说你爱我",
+        "singer_name": "S.H.E",
+        "added_at": "2007-05-11"
     }
 ]
