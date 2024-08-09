@@ -15,6 +15,11 @@
         "added_at": "2003-12-07"
     },
     {
+        "song_name": "你怎么连话都说不清楚 - Live",
+        "singer_name": "Jay Chou",
+        "added_at": "2002-10-21"
+    },
+    {
         "song_name": "被动 feat. 伍佰 - Live",
         "singer_name": "LaLa Hsu, Wu Bai",
         "added_at": "2019-12-06"
@@ -75,6 +80,11 @@
         "added_at": "2022-08-29"
     },
     {
+        "song_name": "眼泪成诗",
+        "singer_name": "Stefanie Sun",
+        "added_at": "2005-10-07"
+    },
+    {
         "song_name": "你说得对",
         "singer_name": "Wakin Chau",
         "added_at": "2001-10-16"
@@ -108,11 +118,6 @@
         "song_name": "我最亲爱的",
         "singer_name": "A-Mei Chang",
         "added_at": "2011-04-23"
-    },
-    {
-        "song_name": "眼泪成诗",
-        "singer_name": "Stefanie Sun",
-        "added_at": "2005-10-07"
     },
     {
         "song_name": "寓言",
@@ -243,10 +248,5 @@
         "song_name": "我不需要每一个人都爱我 A Rock Can Be A Star",
         "singer_name": "831",
         "added_at": "2021-12-30"
-    },
-    {
-        "song_name": "安静了",
-        "singer_name": "S.H.E",
-        "added_at": "2008-09-23"
     }
 ]
