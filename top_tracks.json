@@ -220,6 +220,17 @@
         "track_url": "https://open.spotify.com/track/0pzyN7Uy0bmDSsTs0iHuSC"
     },
     {
+        "song_name": "我要快乐",
+        "singer_name": "A-Mei Chang",
+        "added_at": "2006-02-17",
+        "album_name": "我要快乐 (Deluxe Version)",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273657284accb75e6b683ebd59a",
+        "album_cover_path": "top/30QjAKDjn3auoVFiYzzhlV.jpg",
+        "track_duration_ms": 251306,
+        "popularity": 46,
+        "track_url": "https://open.spotify.com/track/30QjAKDjn3auoVFiYzzhlV"
+    },
+    {
         "song_name": "看得最远的地方",
         "singer_name": "Angela Chang",
         "added_at": "2009-09-25",
@@ -537,16 +548,5 @@
         "track_duration_ms": 258865,
         "popularity": 61,
         "track_url": "https://open.spotify.com/track/2IfSPLPDW6RGosdB5huwAA"
-    },
-    {
-        "song_name": "我不需要每一个人都爱我 A Rock Can Be A Star",
-        "singer_name": "831",
-        "added_at": "2021-12-30",
-        "album_name": "颠倒世界",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2738fd43ea10e5f4f68b25fd939",
-        "album_cover_path": "top/2JpQvrAzCdCjhwy5EkMqRS.jpg",
-        "track_duration_ms": 243116,
-        "popularity": 40,
-        "track_url": "https://open.spotify.com/track/2JpQvrAzCdCjhwy5EkMqRS"
     }
 ]

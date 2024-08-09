@@ -100,6 +100,11 @@
         "added_at": "2005-12-01"
     },
     {
+        "song_name": "我要快乐",
+        "singer_name": "A-Mei Chang",
+        "added_at": "2006-02-17"
+    },
+    {
         "song_name": "看得最远的地方",
         "singer_name": "Angela Chang",
         "added_at": "2009-09-25"
@@ -243,10 +248,5 @@
         "song_name": "泡沫",
         "singer_name": "G.E.M.",
         "added_at": "2012-06-27"
-    },
-    {
-        "song_name": "我不需要每一个人都爱我 A Rock Can Be A Star",
-        "singer_name": "831",
-        "added_at": "2021-12-30"
     }
 ]
