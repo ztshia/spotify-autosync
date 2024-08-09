@@ -85,6 +85,11 @@
         "added_at": "2016-12-21"
     },
     {
+        "song_name": "大城小爱",
+        "singer_name": "Leehom Wang",
+        "added_at": "2005-12-01"
+    },
+    {
         "song_name": "看得最远的地方",
         "singer_name": "Angela Chang",
         "added_at": "2009-09-25"
@@ -93,6 +98,11 @@
         "song_name": "恋爱ing",
         "singer_name": "Mayday",
         "added_at": "2005-08-26"
+    },
+    {
+        "song_name": "How are you",
+        "singer_name": "S.H.E",
+        "added_at": "2007-12-07"
     },
     {
         "song_name": "我最亲爱的",
@@ -143,11 +153,6 @@
         "song_name": "他还是不懂",
         "singer_name": "S.H.E",
         "added_at": "2004-02-06"
-    },
-    {
-        "song_name": "大城小爱",
-        "singer_name": "Leehom Wang",
-        "added_at": "2005-12-01"
     },
     {
         "song_name": "不摇滚",
@@ -243,10 +248,5 @@
         "song_name": "你曾是少年",
         "singer_name": "S.H.E",
         "added_at": "2015-05-25"
-    },
-    {
-        "song_name": "说你爱我",
-        "singer_name": "S.H.E",
-        "added_at": "2007-05-11"
     }
 ]
