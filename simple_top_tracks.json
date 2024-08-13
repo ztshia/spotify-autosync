@@ -85,11 +85,6 @@
         "added_at": "2005-10-07"
     },
     {
-        "song_name": "你说得对",
-        "singer_name": "Wakin Chau",
-        "added_at": "2001-10-16"
-    },
-    {
         "song_name": "成都",
         "singer_name": "赵雷",
         "added_at": "2016-12-21"
@@ -248,5 +243,10 @@
         "song_name": "泡沫",
         "singer_name": "G.E.M.",
         "added_at": "2012-06-27"
+    },
+    {
+        "song_name": "我不需要每一个人都爱我 A Rock Can Be A Star",
+        "singer_name": "831",
+        "added_at": "2021-12-30"
     }
 ]
