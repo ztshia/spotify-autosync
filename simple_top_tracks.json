@@ -25,6 +25,11 @@
         "added_at": "2019-12-06"
     },
     {
+        "song_name": "听海",
+        "singer_name": "A-Mei Chang",
+        "added_at": "1997-06-11"
+    },
+    {
         "song_name": "我记得",
         "singer_name": "赵雷",
         "added_at": "2022-08-29"
@@ -243,10 +248,5 @@
         "song_name": "风衣",
         "singer_name": "Stefanie Sun",
         "added_at": "2017-11-08"
-    },
-    {
-        "song_name": "泡沫",
-        "singer_name": "G.E.M.",
-        "added_at": "2012-06-27"
     }
 ]

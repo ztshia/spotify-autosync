@@ -55,6 +55,17 @@
         "track_url": "https://open.spotify.com/track/2WQpWaHZ4lrwzA3qQ9I1PH"
     },
     {
+        "song_name": "听海",
+        "singer_name": "A-Mei Chang",
+        "added_at": "1997-06-11",
+        "album_name": "Bad Boy",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2731debd484c8a5f63588647447",
+        "album_cover_path": "top/2WWDsBLNL4czuVcg7rjfy2.jpg",
+        "track_duration_ms": 318333,
+        "popularity": 59,
+        "track_url": "https://open.spotify.com/track/2WWDsBLNL4czuVcg7rjfy2"
+    },
+    {
         "song_name": "我记得",
         "singer_name": "赵雷",
         "added_at": "2022-08-29",
@@ -537,16 +548,5 @@
         "track_duration_ms": 242951,
         "popularity": 41,
         "track_url": "https://open.spotify.com/track/27GFtQIhsIa0oSjqTbWIkB"
-    },
-    {
-        "song_name": "泡沫",
-        "singer_name": "G.E.M.",
-        "added_at": "2012-06-27",
-        "album_name": "Xposed",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2739f6a38e4bb9c2f824c215e58",
-        "album_cover_path": "top/2IfSPLPDW6RGosdB5huwAA.jpg",
-        "track_duration_ms": 258865,
-        "popularity": 61,
-        "track_url": "https://open.spotify.com/track/2IfSPLPDW6RGosdB5huwAA"
     }
 ]
