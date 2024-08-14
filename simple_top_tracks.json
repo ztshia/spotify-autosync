@@ -55,6 +55,11 @@
         "added_at": "2011-03-08"
     },
     {
+        "song_name": "你瞒我瞒",
+        "singer_name": "Jason Chan",
+        "added_at": "2009-12-24"
+    },
+    {
         "song_name": "著睡衣跳舞",
         "singer_name": "Twins",
         "added_at": "2002-01-29"
@@ -243,10 +248,5 @@
         "song_name": "泡沫",
         "singer_name": "G.E.M.",
         "added_at": "2012-06-27"
-    },
-    {
-        "song_name": "我不需要每一个人都爱我 A Rock Can Be A Star",
-        "singer_name": "831",
-        "added_at": "2021-12-30"
     }
 ]

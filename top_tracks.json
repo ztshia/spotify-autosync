@@ -121,6 +121,17 @@
         "track_url": "https://open.spotify.com/track/1Tl0YVT3Br2AIqYT3VlEdo"
     },
     {
+        "song_name": "你瞒我瞒",
+        "singer_name": "Jason Chan",
+        "added_at": "2009-12-24",
+        "album_name": "Can't Be Half",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b27380457a168f542fe975060450",
+        "album_cover_path": "top/1eId3TVzGrwv73YAWAVQMX.jpg",
+        "track_duration_ms": 237733,
+        "popularity": 54,
+        "track_url": "https://open.spotify.com/track/1eId3TVzGrwv73YAWAVQMX"
+    },
+    {
         "song_name": "著睡衣跳舞",
         "singer_name": "Twins",
         "added_at": "2002-01-29",
@@ -537,16 +548,5 @@
         "track_duration_ms": 258865,
         "popularity": 61,
         "track_url": "https://open.spotify.com/track/2IfSPLPDW6RGosdB5huwAA"
-    },
-    {
-        "song_name": "我不需要每一个人都爱我 A Rock Can Be A Star",
-        "singer_name": "831",
-        "added_at": "2021-12-30",
-        "album_name": "颠倒世界",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2738fd43ea10e5f4f68b25fd939",
-        "album_cover_path": "top/2JpQvrAzCdCjhwy5EkMqRS.jpg",
-        "track_duration_ms": 243116,
-        "popularity": 40,
-        "track_url": "https://open.spotify.com/track/2JpQvrAzCdCjhwy5EkMqRS"
     }
 ]
