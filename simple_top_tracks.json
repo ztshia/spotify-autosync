@@ -1,5 +1,10 @@
 [
     {
+        "song_name": "听海",
+        "singer_name": "A-Mei Chang",
+        "added_at": "1997-06-11"
+    },
+    {
         "song_name": "悄悄告诉你",
         "singer_name": "Christine Fan",
         "added_at": "2013-07-09"
@@ -23,11 +28,6 @@
         "song_name": "被动 feat. 伍佰 - Live",
         "singer_name": "LaLa Hsu, Wu Bai",
         "added_at": "2019-12-06"
-    },
-    {
-        "song_name": "听海",
-        "singer_name": "A-Mei Chang",
-        "added_at": "1997-06-11"
     },
     {
         "song_name": "我记得",
