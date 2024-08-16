@@ -115,49 +115,14 @@
         "added_at": "2005-12-01"
     },
     {
-        "song_name": "我要快乐",
-        "singer_name": "A-Mei Chang",
-        "added_at": "2006-02-17"
-    },
-    {
-        "song_name": "看得最远的地方",
-        "singer_name": "Angela Chang",
-        "added_at": "2009-09-25"
-    },
-    {
         "song_name": "恋爱ing",
         "singer_name": "Mayday",
         "added_at": "2005-08-26"
     },
     {
-        "song_name": "How are you",
-        "singer_name": "S.H.E",
-        "added_at": "2007-12-07"
-    },
-    {
-        "song_name": "我最亲爱的",
-        "singer_name": "A-Mei Chang",
-        "added_at": "2011-04-23"
-    },
-    {
         "song_name": "寓言",
         "singer_name": "Angela Chang",
         "added_at": "2004-04-01"
-    },
-    {
-        "song_name": "口袋的天空",
-        "singer_name": "Angela Chang",
-        "added_at": "2006-01-05"
-    },
-    {
-        "song_name": "我不愿让你一个人",
-        "singer_name": "Mayday",
-        "added_at": "2011-12-16"
-    },
-    {
-        "song_name": "突然好想你",
-        "singer_name": "Mayday",
-        "added_at": "2008-10-23"
     },
     {
         "song_name": "手掌心",
@@ -168,21 +133,6 @@
         "song_name": "无眠",
         "singer_name": "sodagreen",
         "added_at": "2009-09-11"
-    },
-    {
-        "song_name": "谢谢你的温柔",
-        "singer_name": "S.H.E",
-        "added_at": "2007-05-11"
-    },
-    {
-        "song_name": "他还是不懂",
-        "singer_name": "S.H.E",
-        "added_at": "2004-02-06"
-    },
-    {
-        "song_name": "不摇滚",
-        "singer_name": "831, 房东的猫",
-        "added_at": "2021-12-30"
     },
     {
         "song_name": "园游会",
@@ -200,11 +150,6 @@
         "added_at": "2000-07-07"
     },
     {
-        "song_name": "倔强",
-        "singer_name": "Mayday",
-        "added_at": "2004-11-05"
-    },
-    {
         "song_name": "亲爱的那不是爱情",
         "singer_name": "Angela Chang",
         "added_at": "2007-12-14"
@@ -215,29 +160,9 @@
         "added_at": "2008-06-03"
     },
     {
-        "song_name": "篇章",
-        "singer_name": "Angela Chang, 王赫野",
-        "added_at": "2022-05-24"
-    },
-    {
         "song_name": "我终于失去了妳",
         "singer_name": "Zhao Chuan",
         "added_at": "1989-06-04"
-    },
-    {
-        "song_name": "五月天",
-        "singer_name": "S.H.E",
-        "added_at": "2007-05-11"
-    },
-    {
-        "song_name": "你不是真正的快乐",
-        "singer_name": "Mayday",
-        "added_at": "2008-10-23"
-    },
-    {
-        "song_name": "光年之外 (电影 《Passengers》 中国区主题曲)",
-        "singer_name": "G.E.M.",
-        "added_at": "2016-12-30"
     },
     {
         "song_name": "人间",
@@ -245,8 +170,83 @@
         "added_at": "1997-09-26"
     },
     {
-        "song_name": "我也很想他",
-        "singer_name": "Stefanie Sun",
-        "added_at": "2004-10-26"
+        "song_name": "我怎么哭了",
+        "singer_name": "831",
+        "added_at": "2014-11-28"
+    },
+    {
+        "song_name": "中国话",
+        "singer_name": "S.H.E",
+        "added_at": "2007-05-11"
+    },
+    {
+        "song_name": "说你爱我",
+        "singer_name": "S.H.E",
+        "added_at": "2007-05-11"
+    },
+    {
+        "song_name": "我要快乐",
+        "singer_name": "A-Mei Chang",
+        "added_at": "2006-02-17"
+    },
+    {
+        "song_name": "言不由衷",
+        "singer_name": "LaLa Hsu",
+        "added_at": "2017-12-27"
+    },
+    {
+        "song_name": "热带雨林",
+        "singer_name": "S.H.E",
+        "added_at": "2002"
+    },
+    {
+        "song_name": "解脱",
+        "singer_name": "A-Mei Chang",
+        "added_at": "1996-12-13"
+    },
+    {
+        "song_name": "How are you",
+        "singer_name": "S.H.E",
+        "added_at": "2007-12-07"
+    },
+    {
+        "song_name": "我最亲爱的",
+        "singer_name": "A-Mei Chang",
+        "added_at": "2011-04-23"
+    },
+    {
+        "song_name": "寂寞寂寞就好",
+        "singer_name": "Hebe Tien",
+        "added_at": "2010-10-20"
+    },
+    {
+        "song_name": "我爱的人",
+        "singer_name": "Jordan Chan",
+        "added_at": "2001-03-31"
+    },
+    {
+        "song_name": "小手拉大手",
+        "singer_name": "Fish Leong",
+        "added_at": "2006-10-06"
+    },
+    {
+        "song_name": "入阵曲",
+        "singer_name": "Mayday",
+        "added_at": "2013-12-27"
+    },
+    {
+        "song_name": "可惜不是你",
+        "singer_name": "Fish Leong",
+        "added_at": "2005-09-16"
+    },
+    {
+        "song_name": "威廉古堡",
+        "singer_name": "Jay Chou",
+        "added_at": "2001-09-14"
+    },
+    {
+        "song_name": "再遇见",
+        "singer_name": "sodagreen",
+        "added_at": "2013-09-18"
     }
 ]
