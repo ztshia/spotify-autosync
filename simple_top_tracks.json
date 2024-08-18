@@ -160,6 +160,11 @@
         "added_at": "2002-06-21"
     },
     {
+        "song_name": "Only One",
+        "singer_name": "Shunza",
+        "added_at": "2005-03-01"
+    },
+    {
         "song_name": "你被写在我的歌里",
         "singer_name": "sodagreen, Ella Chen",
         "added_at": "2011-11-11"
@@ -241,11 +246,6 @@
     },
     {
         "song_name": "中国话",
-        "singer_name": "S.H.E",
-        "added_at": "2007-05-11"
-    },
-    {
-        "song_name": "说你爱我",
         "singer_name": "S.H.E",
         "added_at": "2007-05-11"
     }
