@@ -40,6 +40,11 @@
         "added_at": "2005-12-23"
     },
     {
+        "song_name": "隐形的纪念",
+        "singer_name": "Ashin Chen",
+        "added_at": "2019-04-27"
+    },
+    {
         "song_name": "暑前街少年",
         "singer_name": "赵雷",
         "added_at": "2022-08-29"
@@ -55,9 +60,19 @@
         "added_at": "2003-01-01"
     },
     {
+        "song_name": "头号甜心",
+        "singer_name": "Angela Chang",
+        "added_at": "2007-12-14"
+    },
+    {
         "song_name": "小行迹",
         "singer_name": "赵雷",
         "added_at": "2022-08-29"
+    },
+    {
+        "song_name": "上からマリコ",
+        "singer_name": "AKB48",
+        "added_at": "2011-12-07"
     },
     {
         "song_name": "两个好",
@@ -85,9 +100,19 @@
         "added_at": "2017-12-20"
     },
     {
+        "song_name": "山手线",
+        "singer_name": "Keyakizaka46",
+        "added_at": "2016-04-06"
+    },
+    {
         "song_name": "蝴蝶",
         "singer_name": "David Tao",
         "added_at": "2002-06-29"
+    },
+    {
+        "song_name": "名探侦コナン メイン・テーマ - 暗杀者ヴァージョン",
+        "singer_name": "Katsuo Ohno",
+        "added_at": "2000-04-12"
     },
     {
         "song_name": "炼金术",
@@ -98,6 +123,11 @@
         "song_name": "三里屯的夜",
         "singer_name": "赵雷",
         "added_at": "2022-08-29"
+    },
+    {
+        "song_name": "缺氧",
+        "singer_name": "Rainie Yang",
+        "added_at": "2007-08-30"
     },
     {
         "song_name": "你被写在我的歌里",
@@ -218,35 +248,5 @@
         "song_name": "我最亲爱的",
         "singer_name": "A-Mei Chang",
         "added_at": "2011-04-23"
-    },
-    {
-        "song_name": "寂寞寂寞就好",
-        "singer_name": "Hebe Tien",
-        "added_at": "2010-10-20"
-    },
-    {
-        "song_name": "我爱的人",
-        "singer_name": "Jordan Chan",
-        "added_at": "2001-03-31"
-    },
-    {
-        "song_name": "小手拉大手",
-        "singer_name": "Fish Leong",
-        "added_at": "2006-10-06"
-    },
-    {
-        "song_name": "入阵曲",
-        "singer_name": "Mayday",
-        "added_at": "2013-12-27"
-    },
-    {
-        "song_name": "可惜不是你",
-        "singer_name": "Fish Leong",
-        "added_at": "2005-09-16"
-    },
-    {
-        "song_name": "威廉古堡",
-        "singer_name": "Jay Chou",
-        "added_at": "2001-09-14"
     }
 ]
