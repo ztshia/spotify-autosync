@@ -115,6 +115,16 @@
         "added_at": "2006"
     },
     {
+        "song_name": "防空洞",
+        "singer_name": "Penny Tai",
+        "added_at": "2004"
+    },
+    {
+        "song_name": "成全",
+        "singer_name": "Rene Liu",
+        "added_at": "2001-01-09"
+    },
+    {
         "song_name": "大人ジェリービーンズ",
         "singer_name": "Mayu Watanabe",
         "added_at": "2017-12-20"
@@ -175,6 +185,11 @@
         "added_at": "2005-10-07"
     },
     {
+        "song_name": "红豆",
+        "singer_name": "Faye Wong",
+        "added_at": "1998-10-01"
+    },
+    {
         "song_name": "成都",
         "singer_name": "赵雷",
         "added_at": "2016-12-21"
@@ -233,20 +248,5 @@
         "song_name": "我终于失去了妳",
         "singer_name": "Zhao Chuan",
         "added_at": "1989-06-04"
-    },
-    {
-        "song_name": "人间",
-        "singer_name": "Faye Wong",
-        "added_at": "1997-09-26"
-    },
-    {
-        "song_name": "我怎么哭了",
-        "singer_name": "831",
-        "added_at": "2014-11-28"
-    },
-    {
-        "song_name": "中国话",
-        "singer_name": "S.H.E",
-        "added_at": "2007-05-11"
     }
 ]
