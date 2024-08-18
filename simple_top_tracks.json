@@ -25,6 +25,11 @@
         "added_at": "2002-10-21"
     },
     {
+        "song_name": "闪灵",
+        "singer_name": "Miriam Yeung",
+        "added_at": "2007-02-07"
+    },
+    {
         "song_name": "被动 feat. 伍佰 - Live",
         "singer_name": "LaLa Hsu, Wu Bai",
         "added_at": "2019-12-06"
@@ -70,6 +75,11 @@
         "added_at": "2022-08-29"
     },
     {
+        "song_name": "双失情人节",
+        "singer_name": "Twins",
+        "added_at": "2004-01-14"
+    },
+    {
         "song_name": "上からマリコ",
         "singer_name": "AKB48",
         "added_at": "2011-12-07"
@@ -90,9 +100,19 @@
         "added_at": "2009-12-24"
     },
     {
+        "song_name": "最后的歌 - Live",
+        "singer_name": "Miriam Yeung",
+        "added_at": "2018-03-28"
+    },
+    {
         "song_name": "著睡衣跳舞",
         "singer_name": "Twins",
         "added_at": "2002-01-29"
+    },
+    {
+        "song_name": "ブルーバード",
+        "singer_name": "Ikimonogakari",
+        "added_at": "2006"
     },
     {
         "song_name": "大人ジェリービーンズ",
@@ -128,6 +148,16 @@
         "song_name": "缺氧",
         "singer_name": "Rainie Yang",
         "added_at": "2007-08-30"
+    },
+    {
+        "song_name": "三つ编みの君へ",
+        "singer_name": "Mayu Watanabe",
+        "added_at": "2012-02-29"
+    },
+    {
+        "song_name": "一切",
+        "singer_name": "Rene Liu",
+        "added_at": "2002-06-21"
     },
     {
         "song_name": "你被写在我的歌里",
@@ -218,35 +248,5 @@
         "song_name": "说你爱我",
         "singer_name": "S.H.E",
         "added_at": "2007-05-11"
-    },
-    {
-        "song_name": "我要快乐",
-        "singer_name": "A-Mei Chang",
-        "added_at": "2006-02-17"
-    },
-    {
-        "song_name": "言不由衷",
-        "singer_name": "LaLa Hsu",
-        "added_at": "2017-12-27"
-    },
-    {
-        "song_name": "热带雨林",
-        "singer_name": "S.H.E",
-        "added_at": "2002"
-    },
-    {
-        "song_name": "解脱",
-        "singer_name": "A-Mei Chang",
-        "added_at": "1996-12-13"
-    },
-    {
-        "song_name": "How are you",
-        "singer_name": "S.H.E",
-        "added_at": "2007-12-07"
-    },
-    {
-        "song_name": "我最亲爱的",
-        "singer_name": "A-Mei Chang",
-        "added_at": "2011-04-23"
     }
 ]

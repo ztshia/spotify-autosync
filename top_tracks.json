@@ -55,6 +55,17 @@
         "track_url": "https://open.spotify.com/track/0agFIA1kae5CzZAUZ8fh6y"
     },
     {
+        "song_name": "闪灵",
+        "singer_name": "Miriam Yeung",
+        "added_at": "2007-02-07",
+        "album_name": "Simply Me",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273bed97c63bdd205d607fab5bd",
+        "album_cover_path": "top/0lHrbo8ZQ8NFQtnbOK93KG.jpg",
+        "track_duration_ms": 226800,
+        "popularity": 10,
+        "track_url": "https://open.spotify.com/track/0lHrbo8ZQ8NFQtnbOK93KG"
+    },
+    {
         "song_name": "被动 feat. 伍佰 - Live",
         "singer_name": "LaLa Hsu, Wu Bai",
         "added_at": "2019-12-06",
@@ -154,6 +165,17 @@
         "track_url": "https://open.spotify.com/track/0FDZioXKSRIIqu92ZeYeeI"
     },
     {
+        "song_name": "双失情人节",
+        "singer_name": "Twins",
+        "added_at": "2004-01-14",
+        "album_name": "Magic",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b27377c6ed4e14c5c88279484fd6",
+        "album_cover_path": "top/0jLgZjyU4mQ7UBRVwGdyfa.jpg",
+        "track_duration_ms": 215040,
+        "popularity": 34,
+        "track_url": "https://open.spotify.com/track/0jLgZjyU4mQ7UBRVwGdyfa"
+    },
+    {
         "song_name": "上からマリコ",
         "singer_name": "AKB48",
         "added_at": "2011-12-07",
@@ -198,6 +220,17 @@
         "track_url": "https://open.spotify.com/track/1eId3TVzGrwv73YAWAVQMX"
     },
     {
+        "song_name": "最后的歌 - Live",
+        "singer_name": "Miriam Yeung",
+        "added_at": "2018-03-28",
+        "album_name": "杨千嬅 三二一GO! 演唱会2017 (Live)",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273cb88f6413b6167884e754d03",
+        "album_cover_path": "top/1kV23SOT1WRxKsVGdSZgxU.jpg",
+        "track_duration_ms": 197986,
+        "popularity": 21,
+        "track_url": "https://open.spotify.com/track/1kV23SOT1WRxKsVGdSZgxU"
+    },
+    {
         "song_name": "著睡衣跳舞",
         "singer_name": "Twins",
         "added_at": "2002-01-29",
@@ -207,6 +240,17 @@
         "track_duration_ms": 202162,
         "popularity": 18,
         "track_url": "https://open.spotify.com/track/2IJ1nl9nNUcPxrnuNfi4vl"
+    },
+    {
+        "song_name": "ブルーバード",
+        "singer_name": "Ikimonogakari",
+        "added_at": "2006",
+        "album_name": "Chou Ikimonobakari Tennen Kinen Members Best Selection",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2734ff62a8bad528d3b04d0794e",
+        "album_cover_path": "top/2XpV9sHBexcNrz0Gyf3l18.jpg",
+        "track_duration_ms": 215706,
+        "popularity": 68,
+        "track_url": "https://open.spotify.com/track/2XpV9sHBexcNrz0Gyf3l18"
     },
     {
         "song_name": "大人ジェリービーンズ",
@@ -284,6 +328,28 @@
         "track_duration_ms": 258000,
         "popularity": 35,
         "track_url": "https://open.spotify.com/track/5xrb0n4F3MBFTc9LSIqfvU"
+    },
+    {
+        "song_name": "三つ编みの君へ",
+        "singer_name": "Mayu Watanabe",
+        "added_at": "2012-02-29",
+        "album_name": "シンクロときめき Type-A",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2732d6e1b98786482798467577d",
+        "album_cover_path": "top/6PYHwdkdhhWV6OZ7p7Rnmn.jpg",
+        "track_duration_ms": 256105,
+        "popularity": 3,
+        "track_url": "https://open.spotify.com/track/6PYHwdkdhhWV6OZ7p7Rnmn"
+    },
+    {
+        "song_name": "一切",
+        "singer_name": "Rene Liu",
+        "added_at": "2002-06-21",
+        "album_name": "Love and the City",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2739165f5a39e5b649f7236eec6",
+        "album_cover_path": "top/6aTWUEtsntopTl6tdiJlFW.jpg",
+        "track_duration_ms": 258219,
+        "popularity": 7,
+        "track_url": "https://open.spotify.com/track/6aTWUEtsntopTl6tdiJlFW"
     },
     {
         "song_name": "你被写在我的歌里",
@@ -482,71 +548,5 @@
         "track_duration_ms": 272800,
         "popularity": 33,
         "track_url": "https://open.spotify.com/track/2xGmrEdhFbLBre9adaby0i"
-    },
-    {
-        "song_name": "我要快乐",
-        "singer_name": "A-Mei Chang",
-        "added_at": "2006-02-17",
-        "album_name": "我要快乐 (Deluxe Version)",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273657284accb75e6b683ebd59a",
-        "album_cover_path": "top/30QjAKDjn3auoVFiYzzhlV.jpg",
-        "track_duration_ms": 251306,
-        "popularity": 47,
-        "track_url": "https://open.spotify.com/track/30QjAKDjn3auoVFiYzzhlV"
-    },
-    {
-        "song_name": "言不由衷",
-        "singer_name": "LaLa Hsu",
-        "added_at": "2017-12-27",
-        "album_name": "心里学",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273a699eb1e40bb5cc52c1fc634",
-        "album_cover_path": "top/3AIvgFB3YTo349ZlcfOnOo.jpg",
-        "track_duration_ms": 261240,
-        "popularity": 43,
-        "track_url": "https://open.spotify.com/track/3AIvgFB3YTo349ZlcfOnOo"
-    },
-    {
-        "song_name": "热带雨林",
-        "singer_name": "S.H.E",
-        "added_at": "2002",
-        "album_name": "青春株式会社",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273ad5ea7cc855e19ee0ece069c",
-        "album_cover_path": "top/3GR2MyhdGvHnpSNJffuacz.jpg",
-        "track_duration_ms": 281000,
-        "popularity": 43,
-        "track_url": "https://open.spotify.com/track/3GR2MyhdGvHnpSNJffuacz"
-    },
-    {
-        "song_name": "解脱",
-        "singer_name": "A-Mei Chang",
-        "added_at": "1996-12-13",
-        "album_name": "姊妹",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2736f11c97c7e75f63ea312b75b",
-        "album_cover_path": "top/3awaN4hJ3e3s6WcVEB79fE.jpg",
-        "track_duration_ms": 284666,
-        "popularity": 52,
-        "track_url": "https://open.spotify.com/track/3awaN4hJ3e3s6WcVEB79fE"
-    },
-    {
-        "song_name": "How are you",
-        "singer_name": "S.H.E",
-        "added_at": "2007-12-07",
-        "album_name": "Bull Fighting",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2736e010c1ac87b55694dca7645",
-        "album_cover_path": "top/3kmODcHHjLnmJWy07vGGUJ.jpg",
-        "track_duration_ms": 239480,
-        "popularity": 38,
-        "track_url": "https://open.spotify.com/track/3kmODcHHjLnmJWy07vGGUJ"
-    },
-    {
-        "song_name": "我最亲爱的",
-        "singer_name": "A-Mei Chang",
-        "added_at": "2011-04-23",
-        "album_name": "你在看我吗",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2737a86fe3e3efbcf7fe67b3d51",
-        "album_cover_path": "top/3uZZAsy8EoCOnizxNCxmxm.jpg",
-        "track_duration_ms": 284040,
-        "popularity": 46,
-        "track_url": "https://open.spotify.com/track/3uZZAsy8EoCOnizxNCxmxm"
     }
 ]
