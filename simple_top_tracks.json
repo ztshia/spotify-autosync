@@ -45,6 +45,11 @@
         "added_at": "2005-12-23"
     },
     {
+        "song_name": "红颜如霜",
+        "singer_name": "Jay Chou",
+        "added_at": "2022-07-15"
+    },
+    {
         "song_name": "隐形的纪念",
         "singer_name": "Ashin Chen",
         "added_at": "2019-04-27"
@@ -243,10 +248,5 @@
         "song_name": "Only One",
         "singer_name": "Shunza",
         "added_at": "2005-03-01"
-    },
-    {
-        "song_name": "八月十五",
-        "singer_name": "房东的猫",
-        "added_at": "2016"
     }
 ]
