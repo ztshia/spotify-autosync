@@ -140,6 +140,11 @@
         "added_at": "2002-01-29"
     },
     {
+        "song_name": "粉色海洋",
+        "singer_name": "Jay Chou",
+        "added_at": "2022-07-15"
+    },
+    {
         "song_name": "ブルーバード",
         "singer_name": "Ikimonogakari",
         "added_at": "2006"
@@ -243,10 +248,5 @@
         "song_name": "八月十五",
         "singer_name": "房东的猫",
         "added_at": "2016"
-    },
-    {
-        "song_name": "眼泪成诗",
-        "singer_name": "Stefanie Sun",
-        "added_at": "2005-10-07"
     }
 ]

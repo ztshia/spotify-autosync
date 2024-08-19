@@ -308,6 +308,17 @@
         "track_url": "https://open.spotify.com/track/2IJ1nl9nNUcPxrnuNfi4vl"
     },
     {
+        "song_name": "粉色海洋",
+        "singer_name": "Jay Chou",
+        "added_at": "2022-07-15",
+        "album_name": "最伟大的作品",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273283111b93a25fffd9d6f050d",
+        "album_cover_path": "top/2PEm4ZfvupUu0zd5gfLqRt.jpg",
+        "track_duration_ms": 186813,
+        "popularity": 47,
+        "track_url": "https://open.spotify.com/track/2PEm4ZfvupUu0zd5gfLqRt"
+    },
+    {
         "song_name": "ブルーバード",
         "singer_name": "Ikimonogakari",
         "added_at": "2006",
@@ -537,16 +548,5 @@
         "track_duration_ms": 127815,
         "popularity": 26,
         "track_url": "https://open.spotify.com/track/7hXzw7ziwhnJr0zpt2k8eO"
-    },
-    {
-        "song_name": "眼泪成诗",
-        "singer_name": "Stefanie Sun",
-        "added_at": "2005-10-07",
-        "album_name": "完美的一天",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273e2053bf689670e473082cb7f",
-        "album_cover_path": "top/4ZwdG5w5j31LAll9jHvvtR.jpg",
-        "track_duration_ms": 221200,
-        "popularity": 57,
-        "track_url": "https://open.spotify.com/track/4ZwdG5w5j31LAll9jHvvtR"
     }
 ]
