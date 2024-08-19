@@ -90,6 +90,11 @@
         "added_at": "2004-01-14"
     },
     {
+        "song_name": "星晴",
+        "singer_name": "Jay Chou",
+        "added_at": "2000-11-16"
+    },
+    {
         "song_name": "稀客",
         "singer_name": "Miriam Yeung",
         "added_at": "2003-01-01"
@@ -243,10 +248,5 @@
         "song_name": "成都",
         "singer_name": "赵雷",
         "added_at": "2016-12-21"
-    },
-    {
-        "song_name": "大城小爱",
-        "singer_name": "Leehom Wang",
-        "added_at": "2005-12-01"
     }
 ]

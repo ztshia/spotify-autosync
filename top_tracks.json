@@ -198,6 +198,17 @@
         "track_url": "https://open.spotify.com/track/0zm40xc9xZun0tYUy9sqyS"
     },
     {
+        "song_name": "星晴",
+        "singer_name": "Jay Chou",
+        "added_at": "2000-11-16",
+        "album_name": "杰伦",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273147338ef86c5cccef39f1ca1",
+        "album_cover_path": "top/1BRoZRAK2XdrSgJ0AJu3eM.jpg",
+        "track_duration_ms": 259400,
+        "popularity": 53,
+        "track_url": "https://open.spotify.com/track/1BRoZRAK2XdrSgJ0AJu3eM"
+    },
+    {
         "song_name": "稀客",
         "singer_name": "Miriam Yeung",
         "added_at": "2003-01-01",
@@ -537,16 +548,5 @@
         "track_duration_ms": 328020,
         "popularity": 47,
         "track_url": "https://open.spotify.com/track/7oXjFNxUNzc07VOsaQrNEy"
-    },
-    {
-        "song_name": "大城小爱",
-        "singer_name": "Leehom Wang",
-        "added_at": "2005-12-01",
-        "album_name": "盖世英雄",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273e1da547547eebc9f4ad59bde",
-        "album_cover_path": "top/0pzyN7Uy0bmDSsTs0iHuSC.jpg",
-        "track_duration_ms": 224960,
-        "popularity": 52,
-        "track_url": "https://open.spotify.com/track/0pzyN7Uy0bmDSsTs0iHuSC"
     }
 ]
