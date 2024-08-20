@@ -77,6 +77,17 @@
         "track_url": "https://open.spotify.com/track/2WQpWaHZ4lrwzA3qQ9I1PH"
     },
     {
+        "song_name": "胡思乱想",
+        "singer_name": "无印良品",
+        "added_at": "1997-05-07",
+        "album_name": "无印良品x2",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273ed77b25a01097a2c1be6c305",
+        "album_cover_path": "top/3PDLHsLBXz3ILG5SbgYsM8.jpg",
+        "track_duration_ms": 249733,
+        "popularity": 22,
+        "track_url": "https://open.spotify.com/track/3PDLHsLBXz3ILG5SbgYsM8"
+    },
+    {
         "song_name": "我记得",
         "singer_name": "赵雷",
         "added_at": "2022-08-29",
@@ -537,16 +548,5 @@
         "track_duration_ms": 256105,
         "popularity": 3,
         "track_url": "https://open.spotify.com/track/6PYHwdkdhhWV6OZ7p7Rnmn"
-    },
-    {
-        "song_name": "一切",
-        "singer_name": "Rene Liu",
-        "added_at": "2002-06-21",
-        "album_name": "Love and the City",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2739165f5a39e5b649f7236eec6",
-        "album_cover_path": "top/6aTWUEtsntopTl6tdiJlFW.jpg",
-        "track_duration_ms": 258219,
-        "popularity": 7,
-        "track_url": "https://open.spotify.com/track/6aTWUEtsntopTl6tdiJlFW"
     }
 ]
