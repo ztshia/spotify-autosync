@@ -230,6 +230,11 @@
         "added_at": "2022-08-29"
     },
     {
+        "song_name": "ポニーテールとシュシュ",
+        "singer_name": "AKB48",
+        "added_at": "2011-06-08"
+    },
+    {
         "song_name": "倒影",
         "singer_name": "Jay Chou",
         "added_at": "2022-07-15"
@@ -243,10 +248,5 @@
         "song_name": "手写的从前",
         "singer_name": "Jay Chou",
         "added_at": "2014-12-26"
-    },
-    {
-        "song_name": "三つ编みの君へ",
-        "singer_name": "Mayu Watanabe",
-        "added_at": "2012-02-29"
     }
 ]

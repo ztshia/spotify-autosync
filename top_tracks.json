@@ -506,6 +506,17 @@
         "track_url": "https://open.spotify.com/track/58vEQe9Trf6ZcIdTFuuku4"
     },
     {
+        "song_name": "ポニーテールとシュシュ",
+        "singer_name": "AKB48",
+        "added_at": "2011-06-08",
+        "album_name": "ここにいたこと(初回限定盘)",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273ea4b4fceb38b8e73b4aa0710",
+        "album_cover_path": "top/5FMD8aVYXM3BHm7Y1DKwGP.jpg",
+        "track_duration_ms": 270893,
+        "popularity": 50,
+        "track_url": "https://open.spotify.com/track/5FMD8aVYXM3BHm7Y1DKwGP"
+    },
+    {
         "song_name": "倒影",
         "singer_name": "Jay Chou",
         "added_at": "2022-07-15",
@@ -537,16 +548,5 @@
         "track_duration_ms": 297493,
         "popularity": 52,
         "track_url": "https://open.spotify.com/track/6CH4ldBmT1IBJzlCH0gwFl"
-    },
-    {
-        "song_name": "三つ编みの君へ",
-        "singer_name": "Mayu Watanabe",
-        "added_at": "2012-02-29",
-        "album_name": "シンクロときめき Type-A",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2732d6e1b98786482798467577d",
-        "album_cover_path": "top/6PYHwdkdhhWV6OZ7p7Rnmn.jpg",
-        "track_duration_ms": 256105,
-        "popularity": 3,
-        "track_url": "https://open.spotify.com/track/6PYHwdkdhhWV6OZ7p7Rnmn"
     }
 ]
