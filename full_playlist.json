@@ -447,7 +447,7 @@
         "album_cover_url": "https://i.scdn.co/image/ab67616d0000b27377c6ed4e14c5c88279484fd6",
         "album_cover_path": "album/0Af0WlJDJlLwkvdCoGYbtQ.jpg",
         "track_duration_ms": 215040,
-        "popularity": 34,
+        "popularity": 33,
         "track_url": "https://open.spotify.com/track/0jLgZjyU4mQ7UBRVwGdyfa"
     },
     {
@@ -535,7 +535,7 @@
         "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273dfaa4cad0963d1334c9aec0e",
         "album_cover_path": "album/2jMxwy8rzWemWW4iEwdx1V.jpg",
         "track_duration_ms": 208268,
-        "popularity": 14,
+        "popularity": 15,
         "track_url": "https://open.spotify.com/track/4WORG8BZ24zecSGt26bLgL"
     },
     {
@@ -755,7 +755,7 @@
         "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2734f6cdc2508db2994035be561",
         "album_cover_path": "album/4VRllH2gzShPWbQenlVKx0.jpg",
         "track_duration_ms": 192573,
-        "popularity": 18,
+        "popularity": 17,
         "track_url": "https://open.spotify.com/track/6CHF9WqbvMTGeUZSUgVh6y"
     },
     {
@@ -1134,7 +1134,7 @@
     },
     {
         "song_name": "结婚",
-        "singer_name": "逃跑计划",
+        "singer_name": "逃跑计划EscapePlan",
         "added_at": "2024-06-19T10:36:09Z",
         "album_name": "世界",
         "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273f2598492ec9212f4dc3dab29",
@@ -1145,7 +1145,7 @@
     },
     {
         "song_name": "一万次悲伤",
-        "singer_name": "逃跑计划",
+        "singer_name": "逃跑计划EscapePlan",
         "added_at": "2024-06-19T10:36:09Z",
         "album_name": "世界",
         "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273f2598492ec9212f4dc3dab29",
@@ -1833,7 +1833,7 @@
         "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273b32377ffe284a07ddfa09dd0",
         "album_cover_path": "album/1GH9efowIiAIAwZz2MGUqW.jpg",
         "track_duration_ms": 265200,
-        "popularity": 42,
+        "popularity": 43,
         "track_url": "https://open.spotify.com/track/54Y0Rvaki4qklCCHiAc0vv"
     },
     {
@@ -2053,7 +2053,7 @@
         "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273d36f69bd924f6587c56ff0e8",
         "album_cover_path": "album/7H21cTv0viuP7vGAbPu5wA.jpg",
         "track_duration_ms": 282378,
-        "popularity": 48,
+        "popularity": 49,
         "track_url": "https://open.spotify.com/track/0e4jGLY8dwOnhniy2Hdtzc"
     },
     {
@@ -2168,7 +2168,7 @@
     },
     {
         "song_name": "08年我们结婚",
-        "singer_name": "逃跑计划",
+        "singer_name": "逃跑计划EscapePlan",
         "added_at": "2024-06-19T10:36:14Z",
         "album_name": "带我离开",
         "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273520d435711fc7772e6d4110d",
@@ -2460,7 +2460,7 @@
         "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273b707492006b9f3d6043d589b",
         "album_cover_path": "album/2CyqxwaPckrezvUhPtTdr4.jpg",
         "track_duration_ms": 221706,
-        "popularity": 51,
+        "popularity": 52,
         "track_url": "https://open.spotify.com/track/66YUHByAhvckqMtO9EkJ1J"
     },
     {
@@ -2779,7 +2779,7 @@
         "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273381db4dcde64c91793b08349",
         "album_cover_path": "album/57WCr1bvHw1GZQL90tx7jo.jpg",
         "track_duration_ms": 272066,
-        "popularity": 23,
+        "popularity": 24,
         "track_url": "https://open.spotify.com/track/7k7OPkuJmXK8hfEwk3xEuD"
     },
     {
