@@ -35,19 +35,29 @@
         "added_at": "2012-05-30"
     },
     {
-        "song_name": "你怎么连话都说不清楚 - Live",
-        "singer_name": "Jay Chou",
-        "added_at": "2002-10-21"
-    },
-    {
         "song_name": "一千零一个",
         "singer_name": "Miriam Yeung",
         "added_at": "2003-01-01"
     },
     {
+        "song_name": "你怎么连话都说不清楚 - Live",
+        "singer_name": "Jay Chou",
+        "added_at": "2002-10-21"
+    },
+    {
         "song_name": "缺氧",
         "singer_name": "Rainie Yang",
         "added_at": "2007-08-30"
+    },
+    {
+        "song_name": "稀客",
+        "singer_name": "Miriam Yeung",
+        "added_at": "2003-01-01"
+    },
+    {
+        "song_name": "谁明浪子心",
+        "singer_name": "Dave Wang",
+        "added_at": "1989-11-21"
     },
     {
         "song_name": "你被写在我的歌里",
@@ -78,11 +88,6 @@
         "song_name": "星晴",
         "singer_name": "Jay Chou",
         "added_at": "2000-11-16"
-    },
-    {
-        "song_name": "稀客",
-        "singer_name": "Miriam Yeung",
-        "added_at": "2003-01-01"
     },
     {
         "song_name": "我不配",
@@ -165,11 +170,6 @@
         "added_at": "2000-11-16"
     },
     {
-        "song_name": "谁明浪子心",
-        "singer_name": "Dave Wang",
-        "added_at": "1989-11-21"
-    },
-    {
         "song_name": "ポニーテールとシュシュ",
         "singer_name": "AKB48",
         "added_at": "2011-06-08"
@@ -220,6 +220,16 @@
         "added_at": "1988-06-08"
     },
     {
+        "song_name": "眼泪成诗",
+        "singer_name": "Stefanie Sun",
+        "added_at": "2005-10-07"
+    },
+    {
+        "song_name": "再遇见",
+        "singer_name": "sodagreen",
+        "added_at": "2013-09-18"
+    },
+    {
         "song_name": "第三人称",
         "singer_name": "Jolin Tsai",
         "added_at": "2014-11-15"
@@ -233,16 +243,6 @@
         "song_name": "我怎么哭了",
         "singer_name": "831",
         "added_at": "2014-11-28"
-    },
-    {
-        "song_name": "眼泪成诗",
-        "singer_name": "Stefanie Sun",
-        "added_at": "2005-10-07"
-    },
-    {
-        "song_name": "再遇见",
-        "singer_name": "sodagreen",
-        "added_at": "2013-09-18"
     },
     {
         "song_name": "泪桥",
