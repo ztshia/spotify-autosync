@@ -11,17 +11,6 @@
         "track_url": "https://open.spotify.com/track/2WWDsBLNL4czuVcg7rjfy2"
     },
     {
-        "song_name": "泪桥",
-        "singer_name": "Wu Bai",
-        "added_at": "2003-12-07",
-        "album_name": "泪桥",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273574541164c6e7f7f849e3b27",
-        "album_cover_path": "top/0NAcDn6U2GB2Arhspmh38S.jpg",
-        "track_duration_ms": 225186,
-        "popularity": 56,
-        "track_url": "https://open.spotify.com/track/0NAcDn6U2GB2Arhspmh38S"
-    },
-    {
         "song_name": "隐形的纪念",
         "singer_name": "Ashin Chen",
         "added_at": "2019-04-27",
@@ -53,17 +42,6 @@
         "track_duration_ms": 249733,
         "popularity": 22,
         "track_url": "https://open.spotify.com/track/3PDLHsLBXz3ILG5SbgYsM8"
-    },
-    {
-        "song_name": "天对地",
-        "singer_name": "Twins",
-        "added_at": "2005-12-23",
-        "album_name": "一时无两",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273f0a60480f91384074b6a13a8",
-        "album_cover_path": "top/3wDgQGQFkc2k46XsXzmH63.jpg",
-        "track_duration_ms": 186206,
-        "popularity": 13,
-        "track_url": "https://open.spotify.com/track/3wDgQGQFkc2k46XsXzmH63"
     },
     {
         "song_name": "红颜如霜",
@@ -108,17 +86,6 @@
         "track_duration_ms": 246546,
         "popularity": 30,
         "track_url": "https://open.spotify.com/track/0agFIA1kae5CzZAUZ8fh6y"
-    },
-    {
-        "song_name": "被动 feat. 伍佰 - Live",
-        "singer_name": "LaLa Hsu, Wu Bai",
-        "added_at": "2019-12-06",
-        "album_name": "徐佳莹是日救星演唱会Live",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273fe898e6b1872fa94e169fa7c",
-        "album_cover_path": "top/2WQpWaHZ4lrwzA3qQ9I1PH.jpg",
-        "track_duration_ms": 285549,
-        "popularity": 29,
-        "track_url": "https://open.spotify.com/track/2WQpWaHZ4lrwzA3qQ9I1PH"
     },
     {
         "song_name": "一千零一个",
@@ -231,17 +198,6 @@
         "track_url": "https://open.spotify.com/track/1MuU99FWeiFmxqfVFv5NXG"
     },
     {
-        "song_name": "I Love You",
-        "singer_name": "Avril Lavigne",
-        "added_at": "2011-03-08",
-        "album_name": "Goodbye Lullaby (Expanded Edition)",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b27372c9f7a7c75eba39726106a6",
-        "album_cover_path": "top/1Tl0YVT3Br2AIqYT3VlEdo.jpg",
-        "track_duration_ms": 242013,
-        "popularity": 52,
-        "track_url": "https://open.spotify.com/track/1Tl0YVT3Br2AIqYT3VlEdo"
-    },
-    {
         "song_name": "息もできない",
         "singer_name": "ZARD",
         "added_at": "2016-02-10",
@@ -284,17 +240,6 @@
         "track_duration_ms": 253333,
         "popularity": 48,
         "track_url": "https://open.spotify.com/track/1vNwRQj10QOLTOTyQYvD0s"
-    },
-    {
-        "song_name": "著睡衣跳舞",
-        "singer_name": "Twins",
-        "added_at": "2002-01-29",
-        "album_name": "双生儿",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273752b2c2378ef8b402cb4525f",
-        "album_cover_path": "top/2IJ1nl9nNUcPxrnuNfi4vl.jpg",
-        "track_duration_ms": 202162,
-        "popularity": 17,
-        "track_url": "https://open.spotify.com/track/2IJ1nl9nNUcPxrnuNfi4vl"
     },
     {
         "song_name": "粉色海洋",
@@ -374,17 +319,6 @@
         "track_url": "https://open.spotify.com/track/34GSbu5gyOvcRYb8H06hZC"
     },
     {
-        "song_name": "大人ジェリービーンズ",
-        "singer_name": "Mayu Watanabe",
-        "added_at": "2017-12-20",
-        "album_name": "Best Regards!",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b27384645d8804fbb2ba85a65765",
-        "album_cover_path": "top/39eiPh98Qjp1d9z8ekqw16.jpg",
-        "track_duration_ms": 215786,
-        "popularity": 15,
-        "track_url": "https://open.spotify.com/track/39eiPh98Qjp1d9z8ekqw16"
-    },
-    {
         "song_name": "山手线",
         "singer_name": "Keyakizaka46",
         "added_at": "2016-04-06",
@@ -394,17 +328,6 @@
         "track_duration_ms": 273253,
         "popularity": 24,
         "track_url": "https://open.spotify.com/track/3OrFVpeWZYNTM7TaKUSVOR"
-    },
-    {
-        "song_name": "蝴蝶",
-        "singer_name": "David Tao",
-        "added_at": "2002-06-29",
-        "album_name": "黑色柳丁",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273d441b2e9b63f0b9f9d90be19",
-        "album_cover_path": "top/488POZ0bB10TULhedwrt9i.jpg",
-        "track_duration_ms": 283200,
-        "popularity": 48,
-        "track_url": "https://open.spotify.com/track/488POZ0bB10TULhedwrt9i"
     },
     {
         "song_name": "恋女の忧郁",
@@ -449,17 +372,6 @@
         "track_duration_ms": 301960,
         "popularity": 56,
         "track_url": "https://open.spotify.com/track/4S9FlHvOn8u8OQ89tezalX"
-    },
-    {
-        "song_name": "炼金术",
-        "singer_name": "Miriam Yeung",
-        "added_at": "2010",
-        "album_name": "囍爱杨千嬅",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273c96e25b477612cfc8b588d08",
-        "album_cover_path": "top/4gwjv9qnA1dIUYTFNfTNkb.jpg",
-        "track_duration_ms": 247617,
-        "popularity": 10,
-        "track_url": "https://open.spotify.com/track/4gwjv9qnA1dIUYTFNfTNkb"
     },
     {
         "song_name": "ポニーテールとシュシュ",
@@ -548,5 +460,93 @@
         "track_duration_ms": 127815,
         "popularity": 26,
         "track_url": "https://open.spotify.com/track/7hXzw7ziwhnJr0zpt2k8eO"
+    },
+    {
+        "song_name": "红豆",
+        "singer_name": "Faye Wong",
+        "added_at": "1998-10-01",
+        "album_name": "唱游",
+        "album_cover_url": "https://i.scdn.co/image/594bdf55f84c78b398f25c310cd055ede6d73c27",
+        "album_cover_path": "top/5l94Up12BJSjhH7Mhr2ji4.jpg",
+        "track_duration_ms": 256026,
+        "popularity": 56,
+        "track_url": "https://open.spotify.com/track/5l94Up12BJSjhH7Mhr2ji4"
+    },
+    {
+        "song_name": "祝福",
+        "singer_name": "Sally Yeh",
+        "added_at": "1988-06-08",
+        "album_name": "祝福",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b27313e7c59e1be8f30f455c10f2",
+        "album_cover_path": "top/7B0041g5usOOgGNy9OKHFA.jpg",
+        "track_duration_ms": 240826,
+        "popularity": 45,
+        "track_url": "https://open.spotify.com/track/7B0041g5usOOgGNy9OKHFA"
+    },
+    {
+        "song_name": "第三人称",
+        "singer_name": "Jolin Tsai",
+        "added_at": "2014-11-15",
+        "album_name": "呸",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2739bcd0563eda075aa9ab66649",
+        "album_cover_path": "top/5kt5UfkL18qq7AxYOCyQlt.jpg",
+        "track_duration_ms": 286826,
+        "popularity": 50,
+        "track_url": "https://open.spotify.com/track/5kt5UfkL18qq7AxYOCyQlt"
+    },
+    {
+        "song_name": "大城小爱",
+        "singer_name": "Leehom Wang",
+        "added_at": "2005-12-01",
+        "album_name": "盖世英雄",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273e1da547547eebc9f4ad59bde",
+        "album_cover_path": "top/0pzyN7Uy0bmDSsTs0iHuSC.jpg",
+        "track_duration_ms": 224960,
+        "popularity": 52,
+        "track_url": "https://open.spotify.com/track/0pzyN7Uy0bmDSsTs0iHuSC"
+    },
+    {
+        "song_name": "我怎么哭了",
+        "singer_name": "831",
+        "added_at": "2014-11-28",
+        "album_name": "大逃杀",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2730cefc2bf3774c8cc9cc466a3",
+        "album_cover_path": "top/25tUA3vWZhsC8mHh8zcU23.jpg",
+        "track_duration_ms": 294040,
+        "popularity": 41,
+        "track_url": "https://open.spotify.com/track/25tUA3vWZhsC8mHh8zcU23"
+    },
+    {
+        "song_name": "眼泪成诗",
+        "singer_name": "Stefanie Sun",
+        "added_at": "2005-10-07",
+        "album_name": "完美的一天",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273e2053bf689670e473082cb7f",
+        "album_cover_path": "top/4ZwdG5w5j31LAll9jHvvtR.jpg",
+        "track_duration_ms": 221200,
+        "popularity": 58,
+        "track_url": "https://open.spotify.com/track/4ZwdG5w5j31LAll9jHvvtR"
+    },
+    {
+        "song_name": "再遇见",
+        "singer_name": "sodagreen",
+        "added_at": "2013-09-18",
+        "album_name": "秋：故事",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273e8632aca165899bb45bedd10",
+        "album_cover_path": "top/4thduM4ItRZZqJdFZhGfjl.jpg",
+        "track_duration_ms": 277394,
+        "popularity": 49,
+        "track_url": "https://open.spotify.com/track/4thduM4ItRZZqJdFZhGfjl"
+    },
+    {
+        "song_name": "泪桥",
+        "singer_name": "Wu Bai",
+        "added_at": "2003-12-07",
+        "album_name": "泪桥",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273574541164c6e7f7f849e3b27",
+        "album_cover_path": "top/0NAcDn6U2GB2Arhspmh38S.jpg",
+        "track_duration_ms": 225186,
+        "popularity": 56,
+        "track_url": "https://open.spotify.com/track/0NAcDn6U2GB2Arhspmh38S"
     }
 ]

@@ -5,11 +5,6 @@
         "added_at": "1997-06-11"
     },
     {
-        "song_name": "泪桥",
-        "singer_name": "Wu Bai",
-        "added_at": "2003-12-07"
-    },
-    {
         "song_name": "隐形的纪念",
         "singer_name": "Ashin Chen",
         "added_at": "2019-04-27"
@@ -23,11 +18,6 @@
         "song_name": "胡思乱想",
         "singer_name": "无印良品",
         "added_at": "1997-05-07"
-    },
-    {
-        "song_name": "天对地",
-        "singer_name": "Twins",
-        "added_at": "2005-12-23"
     },
     {
         "song_name": "红颜如霜",
@@ -48,11 +38,6 @@
         "song_name": "你怎么连话都说不清楚 - Live",
         "singer_name": "Jay Chou",
         "added_at": "2002-10-21"
-    },
-    {
-        "song_name": "被动 feat. 伍佰 - Live",
-        "singer_name": "LaLa Hsu, Wu Bai",
-        "added_at": "2019-12-06"
     },
     {
         "song_name": "一千零一个",
@@ -105,11 +90,6 @@
         "added_at": "2007-11-02"
     },
     {
-        "song_name": "I Love You",
-        "singer_name": "Avril Lavigne",
-        "added_at": "2011-03-08"
-    },
-    {
         "song_name": "息もできない",
         "singer_name": "ZARD",
         "added_at": "2016-02-10"
@@ -128,11 +108,6 @@
         "song_name": "Koi",
         "singer_name": "Gen Hoshino",
         "added_at": "2016-10-05"
-    },
-    {
-        "song_name": "著睡衣跳舞",
-        "singer_name": "Twins",
-        "added_at": "2002-01-29"
     },
     {
         "song_name": "粉色海洋",
@@ -170,19 +145,9 @@
         "added_at": "2001-01-09"
     },
     {
-        "song_name": "大人ジェリービーンズ",
-        "singer_name": "Mayu Watanabe",
-        "added_at": "2017-12-20"
-    },
-    {
         "song_name": "山手线",
         "singer_name": "Keyakizaka46",
         "added_at": "2016-04-06"
-    },
-    {
-        "song_name": "蝴蝶",
-        "singer_name": "David Tao",
-        "added_at": "2002-06-29"
     },
     {
         "song_name": "恋女の忧郁",
@@ -203,11 +168,6 @@
         "song_name": "谁明浪子心",
         "singer_name": "Dave Wang",
         "added_at": "1989-11-21"
-    },
-    {
-        "song_name": "炼金术",
-        "singer_name": "Miriam Yeung",
-        "added_at": "2010"
     },
     {
         "song_name": "ポニーテールとシュシュ",
@@ -248,5 +208,45 @@
         "song_name": "八月十五",
         "singer_name": "房东的猫",
         "added_at": "2016"
+    },
+    {
+        "song_name": "红豆",
+        "singer_name": "Faye Wong",
+        "added_at": "1998-10-01"
+    },
+    {
+        "song_name": "祝福",
+        "singer_name": "Sally Yeh",
+        "added_at": "1988-06-08"
+    },
+    {
+        "song_name": "第三人称",
+        "singer_name": "Jolin Tsai",
+        "added_at": "2014-11-15"
+    },
+    {
+        "song_name": "大城小爱",
+        "singer_name": "Leehom Wang",
+        "added_at": "2005-12-01"
+    },
+    {
+        "song_name": "我怎么哭了",
+        "singer_name": "831",
+        "added_at": "2014-11-28"
+    },
+    {
+        "song_name": "眼泪成诗",
+        "singer_name": "Stefanie Sun",
+        "added_at": "2005-10-07"
+    },
+    {
+        "song_name": "再遇见",
+        "singer_name": "sodagreen",
+        "added_at": "2013-09-18"
+    },
+    {
+        "song_name": "泪桥",
+        "singer_name": "Wu Bai",
+        "added_at": "2003-12-07"
     }
 ]
