@@ -88,17 +88,6 @@
         "track_url": "https://open.spotify.com/track/5vwb3Pg3wu0wLEiCk0fIy7"
     },
     {
-        "song_name": "你怎么连话都说不清楚 - Live",
-        "singer_name": "Jay Chou",
-        "added_at": "2002-10-21",
-        "album_name": "The One 演唱会 (Live)",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2737f479ef6a683abee751a9cbc",
-        "album_cover_path": "top/0agFIA1kae5CzZAUZ8fh6y.jpg",
-        "track_duration_ms": 246546,
-        "popularity": 30,
-        "track_url": "https://open.spotify.com/track/0agFIA1kae5CzZAUZ8fh6y"
-    },
-    {
         "song_name": "缺氧",
         "singer_name": "Rainie Yang",
         "added_at": "2007-08-30",
@@ -484,50 +473,6 @@
         "track_url": "https://open.spotify.com/track/7B0041g5usOOgGNy9OKHFA"
     },
     {
-        "song_name": "眼泪成诗",
-        "singer_name": "Stefanie Sun",
-        "added_at": "2005-10-07",
-        "album_name": "完美的一天",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273e2053bf689670e473082cb7f",
-        "album_cover_path": "top/4ZwdG5w5j31LAll9jHvvtR.jpg",
-        "track_duration_ms": 221200,
-        "popularity": 58,
-        "track_url": "https://open.spotify.com/track/4ZwdG5w5j31LAll9jHvvtR"
-    },
-    {
-        "song_name": "再遇见",
-        "singer_name": "sodagreen",
-        "added_at": "2013-09-18",
-        "album_name": "秋：故事",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273e8632aca165899bb45bedd10",
-        "album_cover_path": "top/4thduM4ItRZZqJdFZhGfjl.jpg",
-        "track_duration_ms": 277394,
-        "popularity": 49,
-        "track_url": "https://open.spotify.com/track/4thduM4ItRZZqJdFZhGfjl"
-    },
-    {
-        "song_name": "第三人称",
-        "singer_name": "Jolin Tsai",
-        "added_at": "2014-11-15",
-        "album_name": "呸",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2739bcd0563eda075aa9ab66649",
-        "album_cover_path": "top/5kt5UfkL18qq7AxYOCyQlt.jpg",
-        "track_duration_ms": 286826,
-        "popularity": 50,
-        "track_url": "https://open.spotify.com/track/5kt5UfkL18qq7AxYOCyQlt"
-    },
-    {
-        "song_name": "大城小爱",
-        "singer_name": "Leehom Wang",
-        "added_at": "2005-12-01",
-        "album_name": "盖世英雄",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273e1da547547eebc9f4ad59bde",
-        "album_cover_path": "top/0pzyN7Uy0bmDSsTs0iHuSC.jpg",
-        "track_duration_ms": 224960,
-        "popularity": 52,
-        "track_url": "https://open.spotify.com/track/0pzyN7Uy0bmDSsTs0iHuSC"
-    },
-    {
         "song_name": "我怎么哭了",
         "singer_name": "831",
         "added_at": "2014-11-28",
@@ -548,5 +493,60 @@
         "track_duration_ms": 225186,
         "popularity": 57,
         "track_url": "https://open.spotify.com/track/0NAcDn6U2GB2Arhspmh38S"
+    },
+    {
+        "song_name": "节日快乐",
+        "singer_name": "Rainie Yang",
+        "added_at": "2019-11-27",
+        "album_name": "删·拾 以后",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273e8635918f1f8d88cb42583a9",
+        "album_cover_path": "top/0aWlm04ViL6GHvJ3NsIzOE.jpg",
+        "track_duration_ms": 297872,
+        "popularity": 21,
+        "track_url": "https://open.spotify.com/track/0aWlm04ViL6GHvJ3NsIzOE"
+    },
+    {
+        "song_name": "闪灵",
+        "singer_name": "Miriam Yeung",
+        "added_at": "2004-01-01",
+        "album_name": "傻仔新曲 + 精选",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273a9a06c75f655e7aa0a6df03f",
+        "album_cover_path": "top/17C6iFDDylVeZCQ5NDOHPF.jpg",
+        "track_duration_ms": 224453,
+        "popularity": 23,
+        "track_url": "https://open.spotify.com/track/17C6iFDDylVeZCQ5NDOHPF"
+    },
+    {
+        "song_name": "当我唱起这首歌",
+        "singer_name": "小贱, 星弟",
+        "added_at": "2015-05-07",
+        "album_name": "我是小贱",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2732eab27abaddff1ae924e6812",
+        "album_cover_path": "top/1ZrfYkTuyvXUAAwnFimDCO.jpg",
+        "track_duration_ms": 236307,
+        "popularity": 29,
+        "track_url": "https://open.spotify.com/track/1ZrfYkTuyvXUAAwnFimDCO"
+    },
+    {
+        "song_name": "莫斯科没有眼泪",
+        "singer_name": "Twins",
+        "added_at": "2005-04-20",
+        "album_name": "见习爱神",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273b314c901d22ed47465df2b0f",
+        "album_cover_path": "top/2YdEnV8am1dwhoOTfa9APB.jpg",
+        "track_duration_ms": 211394,
+        "popularity": 33,
+        "track_url": "https://open.spotify.com/track/2YdEnV8am1dwhoOTfa9APB"
+    },
+    {
+        "song_name": "理想情人",
+        "singer_name": "Rainie Yang",
+        "added_at": "2005-09-09",
+        "album_name": "暧昧",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273f3bf5d3b56f5ae5f9282de44",
+        "album_cover_path": "top/36nY8znTqPiL2MTCLkK0sZ.jpg",
+        "track_duration_ms": 262746,
+        "popularity": 44,
+        "track_url": "https://open.spotify.com/track/36nY8znTqPiL2MTCLkK0sZ"
     }
 ]

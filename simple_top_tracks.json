@@ -40,11 +40,6 @@
         "added_at": "2003-01-01"
     },
     {
-        "song_name": "你怎么连话都说不清楚 - Live",
-        "singer_name": "Jay Chou",
-        "added_at": "2002-10-21"
-    },
-    {
         "song_name": "缺氧",
         "singer_name": "Rainie Yang",
         "added_at": "2007-08-30"
@@ -220,26 +215,6 @@
         "added_at": "1988-06-08"
     },
     {
-        "song_name": "眼泪成诗",
-        "singer_name": "Stefanie Sun",
-        "added_at": "2005-10-07"
-    },
-    {
-        "song_name": "再遇见",
-        "singer_name": "sodagreen",
-        "added_at": "2013-09-18"
-    },
-    {
-        "song_name": "第三人称",
-        "singer_name": "Jolin Tsai",
-        "added_at": "2014-11-15"
-    },
-    {
-        "song_name": "大城小爱",
-        "singer_name": "Leehom Wang",
-        "added_at": "2005-12-01"
-    },
-    {
         "song_name": "我怎么哭了",
         "singer_name": "831",
         "added_at": "2014-11-28"
@@ -248,5 +223,30 @@
         "song_name": "泪桥",
         "singer_name": "Wu Bai",
         "added_at": "2003-12-07"
+    },
+    {
+        "song_name": "节日快乐",
+        "singer_name": "Rainie Yang",
+        "added_at": "2019-11-27"
+    },
+    {
+        "song_name": "闪灵",
+        "singer_name": "Miriam Yeung",
+        "added_at": "2004-01-01"
+    },
+    {
+        "song_name": "当我唱起这首歌",
+        "singer_name": "小贱, 星弟",
+        "added_at": "2015-05-07"
+    },
+    {
+        "song_name": "莫斯科没有眼泪",
+        "singer_name": "Twins",
+        "added_at": "2005-04-20"
+    },
+    {
+        "song_name": "理想情人",
+        "singer_name": "Rainie Yang",
+        "added_at": "2005-09-09"
     }
 ]
