@@ -20,6 +20,11 @@
         "added_at": "1996-10-24"
     },
     {
+        "song_name": "风筝与风",
+        "singer_name": "Twins",
+        "added_at": "2010-03-29"
+    },
+    {
         "song_name": "泪桥",
         "singer_name": "Wu Bai",
         "added_at": "2003-12-07"
@@ -33,6 +38,11 @@
         "song_name": "当我唱起这首歌",
         "singer_name": "小贱, 星弟",
         "added_at": "2015-05-07"
+    },
+    {
+        "song_name": "岁月如歌",
+        "singer_name": "Chilam",
+        "added_at": "2014-01-24"
     },
     {
         "song_name": "我怎么哭了",
@@ -190,11 +200,6 @@
         "added_at": "1989-11-21"
     },
     {
-        "song_name": "风筝与风",
-        "singer_name": "Twins",
-        "added_at": "2010-03-29"
-    },
-    {
         "song_name": "眼泪成诗",
         "singer_name": "Stefanie Sun",
         "added_at": "2005-10-07"
@@ -243,10 +248,5 @@
         "song_name": "With You",
         "singer_name": "Mokita",
         "added_at": "2018-10-19"
-    },
-    {
-        "song_name": "Wish You Were Here",
-        "singer_name": "Avril Lavigne",
-        "added_at": "2011-03-08"
     }
 ]
