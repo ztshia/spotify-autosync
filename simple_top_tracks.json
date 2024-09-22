@@ -10,14 +10,24 @@
         "added_at": "2012-05-30"
     },
     {
-        "song_name": "ポニーテールとシュシュ",
-        "singer_name": "AKB48",
-        "added_at": "2011-06-08"
+        "song_name": "So Am I",
+        "singer_name": "Ava Max",
+        "added_at": "2020-09-18"
     },
     {
-        "song_name": "每一次喊你",
-        "singer_name": "Michael Wong",
-        "added_at": "1996-10-24"
+        "song_name": "Not Your Barbie Girl",
+        "singer_name": "Ava Max",
+        "added_at": "2018-08-13"
+    },
+    {
+        "song_name": "Salt",
+        "singer_name": "Ava Max",
+        "added_at": "2020-09-18"
+    },
+    {
+        "song_name": "Kings & Queens",
+        "singer_name": "Ava Max",
+        "added_at": "2020-09-18"
     },
     {
         "song_name": "风筝与风",
@@ -103,6 +113,11 @@
         "song_name": "24/7, 365",
         "singer_name": "elijah woods",
         "added_at": "2023-07-24"
+    },
+    {
+        "song_name": "下雨的夜晚",
+        "singer_name": "sodagreen",
+        "added_at": "2015"
     },
     {
         "song_name": "失眠的睡美人",
@@ -233,20 +248,5 @@
         "song_name": "雨爱",
         "singer_name": "Rainie Yang",
         "added_at": "2009-12-29"
-    },
-    {
-        "song_name": "只想爱你",
-        "singer_name": "Rainie Yang",
-        "added_at": "2005-09-09"
-    },
-    {
-        "song_name": "挪威的森林",
-        "singer_name": "Wu Bai",
-        "added_at": "1996-06-18"
-    },
-    {
-        "song_name": "With You",
-        "singer_name": "Mokita",
-        "added_at": "2018-10-19"
     }
 ]

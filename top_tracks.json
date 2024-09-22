@@ -22,26 +22,48 @@
         "track_url": "https://open.spotify.com/track/6ICRPlqbSpHacJdnLkfZyz"
     },
     {
-        "song_name": "ポニーテールとシュシュ",
-        "singer_name": "AKB48",
-        "added_at": "2011-06-08",
-        "album_name": "ここにいたこと(初回限定盘)",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273ea4b4fceb38b8e73b4aa0710",
-        "album_cover_path": "top/5FMD8aVYXM3BHm7Y1DKwGP.jpg",
-        "track_duration_ms": 270893,
-        "popularity": 48,
-        "track_url": "https://open.spotify.com/track/5FMD8aVYXM3BHm7Y1DKwGP"
+        "song_name": "So Am I",
+        "singer_name": "Ava Max",
+        "added_at": "2020-09-18",
+        "album_name": "Heaven & Hell",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2739a95e89d24214b94de36ccf7",
+        "album_cover_path": "top/2Xnv3GntqbBH1juvUYSpHG.jpg",
+        "track_duration_ms": 183026,
+        "popularity": 71,
+        "track_url": "https://open.spotify.com/track/2Xnv3GntqbBH1juvUYSpHG"
     },
     {
-        "song_name": "每一次喊你",
-        "singer_name": "Michael Wong",
-        "added_at": "1996-10-24",
-        "album_name": "掌心",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273b32377ffe284a07ddfa09dd0",
-        "album_cover_path": "top/6h7SAPlG9Cp7rTL3ujgkL2.jpg",
-        "track_duration_ms": 239733,
-        "popularity": 9,
-        "track_url": "https://open.spotify.com/track/6h7SAPlG9Cp7rTL3ujgkL2"
+        "song_name": "Not Your Barbie Girl",
+        "singer_name": "Ava Max",
+        "added_at": "2018-08-13",
+        "album_name": "Not Your Barbie Girl",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273f8b4a03dccbab0db56fdf9ec",
+        "album_cover_path": "top/4fkM7M4Uo5AUASnnsRC7EZ.jpg",
+        "track_duration_ms": 186520,
+        "popularity": 64,
+        "track_url": "https://open.spotify.com/track/4fkM7M4Uo5AUASnnsRC7EZ"
+    },
+    {
+        "song_name": "Salt",
+        "singer_name": "Ava Max",
+        "added_at": "2020-09-18",
+        "album_name": "Heaven & Hell",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2739a95e89d24214b94de36ccf7",
+        "album_cover_path": "top/5iyZwawawLjHYpX4MxUKVF.jpg",
+        "track_duration_ms": 180283,
+        "popularity": 66,
+        "track_url": "https://open.spotify.com/track/5iyZwawawLjHYpX4MxUKVF"
+    },
+    {
+        "song_name": "Kings & Queens",
+        "singer_name": "Ava Max",
+        "added_at": "2020-09-18",
+        "album_name": "Heaven & Hell",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2739a95e89d24214b94de36ccf7",
+        "album_cover_path": "top/7a53HqqArd4b9NF4XAmlbI.jpg",
+        "track_duration_ms": 162398,
+        "popularity": 81,
+        "track_url": "https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI"
     },
     {
         "song_name": "风筝与风",
@@ -229,6 +251,17 @@
         "track_duration_ms": 167000,
         "popularity": 75,
         "track_url": "https://open.spotify.com/track/05QUYSOApWLr8oBbpONl7p"
+    },
+    {
+        "song_name": "下雨的夜晚",
+        "singer_name": "sodagreen",
+        "added_at": "2015",
+        "album_name": "冬 未了",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2736b7460f18e7f596d57878830",
+        "album_cover_path": "top/0SH79vh3rXHDWFwerUsAkZ.jpg",
+        "track_duration_ms": 270373,
+        "popularity": 52,
+        "track_url": "https://open.spotify.com/track/0SH79vh3rXHDWFwerUsAkZ"
     },
     {
         "song_name": "失眠的睡美人",
@@ -515,38 +548,5 @@
         "track_duration_ms": 261560,
         "popularity": 57,
         "track_url": "https://open.spotify.com/track/553GNiNqcudWfsF55RBDqz"
-    },
-    {
-        "song_name": "只想爱你",
-        "singer_name": "Rainie Yang",
-        "added_at": "2005-09-09",
-        "album_name": "暧昧",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273f3bf5d3b56f5ae5f9282de44",
-        "album_cover_path": "top/5G2n56aaXJeXwl3af2qjyg.jpg",
-        "track_duration_ms": 270040,
-        "popularity": 32,
-        "track_url": "https://open.spotify.com/track/5G2n56aaXJeXwl3af2qjyg"
-    },
-    {
-        "song_name": "挪威的森林",
-        "singer_name": "Wu Bai",
-        "added_at": "1996-06-18",
-        "album_name": "爱情的尽头",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273a0477ab6afbb20d6732175c9",
-        "album_cover_path": "top/5KdZLYyoBP0qsjDTDP28do.jpg",
-        "track_duration_ms": 391026,
-        "popularity": 55,
-        "track_url": "https://open.spotify.com/track/5KdZLYyoBP0qsjDTDP28do"
-    },
-    {
-        "song_name": "With You",
-        "singer_name": "Mokita",
-        "added_at": "2018-10-19",
-        "album_name": "With You",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2732f391e979b5788753c5e397d",
-        "album_cover_path": "top/5Lu0vv78RmKZeBPpP1N8za.jpg",
-        "track_duration_ms": 154650,
-        "popularity": 62,
-        "track_url": "https://open.spotify.com/track/5Lu0vv78RmKZeBPpP1N8za"
     }
 ]
