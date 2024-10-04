@@ -84,7 +84,7 @@
         "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273ba1b08ff866242fa4aacc3eb",
         "album_cover_path": "favorited/2KZO634LWOlumo7bEJSh21.jpg",
         "track_duration_ms": 285115,
-        "popularity": 32,
+        "popularity": 31,
         "track_url": "https://open.spotify.com/track/2KZO634LWOlumo7bEJSh21"
     },
     {
@@ -106,7 +106,7 @@
         "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2735c4192c255c8bc918e232852",
         "album_cover_path": "favorited/28kWx8D4bkmmpyCWJTZeyu.jpg",
         "track_duration_ms": 275733,
-        "popularity": 39,
+        "popularity": 38,
         "track_url": "https://open.spotify.com/track/28kWx8D4bkmmpyCWJTZeyu"
     },
     {
@@ -348,7 +348,7 @@
         "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273c73683755dcb76b6842ab9e5",
         "album_cover_path": "favorited/2SqZD2kssuhv8QcCxbHegT.jpg",
         "track_duration_ms": 201489,
-        "popularity": 47,
+        "popularity": 46,
         "track_url": "https://open.spotify.com/track/2SqZD2kssuhv8QcCxbHegT"
     }
 ]
