@@ -1,5 +1,27 @@
 [
     {
+        "song_name": "我只在乎你",
+        "singer_name": "sodagreen",
+        "added_at": "2025-02-11T14:32:21Z",
+        "album_name": "陪我歌唱 (Live)",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273532583064cafd1008575964e",
+        "album_cover_path": "favorited/2zM92DD9Tg6ip4vzmgLomZ.jpg",
+        "track_duration_ms": 338386,
+        "popularity": 19,
+        "track_url": "https://open.spotify.com/track/2zM92DD9Tg6ip4vzmgLomZ"
+    },
+    {
+        "song_name": "我只在乎你",
+        "singer_name": "Joey Yung",
+        "added_at": "2025-02-11T14:31:24Z",
+        "album_name": "甜蜜蜜2007邓丽君金曲交响演唱会",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2730841dd3c757a6b4a7a6b1024",
+        "album_cover_path": "favorited/6UMXSTe0lnBoA6bKRUplJL.jpg",
+        "track_duration_ms": 226560,
+        "popularity": 4,
+        "track_url": "https://open.spotify.com/track/6UMXSTe0lnBoA6bKRUplJL"
+    },
+    {
         "song_name": "你要的爱",
         "singer_name": "Penny Tai",
         "added_at": "2025-02-05T05:56:53Z",
@@ -526,27 +548,5 @@
         "track_duration_ms": 254333,
         "popularity": 26,
         "track_url": "https://open.spotify.com/track/755VGXbuSWwEfQjjjNXrYj"
-    },
-    {
-        "song_name": "奇洛李维斯回信",
-        "singer_name": "Fiona Sit",
-        "added_at": "2024-05-26T07:04:17Z",
-        "album_name": "F",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2730dd618d43022b54a849c0e08",
-        "album_cover_path": "favorited/4AWVRxsHhLlLPtKuXvnprw.jpg",
-        "track_duration_ms": 242906,
-        "popularity": 44,
-        "track_url": "https://open.spotify.com/track/4AWVRxsHhLlLPtKuXvnprw"
-    },
-    {
-        "song_name": "最好的债",
-        "singer_name": "Miriam Yeung",
-        "added_at": "2024-05-26T06:38:54Z",
-        "album_name": "如果大家都拥有海",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b27363f344c8d7ac6650f072f578",
-        "album_cover_path": "favorited/5a9oEtMLbEAiopSRtXANIG.jpg",
-        "track_duration_ms": 250055,
-        "popularity": 29,
-        "track_url": "https://open.spotify.com/track/5a9oEtMLbEAiopSRtXANIG"
     }
 ]
