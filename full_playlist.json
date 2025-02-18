@@ -315,7 +315,7 @@
         "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2732bd738f12b0c96a111c4bf33",
         "album_cover_path": "album/6BrOexHwLPXqW25kISrlYQ.jpg",
         "track_duration_ms": 202849,
-        "popularity": 5,
+        "popularity": 6,
         "track_url": "https://open.spotify.com/track/6j9hgHJdAXAjSz63Ev2Pfu"
     },
     {
@@ -2009,7 +2009,7 @@
         "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2737337c5eb296df75ee5cd80d8",
         "album_cover_path": "album/3WYJ19AOGOspnWVtF4Vytv.jpg",
         "track_duration_ms": 150595,
-        "popularity": 1,
+        "popularity": 0,
         "track_url": "https://open.spotify.com/track/6W8F1lhnHAnfVuTXpqoD3N"
     },
     {
