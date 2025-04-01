@@ -370,7 +370,7 @@
         "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273ba1b08ff866242fa4aacc3eb",
         "album_cover_path": "favorited/2KZO634LWOlumo7bEJSh21.jpg",
         "track_duration_ms": 285115,
-        "popularity": 32,
+        "popularity": 33,
         "track_url": "https://open.spotify.com/track/2KZO634LWOlumo7bEJSh21"
     },
     {
@@ -474,7 +474,7 @@
     },
     {
         "song_name": "小行迹",
-        "singer_name": "赵雷",
+        "singer_name": "Zhao Lei",
         "added_at": "2024-06-02T11:30:43Z",
         "album_name": "署前街少年",
         "album_cover_url": "https://i.scdn.co/image/ab67616d0000b27385f688c0738c30b643ce49aa",
