@@ -1,19 +1,26 @@
 body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    margin: 0;
+    padding: 0;
     background-color: #121212;
     color: #fff;
     font-family: Arial, sans-serif;
-    margin: 10px 2%;
-    width:96%;
-    
-
+    display: flex;
+    justify-content: center;
 }
-.playlist {
+
+.container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
     width: 100%;
     max-width: 1200px;
+    margin: 10px 2%;
 }
+
+.playlist {
+    width: 100%;
+}
+
 table {
     width: 100%;
     border-collapse: collapse;
@@ -31,13 +38,14 @@ td {
     font-size: 14px;
     border-bottom: 1px solid #333;
 }
+
 .album-cover-container {
     position: relative;
     width: 50px;
     height: 50px;
     border-radius: 3px;
     overflow: hidden;
-    margin-right: 10px; /* Add some margin to the right of the album cover */
+    margin-right: 10px;
 }
 .album-cover {
     width: 100%;
@@ -97,6 +105,7 @@ td {
     text-align: center;
 }
 
+/* Footer 样式 */
 .footer {
     width: 100%;
     text-align: center;
@@ -105,20 +114,17 @@ td {
     padding: 20px 10px;
     margin-top: 40px;
     border-top: 1px solid #333;
-    background-color: #121212; /* 与页面背景一致 */
+    background-color: #121212;
 }
-
 .footer a {
-    color: #1db954; /* 绿色，与你的 song-name 一致 */
+    color: #1db954;
     text-decoration: none;
 }
-
 .footer a:hover {
     text-decoration: underline;
 }
 
-
-/* Mobile responsive adjustments */
+/* 移动端适配 */
 @media (max-width: 768px) {
     th, td {
         display: none;
@@ -130,5 +136,4 @@ td {
     th, td {
         text-align: left;
     }
-
 }
