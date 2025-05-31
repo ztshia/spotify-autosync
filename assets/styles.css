@@ -97,8 +97,6 @@ td {
     text-align: center;
 }
 
-.copyright{text-align:center;margin:10px 0;border:none;color:#999;font-size:14px;}
-
 /* Mobile responsive adjustments */
 @media (max-width: 768px) {
     th, td {
