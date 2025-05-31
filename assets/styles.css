@@ -98,17 +98,18 @@ td {
 }
 
 .footer {
+    width: 100%;
     text-align: center;
-    font-size: 14px;
-    color: #888;
+    font-size: 13px;
+    color: #999;
     padding: 20px 10px;
     margin-top: 40px;
-    border-top: 1px solid #eee;
-    background-color: #f9f9f9;
+    border-top: 1px solid #333;
+    background-color: #121212; /* 与页面背景一致 */
 }
 
 .footer a {
-    color: #888;
+    color: #1db954; /* 绿色，与你的 song-name 一致 */
     text-decoration: none;
 }
 
