@@ -97,36 +97,25 @@ td {
     text-align: center;
 }
 
-/* 新增底部样式 */
-        .site-footer {
-            background-color: #f8f8f8;
-            padding: 20px 0;
-            text-align: center;
-            font-size: 0.9rem;
-            color: #666;
-            border-top: 1px solid #eee;
-            margin-top: 40px;
-        }
-        
-        .footer-content {
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 0 15px;
-        }
-        
-        .copyright, .icp-record {
-            margin: 5px 0;
-            line-height: 1.6;
-        }
-        
-        .icp-record a {
-            color: #06c;
-            text-decoration: none;
-        }
-        
-        .icp-record a:hover {
-            text-decoration: underline;
-        }
+.footer {
+    text-align: center;
+    font-size: 14px;
+    color: #888;
+    padding: 20px 10px;
+    margin-top: 40px;
+    border-top: 1px solid #eee;
+    background-color: #f9f9f9;
+}
+
+.footer a {
+    color: #888;
+    text-decoration: none;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}
+
 
 /* Mobile responsive adjustments */
 @media (max-width: 768px) {
