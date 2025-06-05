@@ -17,6 +17,31 @@ body {
     margin: 10px 2%;
 }
 
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 10px;
+    border-bottom: 1px solid #333;
+    background-color: #121212;
+}
+
+.logo img {
+    height: 40px;
+}
+
+.nav a {
+    margin-left: 20px;
+    color: #fff;
+    text-decoration: none;
+    font-size: 15px;
+    transition: color 0.3s;
+}
+
+.nav a:hover {
+    color: #1db954;
+}
+
 .playlist {
     width: 100%;
 }
@@ -25,15 +50,18 @@ table {
     width: 100%;
     border-collapse: collapse;
 }
+
 th, td {
     padding: 10px;
     text-align: left;
     white-space: nowrap;
 }
+
 th {
     border-bottom: 1px solid #fff;
     font-size: 14px;
 }
+
 td {
     font-size: 14px;
     border-bottom: 1px solid #333;
@@ -47,18 +75,22 @@ td {
     overflow: hidden;
     margin-right: 10px;
 }
+
 .album-cover {
     width: 100%;
     height: 100%;
     object-fit: cover;
     transition: all 0.3s ease;
 }
+
 .album-cover-container:hover .album-cover {
     filter: blur(3px) brightness(0.5);
 }
+
 .album-cover-container:hover .popularity-overlay {
     opacity: 1;
 }
+
 .popularity-overlay {
     position: absolute;
     top: 0;
@@ -75,31 +107,39 @@ td {
     opacity: 0;
     transition: opacity 0.3s ease;
 }
+
 .song-info {
     display: flex;
     align-items: center;
 }
+
 .song-info img {
     margin-right: 10px;
 }
+
 .song-details {
     display: flex;
     flex-direction: column;
 }
+
 .song-name {
     font-weight: bold;
     color: #1db954;
 }
+
 .song-name a {
     color: inherit;
     text-decoration: none;
 }
+
 .song-name a:hover {
     text-decoration: underline;
 }
+
 .singer-name, .album-name {
     color: #b3b3b3;
 }
+
 .relative-time, .track-duration {
     color: #b3b3b3;
     text-align: center;
@@ -116,10 +156,12 @@ td {
     border-top: 1px solid #333;
     background-color: #121212;
 }
+
 .footer a {
     color: #1db954;
     text-decoration: none;
 }
+
 .footer a:hover {
     text-decoration: underline;
 }
@@ -135,5 +177,19 @@ td {
     }
     th, td {
         text-align: left;
+    }
+
+    .header {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .nav {
+        margin-top: 10px;
+    }
+
+    .nav a {
+        margin-left: 0;
+        margin-right: 15px;
     }
 }
