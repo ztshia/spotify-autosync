@@ -1,18 +1,23 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
 body {
     margin: 0;
     padding: 0;
-    overflow-x: hidden; /* 防止横向滚动 */
+    overflow-x: hidden;
     background-color: #121212;
     color: #fff;
     font-family: Arial, sans-serif;
 }
 
-
 /* Header 样式 */
 .header {
     width: 100%;
     background-color: #121212;
-    padding: 20px 10px;
+    padding: 16px;
     border-bottom: 1px solid #333;
 }
 
@@ -23,15 +28,21 @@ body {
     max-width: 1200px;
     margin: 0 auto;
     width: 100%;
+    padding: 0 12px;
+    overflow-x: hidden;
 }
 
 .logo img {
-    height: 40px;
+    height: 36px;
+    display: block;
+    max-width: 100%;
 }
 
+/* nav 样式 */
 .nav {
     display: flex;
     gap: 20px;
+    flex-wrap: nowrap;
 }
 
 .nav a {
@@ -39,6 +50,7 @@ body {
     text-decoration: none;
     font-size: 15px;
     transition: color 0.3s;
+    white-space: nowrap;
 }
 
 .nav a:hover {
@@ -48,13 +60,14 @@ body {
 .container {
     width: 100%;
     max-width: 1200px;
-    padding: 10px 16px;
+    padding: 16px;
     margin: 0 auto;
+    box-sizing: border-box;
 }
-
 
 .playlist {
     width: 100%;
+    overflow-x: auto;
 }
 
 table {
@@ -160,7 +173,7 @@ td {
     text-decoration: underline;
 }
 
-/* 移动端适配 */
+/* 响应式：移动端适配 */
 @media (max-width: 768px) {
     th, td {
         display: none;
@@ -169,18 +182,16 @@ td {
     th:nth-child(4), td:nth-child(4) {
         display: table-cell;
     }
-    th, td {
-        text-align: left;
-    }
 
     .header-inner {
         flex-direction: row;
         justify-content: space-between;
-        align-items: center;
+        padding: 0 12px;
     }
 
     .nav {
         gap: 12px;
+        flex-wrap: nowrap;
     }
 
     .nav a {
