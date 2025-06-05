@@ -18,8 +18,8 @@ body {
 .header {
     width: 100%;
     background-color: #121212;
-    margin:0 auto;
-    padding:16px 0;
+    margin:12px auto;
+    padding:20px 0;
     border-bottom: 1px solid #333;
 }
 
@@ -80,8 +80,9 @@ th, td {
     white-space: nowrap;
 }
 th {
-    border-bottom: 1px solid #fff;
+    border-bottom: 1px solid #666;
     font-size: 14px;
+    font-weight:400;
 }
 td {
     font-size: 14px;
@@ -158,19 +159,14 @@ td {
 .footer {
     width: 100%;
     text-align: center;
-    font-size: 13px;
+    font-size: 14px;
     color: #999;
-    padding: 20px 10px;
+    padding: 20px  0;
     margin-top: 40px;
-    border-top: 1px solid #333;
-    background-color: #121212;
 }
 .footer a {
     color: #1db954;
     text-decoration: none;
-}
-.footer a:hover {
-    text-decoration: underline;
 }
 
 /* 响应式：移动端适配 */
