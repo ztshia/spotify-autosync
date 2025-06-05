@@ -1,5 +1,16 @@
 [
     {
+        "song_name": "你曾是少年",
+        "singer_name": "S.H.E",
+        "added_at": "2025-06-05T11:41:31Z",
+        "album_name": "你曾是少年",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273df1bad7d6ac25de597640b60",
+        "album_cover_path": "favorited/37mHnO9B6ZqcdLyuMMwZ8R.jpg",
+        "track_duration_ms": 266651,
+        "popularity": 48,
+        "track_url": "https://open.spotify.com/track/37mHnO9B6ZqcdLyuMMwZ8R"
+    },
+    {
         "song_name": "ハート型ウイルス [no3b ver.]",
         "singer_name": "ノースリーブス",
         "added_at": "2025-05-29T23:39:34Z",
@@ -537,16 +548,5 @@
         "track_duration_ms": 267026,
         "popularity": 29,
         "track_url": "https://open.spotify.com/track/4nzEm4ymqDfbspwOL0Avfd"
-    },
-    {
-        "song_name": "一二三，三二一",
-        "singer_name": "Miriam Yeung",
-        "added_at": "2024-05-31T02:09:32Z",
-        "album_name": "One On One",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b27306e4c889a2a433387c26535a",
-        "album_cover_path": "favorited/3JoZXONUxZISt6uey2Ehwr.jpg",
-        "track_duration_ms": 312333,
-        "popularity": 24,
-        "track_url": "https://open.spotify.com/track/3JoZXONUxZISt6uey2Ehwr"
     }
 ]
