@@ -35,7 +35,7 @@ body {
 
 
 .logo img {
-    height: 36px;
+    height: 28px;
     display: block;
     max-width: 100%;
 }
@@ -48,15 +48,11 @@ body {
 }
 
 .nav a {
-    color: #fff;
+    color: #1db954;
     text-decoration: none;
     font-size: 16px;
     transition: color 0.3s;
     white-space: nowrap;
-}
-
-.nav a:hover {
-    color: #1db954;
 }
 
 .container {
