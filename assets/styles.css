@@ -11,13 +11,15 @@ body {
     background-color: #121212;
     color: #fff;
     font-family: Arial, sans-serif;
+    
 }
 
 /* Header 样式 */
 .header {
     width: 100%;
     background-color: #121212;
-    padding: 16px;
+    margin:0 auto;
+    padding:16px 0;
     border-bottom: 1px solid #333;
 }
 
@@ -48,7 +50,7 @@ body {
 .nav a {
     color: #fff;
     text-decoration: none;
-    font-size: 15px;
+    font-size: 16px;
     transition: color 0.3s;
     white-space: nowrap;
 }
