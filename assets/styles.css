@@ -5,7 +5,45 @@ body {
     color: #fff;
     font-family: Arial, sans-serif;
     display: flex;
-    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Header 样式 */
+.header {
+    width: 100%;
+    background-color: #121212;
+    padding: 20px 10px;
+    border-bottom: 1px solid #333;
+}
+
+.header-inner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    width: 100%;
+}
+
+.logo img {
+    height: 40px;
+}
+
+.nav {
+    display: flex;
+    gap: 20px;
+}
+
+.nav a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 15px;
+    transition: color 0.3s;
+}
+
+.nav a:hover {
+    color: #1db954;
 }
 
 .container {
@@ -17,46 +55,8 @@ body {
     margin: 10px 2%;
 }
 
-/* 新增的 Header 样式 */
-.header {
-    display: flex; /* 使用 Flexbox 布局 */
-    justify-content: space-between; /* logo 和导航两端对齐 */
-    align-items: center; /* 垂直居中对齐 */
-    padding: 20px 0; /* 上下内边距 */
-    border-bottom: 1px solid #333; /* 底部边框 */
-    margin-bottom: 20px; /* 底部外边距，与下方内容分隔开 */
-}
-
-.logo img {
-    height: 40px; /* 控制 logo 的高度 */
-    width: auto; /* 宽度自适应 */
-}
-
-.nav ul {
-    list-style: none; /* 移除列表默认的样式 */
-    margin: 0;
-    padding: 0;
-    display: flex; /* 让导航链接水平排列 */
-}
-
-.nav li {
-    margin-left: 20px; /* 链接之间添加间距 */
-}
-
-.nav a {
-    color: #fff; /* 链接颜色 */
-    text-decoration: none; /* 移除下划线 */
-    font-weight: bold;
-    transition: color 0.3s ease; /* 颜色过渡效果 */
-}
-
-.nav a:hover {
-    color: #1db954; /* 鼠标悬停时的颜色 */
-}
-
 .playlist {
     width: 100%;
-    flex-grow: 1; /* 让 playlist 区域填充剩余空间 */
 }
 
 table {
@@ -164,11 +164,6 @@ td {
 
 /* 移动端适配 */
 @media (max-width: 768px) {
-    /* 隐藏 header 中的导航，可以在这里添加一个汉堡菜单 */
-    .nav {
-        display: none;
-    }
-
     th, td {
         display: none;
     }
@@ -178,5 +173,19 @@ td {
     }
     th, td {
         text-align: left;
+    }
+
+    .header-inner {
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .nav {
+        gap: 12px;
+    }
+
+    .nav a {
+        font-size: 14px;
     }
 }

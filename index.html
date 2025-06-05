@@ -9,21 +9,20 @@
     <link rel="stylesheet" href="/assets/styles.css" />
 </head>
 <body>
-    <div class="container">
-        <header class="header">
+    <header class="header">
+        <div class="header-inner">
             <div class="logo">
-                <a href="/">
-                    <img src="/assets/logo.png" alt="階上生活 Logo"> </a>
+                <a href="/"><img src="/assets/logo.png" alt="階上生活" /></a>
             </div>
             <nav class="nav">
-                <ul>
-                    <li><a href="/">主页</a></li>
-                    <li><a href="/about.html">关于</a></li>
-                    <li><a href="/contact.html">联系</a></li>
-                    </ul>
+                <a href="/">首页</a>
+                <a href="/playlist.html">自选集</a>
+                <a href="/about.html">关于</a>
             </nav>
-        </header>
+        </div>
+    </header>
 
+    <div class="container">
         <div class="playlist" id="playlist">
             <table>
                 <thead>
@@ -36,7 +35,8 @@
                     </tr>
                 </thead>
                 <tbody id="playlist-body">
-                    </tbody>
+                    <!-- 动态生成内容 -->
+                </tbody>
             </table>
         </div>
 
