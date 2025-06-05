@@ -1,13 +1,12 @@
 body {
     margin: 0;
     padding: 0;
+    overflow-x: hidden; /* 防止横向滚动 */
     background-color: #121212;
     color: #fff;
     font-family: Arial, sans-serif;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
 }
+
 
 /* Header 样式 */
 .header {
@@ -47,13 +46,12 @@ body {
 }
 
 .container {
-    display: flex;
-    flex-direction: column;
-    min-height: 100vh;
     width: 100%;
     max-width: 1200px;
-    margin: 10px 2%;
+    padding: 10px 16px;
+    margin: 0 auto;
 }
+
 
 .playlist {
     width: 100%;
