@@ -20,7 +20,7 @@ body {
     background-color: #121212;
     margin:12px auto;
     padding:20px 0;
-    border-bottom: 1px solid #333;
+    border-bottom: 1px solid #222;
 }
 
 .header-inner {
@@ -76,13 +76,13 @@ th, td {
     white-space: nowrap;
 }
 th {
-    border-bottom: 1px solid #666;
+    border-bottom: 1px solid #222;
     font-size: 14px;
     font-weight:400;
 }
 td {
     font-size: 14px;
-    border-bottom: 1px solid #333;
+    border-bottom: 1px solid #222;
 }
 
 .album-cover-container {
