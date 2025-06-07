@@ -120,6 +120,5 @@ async function fetchTasteAnalysis() {
     }
 }
 
-
 document.addEventListener('DOMContentLoaded', fetchTasteAnalysis);
 

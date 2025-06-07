@@ -155,12 +155,12 @@ td {
     background-color: #1e1e1e;
     margin-top: 40px;
     padding: 20px;
-    border-radius: 8px;
+
 }
 .taste-analysis h2 {
     color: #1db954;
     font-size: 18px;
-    margin:12px 0;
+    margin-top:12px;
     padding:0;
 }
 .taste-analysis p {
@@ -169,6 +169,10 @@ td {
     margin: 6px 0;
 }
 
+::selection {
+    background: #1db954;
+    color: #fff
+}
 
 /* Footer 样式 */
 .footer {
