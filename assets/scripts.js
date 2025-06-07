@@ -99,8 +99,6 @@ function formatRelativeTime(datetime) {
     }
 }
 
-fetchPlaylist();
-
 async function fetchTasteAnalysis() {
     try {
         const response = await fetch('./taste.json');
@@ -108,12 +106,10 @@ async function fetchTasteAnalysis() {
         const container = document.getElementById('taste-summary');
 
         const content = `
-            <p><strong>主要歌手：</strong> ${taste.main_artists?.join(', ')}</p>
-            <p><strong>语言偏好：</strong> ${taste.languages?.join(', ')}</p>
-            <p><strong>年代偏好：</strong> ${taste.years?.join(', ')}</p>
-            <p><strong>风格偏好：</strong> ${taste.styles?.join(', ')}</p>
-            <p><strong>整体偏好总结：</strong> ${taste.overall_preference}</p>
-            <p><strong>代表性歌曲：</strong> ${taste.representative_songs?.join(', ')}</p>
+            <p><strong>总结：</strong> ${taste.summary || ''}</p>
+            <p><strong>风格：</strong> ${taste.genres?.join(', ') || ''}</p>
+            <p><strong>情绪：</strong> ${taste.moods?.join(', ') || ''}</p>
+            <p><strong>详细描述：</strong> ${taste.description || ''}</p>
         `;
 
         container.innerHTML = content;
@@ -122,5 +118,4 @@ async function fetchTasteAnalysis() {
     }
 }
 
-document.addEventListener('DOMContentLoaded', fetchTasteAnalysis);
 
