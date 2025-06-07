@@ -169,6 +169,12 @@ td {
     margin: 6px 0;
 }
 
+.taste-analysis p strong {
+    color: #1db954;
+    font-weight: 600;
+}
+
+
 ::selection {
     background: #1db954;
     color: #fff
