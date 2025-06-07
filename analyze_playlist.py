@@ -14,11 +14,12 @@ prompt = f"""
 
 输出一份 taste.json，格式为：
 {{
-  "summary": "你的总体品味概述",
-  "genres": ["流派A", "流派B"],
-  "moods": ["情绪A", "情绪B"],
-  "description": "更详细的描述"
+  "summary": "你的总体品味概述，约500字的一段话",
+  "genres": ["流派A", "流派B"],
+  "moods": ["情绪A", "情绪B"],
+  "description": "更详细的描述，可能的用户画像，不少于2000字的几段话"
 }}
+
 """
 
 # 调用 DeepSeek
