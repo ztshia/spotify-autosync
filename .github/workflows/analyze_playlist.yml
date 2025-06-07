@@ -1,10 +1,9 @@
 name: Analyze Playlist
 
 on:
-  push:
-    paths:
-      - 'liked_tracks.json'
-  workflow_dispatch:  # 👈 允许手动触发
+  schedule:
+    - cron: '*/5 * * * *'  # 每隔5分钟运行一次，可根据需要调整
+  workflow_dispatch:  # 手动触发
 
 jobs:
   analyze:
