@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - 'liked_tracks.json'
+  workflow_dispatch:  # 👈 允许手动触发
 
 jobs:
   analyze:
