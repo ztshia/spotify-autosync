@@ -151,6 +151,24 @@ td {
     text-align: center;
 }
 
+.taste-analysis {
+    background-color: #1e1e1e;
+    margin-top: 40px;
+    padding: 20px;
+    border-radius: 8px;
+}
+.taste-analysis h2 {
+    color: #1db954;
+    font-size: 20px;
+    margin-bottom: 12px;
+}
+.taste-analysis p {
+    font-size: 14px;
+    color: #ccc;
+    margin: 6px 0;
+}
+
+
 /* Footer 样式 */
 .footer {
     width: 100%;
