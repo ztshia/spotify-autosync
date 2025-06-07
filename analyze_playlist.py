@@ -1,7 +1,7 @@
 import json
 from openai import OpenAI
 
-client = OpenAI(base_url="https://api.deepseek.com/v1", api_key="DEEPSEEK_API_KEY")
+client = OpenAI(base_url="https://api.deepseek.com/v1", api_key="sk-d7aaf190677c4155980e44e79eb9739a")
 
 # 加载你的 Spotify 数据
 with open("liked_tracks.json", "r", encoding="utf-8") as f:
