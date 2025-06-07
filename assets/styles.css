@@ -159,12 +159,13 @@ td {
 }
 .taste-analysis h2 {
     color: #1db954;
-    font-size: 20px;
-    margin-bottom: 12px;
+    font-size: 18px;
+    margin:12px 0;
+    padding:0;
 }
 .taste-analysis p {
-    font-size: 14px;
-    color: #ccc;
+    font-size: 15px;
+    color: #b3b3b3;
     margin: 6px 0;
 }
 
@@ -174,7 +175,7 @@ td {
     width: 100%;
     text-align: center;
     font-size: 14px;
-    color: #999;
+    color: #b3b3b3;
     padding: 20px  0;
     margin-top: 40px;
 }
