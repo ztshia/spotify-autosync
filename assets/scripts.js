@@ -99,6 +99,8 @@ function formatRelativeTime(datetime) {
     }
 }
 
+fetchPlaylist();
+
 async function fetchTasteAnalysis() {
     try {
         const response = await fetch('./taste.json');
@@ -118,4 +120,6 @@ async function fetchTasteAnalysis() {
     }
 }
 
+
+document.addEventListener('DOMContentLoaded', fetchTasteAnalysis);
 
