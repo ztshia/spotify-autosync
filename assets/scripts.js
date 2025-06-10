@@ -111,7 +111,7 @@ async function fetchTasteAnalysis() {
             <p><strong>总结：</strong> ${taste.summary || ''}</p>
             <p><strong>风格：</strong> ${taste.genres?.join(', ') || ''}</p>
             <p><strong>情绪：</strong> ${taste.moods?.join(', ') || ''}</p>
-            <p><strong>详细描述：</strong> ${taste.description || ''}</p>
+            <p><strong>画像：</strong> ${taste.description || ''}</p>
         `;
 
         container.innerHTML = content;
