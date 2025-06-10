@@ -18,8 +18,8 @@ body {
 .header {
     width: 100%;
     background-color: #121212;
-    margin:12px auto;
-    padding:20px 0;
+    margin:20px auto 40px;
+    padding:40px 0;
     border-bottom: 1px solid #222;
 }
 
@@ -148,7 +148,6 @@ td {
 }
 .relative-time, .track-duration {
     color: #b3b3b3;
-    text-align: center;
 }
 
 .taste-analysis {
@@ -168,6 +167,12 @@ td {
     color: #b3b3b3;
     margin: 6px 0;
 }
+
+.taste-analysis p strong {
+    color: #1db954;
+    font-weight: 600;
+}
+
 
 ::selection {
     background: #1db954;
