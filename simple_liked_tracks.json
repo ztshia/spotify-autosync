@@ -1,5 +1,10 @@
 [
     {
+        "song_name": "目撃者(TeamA)",
+        "singer_name": "AKB48",
+        "added_at": "2025-06-10T13:28:49Z"
+    },
+    {
         "song_name": "体育西路",
         "singer_name": "刘莉旻",
         "added_at": "2025-06-10T04:24:48Z"
@@ -243,10 +248,5 @@
         "song_name": "小行迹",
         "singer_name": "Zhao Lei",
         "added_at": "2024-06-02T11:30:43Z"
-    },
-    {
-        "song_name": "匿名的好友",
-        "singer_name": "Rainie Yang",
-        "added_at": "2024-05-31T07:14:46Z"
     }
 ]
