@@ -173,6 +173,11 @@ td {
     font-weight: 600;
 }
 
+.melody img{
+    width:100%;
+    border-radius:4px;        
+}
+
 
 ::selection {
     background: #1db954;
