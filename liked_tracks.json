@@ -1,5 +1,16 @@
 [
     {
+        "song_name": "听袁惟仁弹吉他",
+        "singer_name": "S.H.E",
+        "added_at": "2025-06-14T23:17:58Z",
+        "album_name": "Play",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b27362058e652a1badad51933779",
+        "album_cover_path": "favorited/24WdgYacPn752115VPwlek.jpg",
+        "track_duration_ms": 261920,
+        "popularity": 32,
+        "track_url": "https://open.spotify.com/track/24WdgYacPn752115VPwlek"
+    },
+    {
         "song_name": "目撃者(TeamA)",
         "singer_name": "AKB48",
         "added_at": "2025-06-10T13:28:49Z",
@@ -537,16 +548,5 @@
         "track_duration_ms": 204906,
         "popularity": 46,
         "track_url": "https://open.spotify.com/track/5AwdQtK9c0ogafVxM8EWte"
-    },
-    {
-        "song_name": "小行迹",
-        "singer_name": "Zhao Lei",
-        "added_at": "2024-06-02T11:30:43Z",
-        "album_name": "署前街少年",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b27385f688c0738c30b643ce49aa",
-        "album_cover_path": "favorited/0FDZioXKSRIIqu92ZeYeeI.jpg",
-        "track_duration_ms": 277493,
-        "popularity": 36,
-        "track_url": "https://open.spotify.com/track/0FDZioXKSRIIqu92ZeYeeI"
     }
 ]
