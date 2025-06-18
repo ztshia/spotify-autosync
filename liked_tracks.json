@@ -128,7 +128,7 @@
         "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273ba16f5c6c4e2d873996a81a7",
         "album_cover_path": "favorited/2AwYywTNbeiWqQcLqt8UwP.jpg",
         "track_duration_ms": 242440,
-        "popularity": 62,
+        "popularity": 63,
         "track_url": "https://open.spotify.com/track/2AwYywTNbeiWqQcLqt8UwP"
     },
     {
@@ -249,7 +249,7 @@
         "album_cover_url": "https://i.scdn.co/image/ab67616d0000b27307edf9e9a545520bd0ccb737",
         "album_cover_path": "favorited/5Eleds9x91q3aKjxUACKas.jpg",
         "track_duration_ms": 257959,
-        "popularity": 1,
+        "popularity": 0,
         "track_url": "https://open.spotify.com/track/5Eleds9x91q3aKjxUACKas"
     },
     {
