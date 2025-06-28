@@ -194,7 +194,7 @@
         "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273f96459ab5c2ea5746b384119",
         "album_cover_path": "album/2UH6sHH4pTYptATEts4ri4.jpg",
         "track_duration_ms": 300357,
-        "popularity": 30,
+        "popularity": 31,
         "track_url": "https://open.spotify.com/track/7MZntt73sRKP0R8kWLo1ba"
     },
     {
@@ -612,7 +612,7 @@
         "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273752b2c2378ef8b402cb4525f",
         "album_cover_path": "album/4F3JL7eoeZQj2hFs1vEjig.jpg",
         "track_duration_ms": 202162,
-        "popularity": 17,
+        "popularity": 18,
         "track_url": "https://open.spotify.com/track/2IJ1nl9nNUcPxrnuNfi4vl"
     },
     {
@@ -1437,7 +1437,7 @@
         "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273c76fb74c24f92e837004d44d",
         "album_cover_path": "album/1sT13lVQIEHAtT9eG424KI.jpg",
         "track_duration_ms": 292493,
-        "popularity": 57,
+        "popularity": 58,
         "track_url": "https://open.spotify.com/track/08JBW4HERcff7qfkfNJyMn"
     },
     {
@@ -1899,7 +1899,7 @@
         "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273eb297d3245c8d9f53358296e",
         "album_cover_path": "album/5YKPJa7K3n7TtLZHvr3UkB.jpg",
         "track_duration_ms": 270933,
-        "popularity": 32,
+        "popularity": 33,
         "track_url": "https://open.spotify.com/track/2EZv00m1FjQTvTzOmhqo9x"
     },
     {
@@ -2724,7 +2724,7 @@
         "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273c6a3678b061e8586d7a13db6",
         "album_cover_path": "album/2an2zDcyPnHZgodDzgxZj2.jpg",
         "track_duration_ms": 222640,
-        "popularity": 69,
+        "popularity": 70,
         "track_url": "https://open.spotify.com/track/23atyJacJVHvB9RHBNhr35"
     },
     {
@@ -2878,7 +2878,7 @@
         "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273f30831f5c49d570b46ec8570",
         "album_cover_path": "album/7qPeOcSdZjHCaHcG5L6xPC.jpg",
         "track_duration_ms": 265826,
-        "popularity": 55,
+        "popularity": 56,
         "track_url": "https://open.spotify.com/track/6vqGGV7ZGWYFRg5EtlcuN5"
     },
     {
@@ -2955,7 +2955,7 @@
         "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273e6a66c247d55227b5b8ac3b2",
         "album_cover_path": "album/0mny4gpXw4bx8Lpdwv7k99.jpg",
         "track_duration_ms": 227014,
-        "popularity": 1,
+        "popularity": 0,
         "track_url": "https://open.spotify.com/track/3tViuKivENltG971r4Gh4H"
     },
     {
@@ -3010,7 +3010,7 @@
         "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2734e5e70c8920c21821a7e7efc",
         "album_cover_path": "album/4ob5Zcu47VBio0NHnuxpgf.jpg",
         "track_duration_ms": 322573,
-        "popularity": 46,
+        "popularity": 47,
         "track_url": "https://open.spotify.com/track/7yORKhsiAJB0jKaPiASEf1"
     }
 ]
