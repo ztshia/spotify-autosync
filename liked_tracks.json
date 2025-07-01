@@ -1,5 +1,16 @@
 [
     {
+        "song_name": "Story",
+        "singer_name": "Kana Nishino",
+        "added_at": "2025-07-01T10:54:02Z",
+        "album_name": "Believe",
+        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273a57225656e2f2a9afa5b4c82",
+        "album_cover_path": "favorited/0tpgod6jqJGa9hI8qGCJqD.jpg",
+        "track_duration_ms": 240120,
+        "popularity": 27,
+        "track_url": "https://open.spotify.com/track/0tpgod6jqJGa9hI8qGCJqD"
+    },
+    {
         "song_name": "又见炊烟",
         "singer_name": "Faye Wong",
         "added_at": "2025-06-26T02:41:11Z",
@@ -537,16 +548,5 @@
         "track_duration_ms": 317640,
         "popularity": 27,
         "track_url": "https://open.spotify.com/track/1Ax9yT5o9RJ4IUjbK4mNaF"
-    },
-    {
-        "song_name": "秘密",
-        "singer_name": "Zhang Zhen Yue",
-        "added_at": "2024-06-10T17:24:47Z",
-        "album_name": "这个下午很无聊",
-        "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2734e5e70c8920c21821a7e7efc",
-        "album_cover_path": "favorited/7yORKhsiAJB0jKaPiASEf1.jpg",
-        "track_duration_ms": 322573,
-        "popularity": 47,
-        "track_url": "https://open.spotify.com/track/7yORKhsiAJB0jKaPiASEf1"
     }
 ]
